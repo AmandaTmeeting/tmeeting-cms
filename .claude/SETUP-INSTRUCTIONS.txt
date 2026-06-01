@@ -1,0 +1,86 @@
+# SETUP INSTRUCTIONS — Phase 2b (Next.js ↔ Strapi Connection)
+
+## What this phase does
+
+Connects the Next.js frontend (`tmeeting.com`) to the Strapi CMS (`tmeeting-cms`). Replaces all hardcoded markdown data sources with Strapi API fetches. After Phase 2b, the site builds entirely from Strapi content.
+
+## Prerequisites
+
+- Phase 2a complete: Strapi running locally at http://localhost:1337, all content seeded
+- Phase 1 frontend complete: all 25 routes exist, i18n done
+- Read-only API token created in Strapi admin (from P2A-05)
+
+## Before starting
+
+**1. Add your API token to tmeeting.com**
+
+In `tmeeting.com/`, create `.env.local`:
+```
+NEXT_PUBLIC_STRAPI_API_URL=http://localhost:1337/api
+STRAPI_API_TOKEN=paste_your_readonly_token_here
+```
+
+**2. Keep Strapi running during builds**
+
+Every `pnpm build` needs Strapi running. Before building, in a separate terminal:
+```bash
+cd tmeeting-cms
+npm run develop
+```
+
+## Folder for Claude Code
+
+Open Claude Code in `tmeeting.com/` (the Next.js project). NOT in tmeeting-cms.
+
+Place this config pack in `tmeeting.com/`:
+```
+tmeeting.com/
+├── .claude/
+│   ├── claude-config/
+│   │   ├── CTX-01-phase2b.md
+│   │   ├── CTX-02-types.md
+│   │   └── CTX-03-data-layer.md
+│   └── prompts/
+│       ├── P2B-01-strapi-client.md
+│       ├── P2B-02-products.md
+│       ├── P2B-03-tjanster.md
+│       ├── P2B-04-nyheter.md
+│       └── P2B-05-support-final.md
+```
+
+## Execution order
+
+| # | Prompt | What it does |
+|---|---|---|
+| 01 | strapi-client | Install blocks-react-renderer, create types, replace strapiClient.ts, test connection |
+| 02 | products | ProductsListing + Contents + TableOfContent refactor, delete product markdown |
+| 03 | tjanster | TjansterListing + Contents refactor, delete tjanster markdown |
+| 04 | nyheter | Blog components refactor, delete blog markdown |
+| 05 | support-final | driftstatus + manualer Strapi, delete system-status.ts, final build |
+
+## General starting prompt (use for every session)
+
+```
+Read the following context files before doing anything:
+- .claude/claude-config/CTX-01-phase2b.md
+- .claude/claude-config/CTX-02-types.md
+- .claude/claude-config/CTX-03-data-layer.md
+
+Then read the prompt file for today's session:
+- .claude/prompts/P2B-[XX]-[name].md
+
+After reading everything, output a plan listing every file you will create or modify and what you will do to each one. Do not write any code yet. Wait for me to say "Approved" before proceeding.
+```
+
+## Session rules
+
+- Fresh Claude Code session per prompt
+- Strapi must be running before `pnpm build`
+- After each prompt: `pnpm build` must pass with 0 errors
+- Never change `next.config.ts` core settings
+- Only new package allowed: `@strapi/blocks-react-renderer` (installed in P2B-01)
+- Locale is hardcoded to `'sv'` for now — Phase 2c adds locale routing
+
+## After Phase 2b
+
+The site builds entirely from Strapi. All markdown files deleted. Come back for Phase 2c: locale routing + language switcher.

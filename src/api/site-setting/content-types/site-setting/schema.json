@@ -1,0 +1,71 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_settings",
+  "info": {
+    "singularName": "site-setting",
+    "pluralName": "site-settings",
+    "displayName": "Site Setting"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "companyName": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "legalName": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "tagline": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "email": {
+      "type": "email",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "salesEmail": {
+      "type": "email",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "phone": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "address": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "spotifyEmbedUrl": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "facebookUrl": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "twitterUrl": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "instagramUrl": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "youtubeUrl": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "footerCopyright": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    }
+  }
+}

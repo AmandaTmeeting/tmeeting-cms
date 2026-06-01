@@ -1,0 +1,61 @@
+{
+  "kind": "collectionType",
+  "collectionName": "support_documents",
+  "info": {
+    "singularName": "support-document",
+    "pluralName": "support-documents",
+    "displayName": "Support Document"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true,
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "docType": {
+      "type": "enumeration",
+      "enum": ["manual", "download", "faq"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "version": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "file": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["files", "images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "externalUrl": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "productName": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "displayOrder": {
+      "type": "integer",
+      "pluginOptions": { "i18n": { "localized": false } }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_status_changelog_entries",
+  "info": {
+    "displayName": "Changelog Entry",
+    "icon": "list"
+  },
+  "options": {},
+  "attributes": {
+    "version": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "description": {
+      "type": "text"
+    },
+    "entryType": {
+      "type": "enumeration",
+      "enum": ["feature", "fix", "maintenance"]
+    }
+  }
+}

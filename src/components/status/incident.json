@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_status_incidents",
+  "info": {
+    "displayName": "Incident",
+    "icon": "exclamation-circle"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "incidentStatus": {
+      "type": "enumeration",
+      "enum": ["investigating", "identified", "monitoring", "resolved"]
+    },
+    "date": {
+      "type": "date"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

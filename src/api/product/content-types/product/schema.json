@@ -1,0 +1,71 @@
+{
+  "kind": "collectionType",
+  "collectionName": "products",
+  "info": {
+    "singularName": "product",
+    "pluralName": "products",
+    "displayName": "Product"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name",
+      "required": true,
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "shortDescription": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "description": {
+      "type": "blocks",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "icon": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "market": {
+      "type": "enumeration",
+      "enum": ["SE", "NO", "BOTH"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "heroImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "cardImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "seoTitle": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "seoDescription": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "displayOrder": {
+      "type": "integer",
+      "pluginOptions": { "i18n": { "localized": false } }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_status_systems",
+  "info": {
+    "displayName": "System",
+    "icon": "server"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": ["operational", "degraded", "down", "maintenance"]
+    },
+    "uptime": {
+      "type": "decimal"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
