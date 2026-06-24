@@ -1,0 +1,33 @@
+{
+  "url": "https://www.tmeeting.se/tjänster/ringdirekte",
+  "type": "service",
+  "slug": "ringdirekte",
+  "pathSegments": [
+    "tjänster",
+    "ringdirekte"
+  ],
+  "locale": "no",
+  "title": "Ring Direkte (NO)",
+  "ogDescription": "Med Ring Direkte slås bildetolk/skrivetolk automatisk på når du ringer.",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ring Direkte (NO) ",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 27
+}

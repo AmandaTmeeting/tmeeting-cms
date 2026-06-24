@@ -1,0 +1,119 @@
+{
+  "url": "https://www.tmeeting.se/article/nyhet-flerspråkig-autotextning",
+  "type": "news-article",
+  "slug": "nyhet-flersprakig-autotextning",
+  "pathSegments": [
+    "article",
+    "nyhet-flerspråkig-autotextning"
+  ],
+  "locale": "sv",
+  "title": "Nyhet: flerspråkig autotextning",
+  "ogDescription": "TERA kan nu automatiskt texta samtal i realtid på över 40 språk. Den nya funktionen ingår utan extra kostnad för alla befintliga och nya TERA-användare.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp",
+  "publishDate": "2026-05-22T12:09:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA kan nu automatiskt texta samtal i realtid på över 40 språk. Texten kan visas på det språk som talas eller på ett språk användaren själv väljer. Språket identifieras automatiskt under samtalet. Den nya funktionen ingår utan extra kostnad för alla befintliga och nya TERA-användare."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Såhär aktiverar du funktionen (det finns fyra olika alternativ, beroende på situation):"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/1194291043?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/1194291043?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/1194291041?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/1194291041?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/1194291042?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/1194291042?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/1194291040?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/1194291040?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/1194291043?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/1194291041?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/1194291042?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/1194291040?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 750
+}

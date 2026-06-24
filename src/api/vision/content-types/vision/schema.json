@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "vision",
+  "info": {
+    "singularName": "vision",
+    "pluralName": "visions",
+    "displayName": "Vision",
+    "description": "All editable content on the /om-oss/vision page."
+  },
+  "options": { "draftAndPublish": true },
+  "pluginsOptions": { "i18n": { "localized": true } },
+  "attributes": {
+    "heroH1": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroLead": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "tillganglighetH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "tillganglighetBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "digitaliseringH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "digitaliseringBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } }
+  }
+}

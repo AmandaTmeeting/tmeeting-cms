@@ -1,0 +1,93 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepage",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "Homepage",
+    "description": "All editable content on the T-Meeting homepage."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginsOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "heroHeading": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "heroBody": {
+      "type": "text",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "heroImage": {
+      "allowedTypes": ["images"],
+      "type": "media",
+      "multiple": false
+    },
+    "heroVideo": {
+      "allowedTypes": ["videos"],
+      "type": "media",
+      "multiple": false
+    },
+    "heroButtons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "homepage.cta-button",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "productsHeading": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "productsReadMore": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "productCards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "homepage.product-card",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "howToApplyHeading": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "howToApplyBlock1Heading": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "howToApplyBlock1Body": {
+      "type": "blocks",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "howToApplyBlock2Heading": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "howToApplyBlock2Body": {
+      "type": "blocks",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "podcastBadge": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "podcastHeading": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "podcastBody": {
+      "type": "text",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "podcastEmbedUrl": {
+      "type": "string"
+    }
+  }
+}

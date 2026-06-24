@@ -1,0 +1,86 @@
+{
+  "url": "https://www.tmeeting.se/article/döva-på-boenden-behöver-egen-telefon",
+  "type": "news-article",
+  "slug": "dova-pa-boenden-behover-egen-telefon",
+  "pathSegments": [
+    "article",
+    "döva-på-boenden-behöver-egen-telefon"
+  ],
+  "locale": "sv",
+  "title": "Döva på boenden behöver egen telefon",
+  "ogDescription": "En döv på ett boende som behöver en egen bildtelefon har rätt till detta, precis som alla andra som har egen telefon.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp",
+  "publishDate": "2020-05-06T09:49:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "En döv på ett boende som behöver en egen bildtelefon har rätt till detta, precis som alla andra som har egen telefon. T-Meeting har både bildtelefoner och lösningar för hörselskadade och talskadade. De fungerar på likadant sätt. Det gör det lätt för omsorgspersonal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det händer att avdelningar på äldreboende beslutar om besöksförbud på grund av smitta. Det kan vara magsjuka eller som nu covid-19. I sådana situationer är telefonen extra viktig. Även döva har rätt till egen bildtelefon om de behöver det. Det är viktigt för alla att veta om att bildtelefoner förskrivs som hjälpmedel av regionerna i Sverige. Hjälpmedlet är personligt. Bildtelefoner går också att få som arbetshjälpmedel från Arbetsförmedlingen och Försäkringskassan för teckenspråkig personal med behov. Om avdelninges äldreboende själva skaffar bildtelefon får kommunen stå för detta. Det kan vara bra att ha när man vill ha digitala träffar, exempelvis \"mini-café på distans\". Det går också att koppla in tolk i ett samtal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA är ett hjälpmedel för allt fler. Döva, gravt hörselskadade och dövblinda såklart, men också för de med lättare hörseskador eller om man har svårt för att tala. Även personer med behov av kognitivt stöd i form av exempelvis video, ljud, text och AI-textning har nytta av TERA. TERA fungerar på samma sätt som andra bildtelefoner så det är enkelt att anpassa efter användarens/avdelningens behov. När alla använder samma teknik blir det lätt att lära och använda."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Om detta och mer skriver ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://www.lidol.se/dova-pa-boenden-behover-egen-telefon/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lidol i sitt senaste blogginlägg"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Läs gärna mer där.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting är personlösningar enligt öppen standard samt inkluderande infrastrukturlösning:"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1621
+}

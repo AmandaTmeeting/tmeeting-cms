@@ -1,0 +1,51 @@
+{
+  "url": "https://www.tmeeting.se/article/dövas-dag-2025",
+  "type": "news-article",
+  "slug": "dovas-dag-2025",
+  "pathSegments": [
+    "article",
+    "dövas-dag-2025"
+  ],
+  "locale": "sv",
+  "title": "Dövas dag 2025",
+  "ogDescription": "Vi på T-Meeting deltog på årets Dövas Dag – en dag fylld av inspiration, gemenskap och nya möten.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp",
+  "publishDate": "2025-10-08T09:32:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi på T-Meeting deltog på årets Dövas Dag – en dag fylld av inspiration, gemenskap och nya möten."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det blev en glädjefylld dag med intressanta föreläsningar, engagerande samtal och många härliga möten. Vi uppskattar verkligen att få ta del av så mycket kunskap, erfarenheter och perspektiv – och att få visa hur våra lösningar kan göra kommunikation mer tillgänglig för alla."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi ser redan fram emot nästa års Dövas Dag – och hoppas att vi ses då!"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 470
+}

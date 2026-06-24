@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tmeeting.se/tjänster/tillganglig_kundtjanst",
+  "type": "service",
+  "slug": "tillganglig-kundtjanst",
+  "pathSegments": [
+    "tjänster",
+    "tillganglig_kundtjanst"
+  ],
+  "locale": "sv",
+  "title": "Tillgänglig kundtjäst",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 0
+}

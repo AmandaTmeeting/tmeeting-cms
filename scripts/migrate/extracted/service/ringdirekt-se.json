@@ -1,0 +1,42 @@
+{
+  "url": "https://www.tmeeting.se/tjänster/ringdirekt-se",
+  "type": "service",
+  "slug": "ringdirekt-se",
+  "pathSegments": [
+    "tjänster",
+    "ringdirekt-se"
+  ],
+  "locale": "sv",
+  "title": "Ring Direkt (SE)",
+  "ogDescription": "Med Ring Direkt kan du ringa vem som helst medan en text/videotolk automatiskt kopplas in i samtalet.",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ring Direkt (SE)",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Tjänsten är för närvarande endast tillgänglig i Norge via NAV (Norwegian Labour and Welfare Administration)."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 142
+}

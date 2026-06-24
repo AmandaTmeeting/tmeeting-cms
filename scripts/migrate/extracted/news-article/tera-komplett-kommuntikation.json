@@ -1,0 +1,407 @@
+{
+  "url": "https://www.tmeeting.se/article/tera-komplett-kommuntikation",
+  "type": "news-article",
+  "slug": "tera-komplett-kommuntikation",
+  "pathSegments": [
+    "article",
+    "tera-komplett-kommuntikation"
+  ],
+  "locale": "sv",
+  "title": "TERA - Komplett Kommunikation",
+  "ogDescription": "TERA har inbyggd automatisk textning och talsyntes, TERA-AI som bygger på AI/ML (Machine Learning). TERA har utvecklats från T-Meetings hjälpmedel för döva, dövblinda och hörselskadade och har därför även video.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp",
+  "publishDate": "2020-04-01T19:30:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har fått frågor om vad TERA är, vad TERA-AI är och skillnaden. Här beskriver vi TERA och genom detta vill vi också öka förståelsen för vad Komplett Kommunikation är.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA har inbyggd automatisk textning och talsyntes, TERA-AI som bygger på AI/ML (Machine Learning). TERA har utvecklats från T-Meetings hjälpmedel för döva, dövblinda och hörselskadade och har därför även video. Både video och ljud är i HD-kvalitet för att möta våra användares krav. Idag är TERA stöd även för personer som behöver kognitivt stöd (äldre och andra) samt de med talsvårigheter/talskada. Appens enkelhet bidrar till ökad självständighet, välbefinnande och hälsa. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA är idag den enda tillgängliga tjänsten för hörselvarierade som fungerar som vanlig telefoni. Vad som länge varit självklart för de flesta är nu möjligt för långt många fler. Det kan vara att prata med sköterskan på vårdcentralen, ringa socialsekreteraren eller dela med sig av kontaktuppgifter/visitkort på ett sätt som andra är vana vid. TERA förskrivs som hjälpmedel i regioner idag."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Organisationer som vill vara tillgängliga och arbeta smartare har också nytta av TERA. Det går att nu bättre möta anställda och användares behov. Flexibiliteten gör att att TERA kan användas av samma person även när behovet förändras. TERA bygger på öppen standard och bygger på "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Meeting:s plattform"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "1. Ring istället för att åka ut själv: Textade telefonsamtal"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "En hörselskadad eller döv TERA-användare kan ringa vem den vill precis som alla andra. Det mottagaren säger textas automatiskt. Mottagaren behöver inte ha någon särskild app. Mottagaren behöver inte ens veta om att detta inte är ett vanligt telefonsamtal. Texten sparas vilket hjälper dig att minnas konversationen efteråt. TERA finns för "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-touch",
+          "children": [
+            {
+              "type": "text",
+              "text": "läsplatta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " och "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-mobile",
+          "children": [
+            {
+              "type": "text",
+              "text": "smartphone"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "2. Nå andra och bli nådd från hemmet: Ring Direkt-telefoni"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Användaren kan ringa andra, men kan också bli uppringd. Det är tack vare TERAs Ring Direkt-funktion. Användaren får ett eget telefonnummer. Nåbarhet går åt två håll. Det går också att nyttja telefonitjänster som 1177,113 13 och Försäkringskassan. Inbyggd DTMF (tonval) gör detta möjligt. Användaren kan alltså knappa sig vidare med tonval enligt instruktion, knappa in personnummer eller välja att bli uppringd. Bra till exempel för att kunna boka en läkartid. Dessutom kan en hörselvarierad som annars inte kan använda telefon nu ha ett vårdsamtal med sin läkare via telefon. Allt detta kan användaren göra hemifrån och helt självständigt."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/402499901?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/402499901?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "3. Alltid omedelbar tillgång till skrivtolk på plats: Lokal textning"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA-Local"
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-local",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "textar det som sägs i rummet. Det är mycket användbart som komplement till en skrivtolk för en patient som besöker vården eller är inlagd. Ibland är det bra att ha så få personer inblandade som möjligt. TERA-Local går också att använda i samtal med ambulanspersonal, taxichaufför, i receptionen och med läkaren. En bonus är att all text sparas om så önskas. Det blir enkelt att komma ihåg vad som är sagt med "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-local",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA Local"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/402555283?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/402555283?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/369284692?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/369284692?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "4. Klara av vård på distans - Kombinera Tal-till-text med video"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA kombinerar automatisk textning för hörselskadade med video och ljud av hög HD-kvalitet. Användaren ser mottagaren under samtalet och kan känna sig helt säker på vem som är i andra änden. Texten stärker hörförståelsen och minskar hörselstress för hörselskadade. Det gör att användaren orkar ha längre och fler samtal. Det blir också färre missförstånd, och det är särskilt viktigt vid vårdbesök på distans."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "5. Döv ringer vanligt telefonsamtal: Automatisk textning & Talsyntes"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Döva som känner sig hemma i textformatet men inte bekväma med att tala, kan använda TERA för både Tal-till-text och Text-till-tal. Användaren skriver ner det som den vill att TERA ska säga och det som mottagaren säger textas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Samtal med anhöriga är viktigt, men är inte alla anhöriga som kan teckenspråk. Med TERA går det att ringa direkt utan att gå via bildtelefonitjänsten. Det ger ökad självständighet och integritet. Det är inte alltid man vill ha tredje person i samtalet. Mottagaren använder helt vanlig telefon. Med TERA går det också att använda sig av samhällstjänster som bygger på telefoni som exempelvis 1177 eller 11313. Det kan lugna om man är orolig för sin eller anhörigs hälsa."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/404564926?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/404564926?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "6. Person med talsvårigheter kan ringa vanliga telefonsamtal: Talsyntes"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Personer som har svårigheter med att tala kan använda TERAs talsyntes som finns i TERA-AI. Det kan exempelvis gälla talskada eller stamning. När användaren vill säga något skriver denne ner det som ska sägas och låter sedan TERAs talsyntes säga det. Det går att välja manlig eller kvinnlig röst. Meningar kan skrivas in i förväg och sparas inför samtalet. Mottagaren använder helt vanlig telefon. Denna del går även att använda på plats (TERA-Local)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.youtube-nocookie.com/embed/-m8gC3gu9fk?vq=hd1080&rel=0&fs=1",
+          "children": [
+            {
+              "type": "text",
+              "text": "[youtube video] https://www.youtube-nocookie.com/embed/-m8gC3gu9fk?vq=hd1080&rel=0&fs=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "7. Ring en dövblind"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting har alltid gjort sitt bästa för att tillmötesgå viktiga krav från dövblinda. Det är en viktig användargrupp för oss. Denna grupp är heterogen. Det finns barndomsdöva med förvärvad synnedsättning och med teckenspråk som första språk. Det finns också hörselskadade med förvärvad synnedsättning samt synskadade med förvärvad hörselnedsättning, till dessa ännu fler varianter. Dessutom har en del ytterligare funktionsnedsättningar. Här beskrivs schematiskt hur TERA används av en dövblind som använder punktskrift."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/402499901?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/402555283?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/369284692?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/404564926?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "youtube",
+      "url": "https://www.youtube-nocookie.com/embed/-m8gC3gu9fk?vq=hd1080&rel=0&fs=1"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 6144
+}

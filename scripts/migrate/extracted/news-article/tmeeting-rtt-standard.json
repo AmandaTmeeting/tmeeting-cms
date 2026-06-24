@@ -1,0 +1,242 @@
+{
+  "url": "https://www.tmeeting.se/article/tmeeting-rtt-standard",
+  "type": "news-article",
+  "slug": "tmeeting-rtt-standard",
+  "pathSegments": [
+    "article",
+    "tmeeting-rtt-standard"
+  ],
+  "locale": "sv",
+  "title": "Samarbete med ETSI – Vi formar framtidens tillgängliga kommunikation",
+  "ogDescription": "T-Meeting är nu en aktiv samarbetspartner till European Telecommunications Standards Institute (ETSI) i arbetet med att ta fram nästa generations standard för Real-Time Text (RTT).",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp",
+  "publishDate": "2025-05-23T09:11:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting är stolta över att vara en aktiv samarbetspartner till "
+        },
+        {
+          "type": "text",
+          "text": "European Telecommunications Standards Institute (ETSI)",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " i arbetet med att ta fram nästa generations standard för "
+        },
+        {
+          "type": "text",
+          "text": "Real-Time Text (RTT)",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " – en nyckelkomponent i så kallade "
+        },
+        {
+          "type": "text",
+          "text": "total conversation",
+          "italic": true
+        },
+        {
+          "type": "text",
+          "text": "-tjänster."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Dessa tjänster kombinerar "
+        },
+        {
+          "type": "text",
+          "text": "röst, video och realtidstext i ett och samma samtal",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " – en avgörande lösning för personer med hörsel- eller talnedsättning, men också ett kraftfullt verktyg för alla som efterfrågar tillgänglig och flexibel kommunikation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ny standard under utveckling",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Den nya standarden, för närvarande i utkastform under namnet "
+        },
+        {
+          "type": "text",
+          "text": "ETSI ES 204 009 V0.0.6",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": ", är ett viktigt steg mot "
+        },
+        {
+          "type": "text",
+          "text": "ökad interoperabilitet",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " över plattforms- och tjänstegränser. RTT – där text visas tecken-för-tecken i realtid – står i centrum för denna utveckling."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Användarnas behov i fokus",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Som en vägledande part i ETSI:s tekniska kommitté ser T-Meeting till att användarnas behov och tillgänglighet är centrala i utvecklingsarbetet. Vi bidrar särskilt till att definiera:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "Hur RTT samverkar med ljud och video"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "Hur tjänsten ska fungera i kritiska situationer – till exempel "
+            },
+            {
+              "type": "text",
+              "text": "nödsamtal med relä- och tolkstöd",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Kritiska situationer kräver tillförlitlig teknik",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\"Det är viktigt att tekniken fungerar för alla – även i kris. Därför innehåller standarden krav på att RTT ska fungera sömlöst vid nödanrop, och kunna kombineras med till exempel teckenspråkstolkning eller tal-till-text\", säger T-Meetings CTO."
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Från teori till verklighet",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Utöver teknisk expertis tillför T-Meeting även praktisk erfarenhet från verkliga användarscenarier – exempelvis integration med hjälpmedel och lösningar för "
+        },
+        {
+          "type": "text",
+          "text": "multiparty-kommunikation",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": ". Det säkerställer att standarden inte bara blir tekniskt korrekt, utan "
+        },
+        {
+          "type": "text",
+          "text": "fungerar i praktiken",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1808
+}

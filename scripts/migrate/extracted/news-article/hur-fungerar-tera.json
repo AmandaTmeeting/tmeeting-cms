@@ -1,0 +1,124 @@
+{
+  "url": "https://www.tmeeting.se/article/hur-fungerar-tera",
+  "type": "news-article",
+  "slug": "hur-fungerar-tera",
+  "pathSegments": [
+    "article",
+    "hur-fungerar-tera"
+  ],
+  "locale": "sv",
+  "title": "Hur fungerar TERA? Vi förklarar på teckenspråk!",
+  "ogDescription": "Med TERA kan du ringa vem som helst med autotext och talsyntes. Vår medarbetare Veronica förklarar mer ingående hur TERA fungerar!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp",
+  "publishDate": "2021-11-26T11:16:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/650271432?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/650271432?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA är din allt i ett-lösning!",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Få mobilsamtalen autotextade. Det mottagaren säger kan du läsa i realtid."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Använd dig utav TERAs talsyntes om du inte kan prata. Det du textar under samtalet läses upp för motparten med en mänsklig röst, mening för mening."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Få samtalen autotextade och/eller använd dig utav talsyntesen när du kommunicerar med någon på plats. Du kan välja att få texten sparad på din enhet."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ring samtal via video och få kontakt med andra som har bildtelefon eller texttelefon."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Kommunicera med hörande via förmedlingstjänsten för bildtelefoni/texttelefoni."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill kunna bli nådd på / ringa med ett vanligt mobilnummer."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill ha ett bra komplement till tolk. Det kan vara om du 1) inte hinner boka en tolk, 2) om en tolk inte finns tillgänglig just nu, 3) om du vill prata om något väldigt privat och inte känner för att ha en tolk närvarande. Eller i vilken annan situation som helst."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/650271432?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 1047
+}

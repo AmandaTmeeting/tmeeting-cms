@@ -1,0 +1,159 @@
+{
+  "url": "https://www.tmeeting.se/article/konferens2024",
+  "type": "news-article",
+  "slug": "konferens2024",
+  "pathSegments": [
+    "article",
+    "konferens2024"
+  ],
+  "locale": "sv",
+  "title": "Tillgänglighetslagen 2025 -  är din verksamhet förberedd?",
+  "ogDescription": "Anmäl dig till vår heldagskonferens i Malmö den 21 november, där vi fokuserar på den kommande tillgänglighetslagen som träder i kraft i juni 2025!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp",
+  "publishDate": "2024-08-28T10:10:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Lagen syftar till att harmonisera medlemsländernas regler, vilket innebär att både företag och offentliga aktörer måste göra sina digitala miljöer tillgängliga för alla, oavsett funktionsnedsättning. Dagen inleds med en genomgång av tillgänglighetslagens betydelse och dess effekter på produkter och tjänster. Fokus ligger på utmaningar, möjligheter, ekonomisk nytta och lösningar för att uppfylla kraven; särskilt inom appar, e-handel, webbplatser, media och elektronisk kommunikation. Bland konferensens föreläsare finns AccessibleEU, Branschorganisation Svensk Tillgänlighet och tillsynsmyndigheten PTS, som delar med sig av hur tillsynen kommer att fungera och vad lagen innebär för privata aktörer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Eftermiddagen bjuder på ett flertal intressanta föreläsare från näringslivet som redan påbörjat sin anpassning till lagkraven. Det kommer att presenteras praktiska verktyg och lösningar för webbplatser, kundtjänst och kommunikation, vilket ger dig användbara redskap för din egen verksamhet."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Denna kostnadsfria konferens vänder sig till dig som arbetar med eller ansvarar för tillgänglighet i digitala tjänster, webbplatser och kommunikation, eller som vill lära dig mer om hur lagen påverkar din verksamhet. Det blir en dag full av insikter, diskussioner och inspirerande presentationer från ledande experter och företag. Vi bjuder på frukost & lunch samt goda förutsättningar för trevligt mingel med andra i liknande situation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vart? ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "Hotell Scandic, Triangeln 2, 211 43 Malmö"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "När? ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "21 november, 09:30-16:30"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Frukostmingel",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ersan Mujevic, Parkeringsövervakning i Malmö AB"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Max Tairi, Co-Founder/Styrelseordförande; T-Meeting"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Live Textning och Mediaproduktion: Utmaningar och pågående arbete för att uppfylla de nya tillgänglighetskraven",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Frukostmingel samt lunch ingår! (Vi tillämpar en no show-avgift på 349 kr vid utebliven närvaro utan avanmälan minst 24 timmar före konferensens start. Du har alltid möjlighet att skicka en kollega i ditt ställe! Avbokning eller avanmälan görs till info@tmeeting.se.) Sista dag för anmälan är 8/11."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Om du har några frågor eller behöver mer information, tveka inte att höra av dig till oss på "
+        },
+        {
+          "type": "link",
+          "url": "mailto:info@tmeeting.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "info@tmeeting.se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " eller ringa oss på +46 (0) 40 661 41 80. Det går även att kommunicera med vår teckenspråkiga personal via bildtelefon på 0406060432@t-meeting.se."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Platserna är nu fullbokade!",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2464
+}

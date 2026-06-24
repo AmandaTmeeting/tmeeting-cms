@@ -1,0 +1,329 @@
+{
+  "url": "https://www.tmeeting.se/tjänster",
+  "type": "service",
+  "slug": "tjanster",
+  "pathSegments": [
+    "tjänster"
+  ],
+  "locale": "sv",
+  "title": "Tjänster T-Meeting",
+  "ogDescription": "T-Meeting levererar tjänster över hela världen.  Vår kompetens inom videokommunikation och IP-telefoni gör att vi kan leverera nu",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi hjälper dig att växa - med hög tillgänglighet"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har ett delaktigt samhälle först när alla är med. T-Meetings tjänstelösningar gör att organisationer bli nåbara även för hörselskadade döva och dövblinda. I en fullt uppskalad lösning ger det dessutom möjlighet för fler arbetstillfällen bland dessa. Tänk den dag då en dövblind kan arbeta i ett callcenter. Med T-Meetings lösningar är det ingen utopi utan en snar framtid. "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "1. Kom igång med Komplett Kommunikation - här och nu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med TERA ("
+        },
+        {
+          "type": "link",
+          "url": "/produkter/tera-local",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA Local"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ") textas möten automatiskt på plats. Det är också möjligt med textade telefonsamtal där mottagaren använder sin vanliga telefon, detta tack vare Ring Direkt-Telefon. Med TERA går det också att tillsammans ringa upp teckenspråkstolk eller teckenspråkig anhörig om en döv önskar det. Totalkonversation förskrivs som hjälpmedel i alla regioner sedan ett antal år tillbaka."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Exempel: Drop-in-mottagningar, receptioner, sjukhus och vårdmottagningar.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "2. Hjälp fler genom att öka nåbarheten för din organisation"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ett snabbt sätt att drastiskt öka sin nåbarhet är med "
+        },
+        {
+          "type": "link",
+          "url": "/tj%C3%A4nster/distanstolken",
+          "children": [
+            {
+              "type": "text",
+              "text": "Distanstolken / TM-PC Pro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Tolkcentraler och andra organisationer kan här erbjuda både utökad service och kvalitet. Här finns videokommunikation och realtidstext enligt standarden Totalkonversation samt möjlighet till flerpartsmöten på distans."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Exempel: Tolk på distans för tolkcentraler, föreningar samt volontärverksamhet",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "3. Skräddarsy - Vi hjälper dig att utforma din tjänst"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har har möjlighet att anpassa den tekniska lösningen efter era behov. Det kan exempelvis vara köhantering, WebbRTC, RingDirekt-Tolk eller automatisk positionering."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Exempel: Nationell Tolktjänst med Ring Direkt-Tolk",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " För utökad service i tolkarbetet och i nationell förmedlingstjänst är det viktigt att användarna får rätt tolkning beroende på egna preferenser. Det kan vara typ av tolkning som teckenspråk eller skrivtolkning. Det är också möjligt att matcha tolkuppdrag mot specialkompetens hos tolk. Även analys och statistik av arbetet är viktigt."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Vi hjälper statliga NAV i Norge med bild- och texttelefonitjänst sedan 2014."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Exempel: Tudorkliniken i Halmstad",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Tudorkliniken i Halmstad använder T-Meeting för tillgängliga videoläkarbesök."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Exempel: Tillgänglig kundtjänst",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "/tj%C3%A4nster/tillganglig_kundtjanst",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tillgänglig Kundtjänst"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " gör att nya grupper kan arbeta i kundtjänst. Teckenspråkiga kan på detta sätt ge rådgivning eller samhällsservice åt andra teckenspråkiga. "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "4. Full affärskoll - Med oss kan du hjälpa andra att driva tjänster"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med T-Meetings lösningar för Komplett Kommunikation finns inga gränser. Vi hjälper er att få kontroll på hela affärsprocessen. Nåbarhet för alla utökar er kundbas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Exempel: Voxeyes - Videobesök hos vården",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Med Voxeyes kan vårdgivare erbjuda videobesök. Via "
+        },
+        {
+          "type": "link",
+          "url": "https://voxeyes.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Voxeyes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " kan patienter träffa sina egna läkare via datorn, mobiltelefonen eller surfplattan. Även personer med hörselvariation inkluderas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Exempel: ConnectMe24 - Den smarta tolktjänsten",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Den som behöver tillgång till tolk snabbt kan använda "
+        },
+        {
+          "type": "link",
+          "url": "https://www.connectme24.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "ConnectMe24"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Med en app går det att koppla upp tolkar i de mest efterfrågade tolkningsspråken on-demand."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Framtidssäkert genom öppen standard"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Totalkonversation och Realtidstext. Ni kan alltså använda de nationella förmedlingstjänster för döva och hörselskadade som är öppna dygnet runt. T-Meetings samtal är krypterade."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 3650
+}

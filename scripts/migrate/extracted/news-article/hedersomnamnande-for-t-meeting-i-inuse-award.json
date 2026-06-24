@@ -1,0 +1,87 @@
+{
+  "url": "https://www.tmeeting.se/article/hedersomnämnande-for-t-meeting-i-inuse-award",
+  "type": "news-article",
+  "slug": "hedersomnamnande-for-t-meeting-i-inuse-award",
+  "pathSegments": [
+    "article",
+    "hedersomnämnande-for-t-meeting-i-inuse-award"
+  ],
+  "locale": "sv",
+  "title": "Hedersomnämnande för T-Meeting i inUse Award",
+  "ogDescription": "T-Meeting fick hedersomnämnande i prestigefulla inUse Awards 2020. Det är en fin bekräftelse på att vi verkligen gör användarnas vardag enklare.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp",
+  "publishDate": "2020-11-25T20:08:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Fantastiskt! T-Meeting förärades "
+        },
+        {
+          "type": "link",
+          "url": "https://www.inuse.se/blogg/inuse-award-hederspris-t-meeting/",
+          "children": [
+            {
+              "type": "text",
+              "text": "hedersomnämnande på inUse Award 2020"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "link",
+          "url": "https://www.inuse.se/blogg/inuse-award-hederspris-t-meeting/",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\"Ett kvitto på att vi är på rätt väg\" säger Faruk Tairi. I fokus för T-Meetings nominering är TERA. Pontus Wärnestål, inUse Director of Human Centered AI, förklarar: \"Människocentrerad AI handlar om att sätta mänskliga behov främst för de AI- och datadrivna tjänster vi bygger. Därför är det kul att se när ny teknologi som Artificiell Intelligens faktiskt skapar nytta för personer som verkligen behöver det och inte bara gör det smidigare för de som inte har några hinder i vardagen.\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Motiveringen lyder:"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " \"Äntligen används Artificiell Intelligens och Machine Learning till de som verkligen behöver det. När människor med denna tjänst kan ringa sitt första telefonsamtal på 10 år, då går nyttan inte att ta miste på.\" "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det var hård konkurrens med många insända bidrag. Av dessa valdes 7 finalister ut. AsthmaTuner vann och Sendify tillsammans med T-Meeting fick hedersomnämnande. "
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 336
+}

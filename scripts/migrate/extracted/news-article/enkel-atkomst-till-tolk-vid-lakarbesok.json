@@ -1,0 +1,70 @@
+{
+  "url": "https://www.tmeeting.se/article/enkel-åtkomst-till-tolk-vid-läkarbesök",
+  "type": "news-article",
+  "slug": "enkel-atkomst-till-tolk-vid-lakarbesok",
+  "pathSegments": [
+    "article",
+    "enkel-åtkomst-till-tolk-vid-läkarbesök"
+  ],
+  "locale": "sv",
+  "title": "Enkel åtkomst till tolk vid läkarbesök",
+  "ogDescription": "Personal på sjukhus kan vara stressade och därmed missa att beställa tolk. T-Meeting hjälper till...",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/178C0F83-72DB-48E3-986A33A522C5651C-2000w.webp",
+  "publishDate": "2021-02-05T13:20:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/178C0F83-72DB-48E3-986A33A522C5651C-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Tolk när läkaren kommer",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Personal på sjukhus kan vara stressade och därmed missa att beställa tolk. Med T-Meeting ringer du direkt till teckenspråkstolk"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " dygnet runt. T-Meeting kan även hjälpa dig när du och din läkare är i samma rum. Det som sägs textas automatiskt och kan sparas på din enhet. Det behöver vara enkelt för båda."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/516266939?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/516266939?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/516266939?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 463
+}

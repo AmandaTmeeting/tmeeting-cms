@@ -1,0 +1,71 @@
+{
+  "url": "https://www.tmeeting.se/article/vid-sjukdom-är-kontakt-med-anhöriga-extra-viktigt",
+  "type": "news-article",
+  "slug": "vid-sjukdom-ar-kontakt-med-anhoriga-extra-viktigt",
+  "pathSegments": [
+    "article",
+    "vid-sjukdom-är-kontakt-med-anhöriga-extra-viktigt"
+  ],
+  "locale": "sv",
+  "title": "Vid sjukdom är kontakt med anhöriga extra viktigt",
+  "ogDescription": "Bristande kontakt med anhöriga kan leda till oro och otrygghet.  T-Meeting hjälper till...",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/55E198BB-537A-4678-85C7DBDBE34FA01B-2000w.webp",
+  "publishDate": "2021-02-05T14:28:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/55E198BB-537A-4678-85C7DBDBE34FA01B-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Kontakt med anhöriga",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Bristande kontakt med anhöriga kan leda till oro och otrygghet. Med T-Meeting kan du ha kontakt med anhöriga*, vänner och kollegor. Det går också att använda förmedlingstjänsten för att kommunicera med hörande. TMAlert gör att du märker om du får en telefonnotifikation."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " *Anhörig kan också få T-Meeting (anhöriglicens)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/516267038?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/516267038?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/516267038?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 465
+}

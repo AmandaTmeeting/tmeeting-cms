@@ -1,0 +1,41 @@
+{
+  "url": "https://www.tmeeting.se/article/tm-push-alltid-nåbar",
+  "type": "news-article",
+  "slug": "tm-push-alltid-nabar",
+  "pathSegments": [
+    "article",
+    "tm-push-alltid-nåbar"
+  ],
+  "locale": "sv",
+  "title": "TM-Push - alltid nåbar",
+  "ogDescription": "Det är först när man är nåbar som man är tillgänglig.\r\nTM-Push gör att det ringer i mobilen oavsett om appen är igång eller inte.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/85238EE8-C2E8-46E8-B103402B66DFEFF8-2000w.webp",
+  "publishDate": "2018-09-30T14:46:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/85238EE8-C2E8-46E8-B103402B66DFEFF8-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Äntligen kommer TM-Push, för TM Mobile, funktionen som gör att döva, hörselskadade, talskadade och dövblinda kan ta emot samtal oavsett om T-Meeting-appen är uppe eller inte. Det är först när man är nåbar som man är tillgänglig."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " TM-Push gör att det ringer i mobilen oavsett om appen är igång eller inte. Man kan också tryggt välja att inte vara nåbar. Det gör man med “Stör ej”. När “Stör ej” automatiskt slås av blir du automatiskt nåbar. Detta ger trygghet och likvärdighet eftersom det ger döva, hörselskadade, talskadade och dövblinda samma nåbarhetsgrad som hörande har med vanlig telefoni. Dessutom ger push mindre batteriångest eftersom T-Meetingappen endast drar batteritid vid användning. När man inte samtalar stängs appen av och öppnas först när du skall ringa eller svara på ett samtal - helt automatiskt."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 845
+}

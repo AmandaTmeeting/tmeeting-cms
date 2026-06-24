@@ -1,0 +1,91 @@
+{
+  "url": "https://www.tmeeting.se/article/t-meeting-frågar-isabel",
+  "type": "news-article",
+  "slug": "t-meeting-fragar-isabel",
+  "pathSegments": [
+    "article",
+    "t-meeting-frågar-isabel"
+  ],
+  "locale": "sv",
+  "title": "T-Meeting frågar Isabel om teckenspråket",
+  "ogDescription": "Då det i veckan har varit den internationella modersmålsdagen så har vi ställt tre frågor till Isabel Engwall relaterat till teckenspråket.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp",
+  "publishDate": "2022-02-23T08:52:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "1. Varför har inte det svenska teckenspråket samma ”status” som nationella minoritetsspråk?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Isabel: När Europarådets konventioner kring minoriteter och språken öppnades för ratificering, tillsatte regeringen en kommitté som fick i uppdrag att undersöka vilka språk som skulle ha rätt till status som nationella minoritetsspråk (talade språk) i Sverige. Kommittén bedömde att det svenska teckenspråket inte är ett kulturspråk som talas av en minoritet utan ses som ett kommunikationsverktyg på grund av audism. Därför har det svenska teckenspråket inte samma status som nationella minoritetsspråk. I språklagen från 2009 står det dock att det svenska teckenspråket jämställs med de nationella minoritetsspråken. Statusmässigt är det svenska teckenspråket likställt med de nationella minoritetsspråken, men i minoritetslagen finns det mer detaljerade paragrafer för vissa områden, som gör att denna lag väger tyngre i vissa sammanhang. De bestämmelser som reglerar skolan (skollagen, skolförordningen, gymnasieförordningen) behöver ändras för att ge det svenska teckenspråket samma status som de nationella minoritetsspråken."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "2. Hur många modersmål i teckenspråk finns det?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Isabel: Det finns runt 160–170 modersmål i teckenspråk och att det är ungefär 70 miljoner som kommunicerar på teckenspråk världen runt. I Sverige bor det runt 1,3–2 miljoner personer med någon form av dövhet, hörselskada och vuxendövhet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "3. Vilka förändringar vill du se när det kommer till svenskt teckenspråk?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Isabel: Det är fortfarande inte alla som får självklar tillgång till teckenspråket. Detta beror på attityd och okunskap i alla samhällssektorer. Det svenska teckenspråket har en språklig status sedan den 14 maj 1981. Sverige var det första landet i världen som officiellt erkände teckenspråket som dövas förstaspråk. De bestämmelser som reglerar skolan behöver som sagt ändras för att ge det svenska teckenspråket samma status som de nationella minoritetsspråken. Men jag vill istället se att svenskt teckenspråk lagstagdas som ett visuellt riksspråk och likställs med svenska (talspråk)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Isabel har en bakgrund som koordinator, försäljningstrateg och kommunikatör och syns ofta i TV och sociala medier. Hon utsågs 2019 till Sveriges, ev Nordens första döva nämndeman i Södertörns Tingsrätt. För henne är ingenting omöjligt!",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2365
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://www.tmeeting.se/article/nåbar-när-det-gäller",
+  "type": "news-article",
+  "slug": "nabar-nar-det-galler",
+  "pathSegments": [
+    "article",
+    "nåbar-när-det-gäller"
+  ],
+  "locale": "sv",
+  "title": "Nåbar när det gäller",
+  "ogDescription": "Med T-Meeting kan du ha kontakt med andra. TM-Alert gör att du märker när någon vill nå dig.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F553326E-8C7B-4ACE-A3E20E0ECBDEEB81-2000w.webp",
+  "publishDate": "2021-03-25T14:31:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F553326E-8C7B-4ACE-A3E20E0ECBDEEB81-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/534360258?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/534360258?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med T-Meeting kan du ha kontakt med andra. TM-Alert gör att du märker när någon vill nå dig vilket kan få dig att slappna av när du är upptagen med annat - till exempel när du är ute på språng etc. Det är också viktigt att kunna välja när man vill bli nådd men även vilka notiser man vill bli varse om. T-Meeting har ”push” vilket gör att du kan använda mobiltelefonens stör ej-funktion precis som alla andra, vilket sparar på batteritid."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/534360258?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 536
+}

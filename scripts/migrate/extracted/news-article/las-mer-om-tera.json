@@ -1,0 +1,258 @@
+{
+  "url": "https://www.tmeeting.se/article/läs-mer-om-tera",
+  "type": "news-article",
+  "slug": "las-mer-om-tera",
+  "pathSegments": [
+    "article",
+    "läs-mer-om-tera"
+  ],
+  "locale": "sv",
+  "title": "Läs mer om TERA",
+  "ogDescription": "Här finns länkar till broschyrer och annan information om TERA",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp",
+  "publishDate": "2019-05-25T14:41:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Här kan du läsa mer om TERA:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.dropbox.com/s/paqfxur5bwozrit/TERA%20bladet%201909.pdf?dl=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA bladet 1909"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "https://www.dropbox.com/s/b92wqf78dyy56q5/TERA%20som%20hj%C3%A4lpmedel%20i%20vardagen%20ver1904_print.pdf?dl=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA som hjälpmedel i vardagen"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "https://www.dropbox.com/s/8brwkt5ml7c0o8e/TERA%20som%20hj%C3%A4lpmedel%20i%20arbetet%20ver1904_print.pdf?dl=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA som hjälpmedel i arbetet"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "https://www.allas.se/halsa/digital-tolk-gor-livet-lattare-for-dova/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Artikel om TERA i ALLAS tidning"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "https://www.facebook.com/tmeeting.se/videos/2051485784880744/",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA demovideo på Facebook"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "/produkter/tera-touch",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA info på hemsidan"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "https://www.dropbox.com/s/3pkvvbzjv9tqjax/TERA%20bladet%201904_print.pdf?dl=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA bladet 1904"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Mer om T-Meeting:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.facebook.com/tmeeting.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "Facebook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/user/Tmeetingchannel",
+          "children": [
+            {
+              "type": "text",
+              "text": "YouTube"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Hur skaffar jag T-Meeting TM & TERA?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting TM & TERA är hjälpmedel. Regionerna (f.d. landstingen) är skyldiga att erbjuda hjälpmedel om du behöver det i vardagen. Hur det sker och vilka regler som finns beror på var man bor. Normalt får du hjälpmedlet utan kostnad, ibland behöver du betala en besöksavgift."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Behöver du T-Meeting TM & TERA i ditt arbete är det genom Försäkringskassan eller Arbetsförmedlingen ansökan av hjälpmedel sker."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "link",
+          "url": "/om-oss/kontakt",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill du veta mer?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [
+    {
+      "url": "https://www.dropbox.com/s/paqfxur5bwozrit/TERA%20bladet%201909.pdf?dl=0",
+      "label": "TERA bladet 1909"
+    },
+    {
+      "url": "https://www.dropbox.com/s/b92wqf78dyy56q5/TERA%20som%20hj%C3%A4lpmedel%20i%20vardagen%20ver1904_print.pdf?dl=0",
+      "label": "TERA som hjälpmedel i vardagen"
+    },
+    {
+      "url": "https://www.dropbox.com/s/8brwkt5ml7c0o8e/TERA%20som%20hj%C3%A4lpmedel%20i%20arbetet%20ver1904_print.pdf?dl=0",
+      "label": "TERA som hjälpmedel i arbetet"
+    },
+    {
+      "url": "https://www.dropbox.com/s/3pkvvbzjv9tqjax/TERA%20bladet%201904_print.pdf?dl=0",
+      "label": "TERA bladet 1904"
+    }
+  ],
+  "bodyTextLength": 940
+}

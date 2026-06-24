@@ -1,0 +1,33 @@
+{
+  "url": "https://www.tmeeting.se/product/tera",
+  "type": "product",
+  "slug": "tera",
+  "pathSegments": [
+    "product",
+    "tera"
+  ],
+  "locale": "sv",
+  "title": "TERA",
+  "ogDescription": "a revolutionary product that turns speech into text and text into speech in real time",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/68A45F09-12E7-4481-93763CE31DEB7FCF-2000w.webp?20171106014411",
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/68A45F09-12E7-4481-93763CE31DEB7FCF-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "a revolutionary product that turns speech into text and text into speech in real time"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 94
+}

@@ -1,0 +1,276 @@
+{
+  "url": "https://www.tmeeting.se/article/distanstolkning-teckenspråk",
+  "type": "news-article",
+  "slug": "distanstolkning-teckensprak",
+  "pathSegments": [
+    "article",
+    "distanstolkning-teckenspråk"
+  ],
+  "locale": "sv",
+  "title": "Distanstolkning - teckenspråk",
+  "ogDescription": "T-Meetings plattform gör att ordinarie tolkar säkert kan arbeta på distans, på kontoret eller i hemmet. Tryggt för sjukvårdspersonal, användarna och deras anhöriga. Plattformen bygger på öppen standard och telefoni - passar alltså med hjälpmedel som redan förskrivs till anhöriga och döva. Möjlighet till flerpartssamtal gör att fler kan kopplas upp även befintlig tolktjänst 24/7/365.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp",
+  "publishDate": "2020-03-16T16:55:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Intresserad? Kontakta i så fall regionernas upphandlande leverantör Lidol genom Fredrik.Forsberg@lidol.se",
+          "bold": true,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "I dessa tider av Corona begränsas vilka som får vara i vården. Med hjälp av T-Meetings utprovade plattform för tolkning kan samma teckenspråkstolkar som vanligtvis är ute hos tolk-användarna nu utföra tolkningen på distans. Kommunikationen som är krypterad bygger på inkluderande telefoni som redan förskrivs som hjälpmedel i regionerna."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Att använda den ordinarie tolkpersonalen är viktigt. Det höjer kvalitén eftersom:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "ordinarie tolkar känner sina användare sedan tidigare"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "döva känner också många av tolkarna"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "tolkar har olika kompetenser som kan mappas mot tolkuppdragets karaktär"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "man kan välja tolk efter uppdrag beroende på användarens preferenser "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ansvaret för att det kommer en teckenspråkstolk eller en dövblindtolk till ett möte ligger hos de olika regionerna i Sverige. Kan då distanstolkning alltid ersätta tolk-på-plats. Nej, inte alltid. Extremen är dövblinda som behöver taktilt stöd i tolkningen. Det kommer också finnas tillfällen då även andra döva behöver tolk på plats. Med T-Meetings lösning kan tolkcentralerna sömlöst övergå mellan de olika arbetssätten."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "En digital lösning gör att den ordinarie personalen"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "behåller sitt arbete i Coronatider "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "kan utföra fler tolkningsuppdrag till en lägre kostnad eftersom restiden försvinner "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "gör färre resor vilket är bra för miljön"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "tolkar kan arbeta hemifrån"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Döva behöver känna sig trygga även när det inte finns ett möte bokat - det är ju då tolk används."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Här är anhöriga viktiga.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Det kan vara släktingar, vänner, volontär från dövföreningen, äldrevägledare eller dövpräst/ diakon för döva. De är ofta teckenspråkiga och då behövs inte tolk. Däremot är det viktigt att man använder samma digitala teknik i alla lägen. "
+        },
+        {
+          "type": "text",
+          "text": "Det betyder att utprovad och öppen standard är viktig.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Här handlar det om video- /bildtelefoni enligt standarden Totalkonversation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Fördelen med Totalkonversation / Alternativ telefoni:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Fungerar tillsammans med de kommunikationslösningar som idag förskrivs i landstingen.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Döva och anhöriga ä vana vid detta verktyg; Det finns kunskap och support att tillgå om problem uppstår på personal-/användarsidan."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting har även lösning för flerparts-samtal.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Med denna kan exempelvis en döv person i slutenvård på ett sjukhus vara med i ett gruppsamtal över video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Användaren kan även själv ringa upp en tolk on-demand.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Dagliga små samtal är viktiga för personal, patienter och anhöriga. Det skapar en tryggare vårdsituation när kommunikationen fungerar mellan dessa parter."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Fungerar med den landstäckande tjänsten bildtelefoni.net som är öppen 365/24/7.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Intresserad? Kontakta i så fall regionernas upphandlande leverantör Lidol genom Fredrik.Forsberg@lidol.se",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2989
+}

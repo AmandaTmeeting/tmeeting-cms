@@ -1,0 +1,61 @@
+{
+  "url": "https://www.tmeeting.se/article/kontakt-med-andra",
+  "type": "news-article",
+  "slug": "kontakt-med-andra",
+  "pathSegments": [
+    "article",
+    "kontakt-med-andra"
+  ],
+  "locale": "sv",
+  "title": "Kontakt med andra",
+  "ogDescription": "Ring eller bli uppringd av döva och teckenspråkiga med bildtelefon. Hörande kan ringa dig via förmedlingstjänsten.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BEF85F3D-47EA-49F1-AB2407555284C73A-2000w.webp",
+  "publishDate": "2021-03-27T14:30:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BEF85F3D-47EA-49F1-AB2407555284C73A-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/534360241?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/534360241?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ring eller bli uppringd av döva och teckenspråkiga med bildtelefon. Hörande kan ringa dig via förmedlingstjänsten. De kan också nå dig direkt på ditt telefonnummer då T-Meeting textar samtalet. T-Meeting kan också läsa upp det du skriver under samtalet i realtid. Automatisk textning kan användas även när ni är i samma rum, vilket är bra i affären, hos läkaren, när du ska kommunicera med någon i receptionen etc."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/534360241?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 532
+}

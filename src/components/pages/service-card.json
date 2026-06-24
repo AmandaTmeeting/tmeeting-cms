@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_pages_service_cards",
+  "info": {
+    "displayName": "Service Card",
+    "icon": "server",
+    "description": "A support-section service card with title, description, and button label."
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "description": {
+      "type": "text",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "btnLabel": {
+      "type": "string",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    }
+  }
+}

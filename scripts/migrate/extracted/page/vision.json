@@ -1,0 +1,42 @@
+{
+  "url": "https://www.tmeeting.se/om-oss/vision",
+  "type": "page",
+  "slug": "vision",
+  "pathSegments": [
+    "om-oss",
+    "vision"
+  ],
+  "locale": "sv",
+  "title": "Vision",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Kommunikation på lika villkor – för varje individ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "När vi utformar med de mest krävande behoven i åtanke skapar vi produkter som gynnar alla. Det handlar inte bara om rättvisa och mänskliga rättigheter, utan också om en inkluderande och universell design – och det är framtidens tänkande. Lika tillgång till kommunikation för alla innebär en Komplett Kommunikation, ett begrepp introducerat av grundarna Max och Faruk Tairi."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 440
+}

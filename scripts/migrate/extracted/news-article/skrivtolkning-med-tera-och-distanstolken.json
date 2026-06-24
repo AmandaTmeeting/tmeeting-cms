@@ -1,0 +1,301 @@
+{
+  "url": "https://www.tmeeting.se/article/skrivtolkning-med-tera-och-distanstolken",
+  "type": "news-article",
+  "slug": "skrivtolkning-med-tera-och-distanstolken",
+  "pathSegments": [
+    "article",
+    "skrivtolkning-med-tera-och-distanstolken"
+  ],
+  "locale": "sv",
+  "title": "Minska smittrisken: Skrivtolkning med TERA och Distanstolken",
+  "ogDescription": "Med hjälp av TERA-Local kan skrivtolkning ske på plats med automatisk AI-tolk. Med TERA kan även telefonsamtal textas automatiskt. Distanstolken kan användas för skrivtolkning på distans.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp",
+  "publishDate": "2020-03-16T17:00:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har flera olika lösningar som kompletterar mänsklig skrivtolkning på plats. ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "Skrivtolkning används av personer med hörselnedsättning. All tolkning sker krypterat och alla servrar finns i Europa: "
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "ordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA-Local som textar det som sägs automatiskt med hjälp av AI.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA: Textade telefonsamtal",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Plattform för skrivtolkning på distans",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Beskrivning:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-local",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA-Local"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " gör att alla samtal kan textas direkt",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "AI-tolken i TERA tar hand om textningen.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Beställning av tolk behövs inte. Det betyder att fler möten kan textas och det ger ökad delaktighet. Vid önskemål kan texten sparas ner som stöd för användarens minne eller om denne vill dela med sig av informationen till anhörig."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-mobile",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA textar telefonsamtal"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - mottagaren använder sin vanliga telefon",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det är viktigt att kunna hålla kontakten med nära och kära när man är orolig.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Med TERA kan även hörselvarierade göra det. TERA gör det också möjligt att ringa samhällstjänster som 1177, sjukvård, Försäkringskassa, bank och 112. Precis på samma sätt som fullt hörande redan gör."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster/distanstolken",
+          "children": [
+            {
+              "type": "text",
+              "text": "Skrivtolkning på distans"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För vissa situationer är det viktigt med en mänsklig skrivtolk. Med T-Meetings lösning Distanstolken är detta möjligt. Det finns flera fördelar med detta. Den ordinarie personalen kan:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "behålla sitt arbete i Coronatider ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "kan utföra fler tolkningsuppdrag till en lägre kostnad eftersom restiden försvinner ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "göra färre resor vilket är bra för miljön",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "arbeta hemifrån",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Alla behöver känna sig förstådda och förstå"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med TERA sänks tröskeln för att använda hjälpmedel. Vinsten är också färre missförstånd och därmed ökad trygghet. I vården blir arbetet smartare. ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "Alla samtal är viktiga. Ansvaret för att det kommer en skrivtolk till ett möte ligger hos de olika regionerna i Sverige. Ofta väntar dock hörselnedsatta med att beställa skrivtolk tills det är absolut nödvändigt. Det är mänskligt att vilja klara sig själv så långt det går."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Är mänsklig skrivtolk onödig nu?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Kan automatisk textning och automatisk skrivtolkning alltid ersätta tolk-på-plats? Nej, inte alltid. Det finns tolksituationer då det behövs tolk på plats. Dövblinda behöver taktilt stöd i tolkningen. Med T-Meetings lösning kan tolkcentralerna sömlöst övergå mellan de olika arbetssätten."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Varför använda öppen standard?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Hörselskadade, döva och dövblinda använder sedan länge öppen standard i form av Totalkonversation/Alternativ telefoni. Bild- / videotelefoner och TERA förskrivs i regioner i Sverige idag. Därmed är det viktigt att använda samma digitala teknik i alla lägen. Det betyder att utprovad och öppen standard är viktig. T-Meetings produkter och tjänster använder sig av öppen standard."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2851
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.tmeeting.se/support/nedladdning",
+  "type": "support",
+  "slug": "nedladdning",
+  "pathSegments": [
+    "support",
+    "nedladdning"
+  ],
+  "locale": "sv",
+  "title": "Nedladdning",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Här kan du hämta program från T-Meeting: "
+        },
+        {
+          "type": "link",
+          "url": "http://get.tmeeting.com",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nedladdningar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 82
+}

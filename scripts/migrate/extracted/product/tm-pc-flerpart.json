@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tmeeting.se/produkter/tm-pc-flerpart",
+  "type": "product",
+  "slug": "tm-pc-flerpart",
+  "pathSegments": [
+    "produkter",
+    "tm-pc-flerpart"
+  ],
+  "locale": "sv",
+  "title": "TM-PC Flerpart",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 0
+}

@@ -1,0 +1,237 @@
+{
+  "url": "https://www.tmeeting.se/cookies",
+  "type": "page",
+  "slug": "cookies",
+  "pathSegments": [
+    "cookies"
+  ],
+  "locale": "sv",
+  "title": "Cookies",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting använder cookies på sina webbsidor, det är inget krav men hjälper oss att kunna ge dig bästa information och att kunna få statistik över besökare på webbsidan."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Om du vill kan du alltid stänga av eller rensa cookies i din webbläsare, se information i hjälpen för din webbläsare"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har en egen cookie som visar om du svarat på frågan om du förstått och accepterat vår cookie policy"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Publiceringsverktyget "
+        },
+        {
+          "type": "link",
+          "url": "https://www.airsquare.com/privacy-policy.cfm",
+          "children": [
+            {
+              "type": "text",
+              "text": "Airsquare"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " använder cookies för att hålla reda på dit besök på webbplatsen "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi använder oss av "
+        },
+        {
+          "type": "link",
+          "url": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=sv",
+          "children": [
+            {
+              "type": "text",
+              "text": "Google Analytics"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " för att mäta besök på webbplatsen "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Delar av innehållet på webbsidan har ursprung eller lagras på andra webbplatser, när det visas på vår webbsida kan olika cookies följa med detta innehållet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har länkat innehåll från "
+        },
+        {
+          "type": "link",
+          "url": "https://www.facebook.com/policies/cookies/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Facebook"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " och använder också av en så kallad Facebook pixel för att mäta besök som kommer från Facebook"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har länkat innehåll från "
+        },
+        {
+          "type": "link",
+          "url": "https://twitter.com/en/privacy",
+          "children": [
+            {
+              "type": "text",
+              "text": "Twitter"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har länkat innehåll från "
+        },
+        {
+          "type": "link",
+          "url": "https://vimeo.com/cookie_policy",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vimeo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har länkat innehåll från "
+        },
+        {
+          "type": "link",
+          "url": "https://policies.google.com/technologies/cookies?hl=sv",
+          "children": [
+            {
+              "type": "text",
+              "text": "Youtube"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har länkat innehåll från "
+        },
+        {
+          "type": "link",
+          "url": "https://help.instagram.com/519522125107875",
+          "children": [
+            {
+              "type": "text",
+              "text": "Instagram"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har länkat innehåll från "
+        },
+        {
+          "type": "link",
+          "url": "https://policies.google.com/technologies/cookies",
+          "children": [
+            {
+              "type": "text",
+              "text": "Google"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1260
+}

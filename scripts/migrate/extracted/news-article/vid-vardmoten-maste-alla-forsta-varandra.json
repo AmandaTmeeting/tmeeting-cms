@@ -1,0 +1,83 @@
+{
+  "url": "https://www.tmeeting.se/article/vid-vårdmöten-måste-alla-förstå-varandra",
+  "type": "news-article",
+  "slug": "vid-vardmoten-maste-alla-forsta-varandra",
+  "pathSegments": [
+    "article",
+    "vid-vårdmöten-måste-alla-förstå-varandra"
+  ],
+  "locale": "sv",
+  "title": "Vid vårdmöten måste alla förstå varandra",
+  "ogDescription": "Dålig samordning och kommunikation kan leda till bristande vård och omsorg. T-Meeting hjälper till...",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C076737B-AA70-4C6F-91511515FD2F1F07-2000w.webp",
+  "publishDate": "2021-02-05T14:29:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C076737B-AA70-4C6F-91511515FD2F1F07-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vårdmöten",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Dålig samordning och kommunikation kan leda till bristande vård och omsorg. T-Meeting kan koppla ihop fyra olika parter i samma möte: bildtelefon, hörande på telefon och tolk."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Exempel 1: du, läkaren, tolk och en anhörig."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Exempel 2: du, tolk, kurator och kommunen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/516267101?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/516267101?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/516267101?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 427
+}

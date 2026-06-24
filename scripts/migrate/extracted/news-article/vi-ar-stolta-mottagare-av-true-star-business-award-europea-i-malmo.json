@@ -1,0 +1,145 @@
+{
+  "url": "https://www.tmeeting.se/article/vi-är-stolta-mottagare-av-true-star-business-award-europea-i-malmö",
+  "type": "news-article",
+  "slug": "vi-ar-stolta-mottagare-av-true-star-business-award-europea-i-malmo",
+  "pathSegments": [
+    "article",
+    "vi-är-stolta-mottagare-av-true-star-business-award-europea-i-malmö"
+  ],
+  "locale": "sv",
+  "title": "Vi är stolta mottagare av TRUE Star Business Award",
+  "ogDescription": "Vi är stolta att ha mottagit TRUE Star Business Award – en utmärkelse som bekräftar vårt arbete med att skapa tillgängliga kommunikationslösningar. Priset stärker vår vision om att göra samtal enklare och mer inkluderande för alla.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp",
+  "publishDate": "2025-10-02T10:57:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi är glada och stolta att kunna meddela att vårt moderbolag, Europea i Malmö AB, har tilldelats "
+        },
+        {
+          "type": "text",
+          "text": "TRUE Star Business Award",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Den här utmärkelsen är en bekräftelse på det hårda arbete, den passion och det engagemang som teamet lägger ner - att hjälpa människor att kommunicera bättre, utan hinder."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Varför är detta viktigt för oss?"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "Det visar att vårt arbete har uppskattats inte bara av våra användare utan även av externa bedömare."
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "Det stärker vår tro på att vi gör skillnad för personer med hörselnedsättning, både i Sverige och Norge."
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "Det ger oss energi att fortsätta utveckla lösningar som gör att fler kan delta i samtal och bli hörda."
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Vad händer nu?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi kommer fortsätta vårt arbete, lyssna på era behov och ta steget vidare mot ännu mer tillgänglighet och användarvänlighet."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Vi hoppas kunna dela fler nyheter framöver — funktioner, samarbeten och berättelser från användare."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1038
+}

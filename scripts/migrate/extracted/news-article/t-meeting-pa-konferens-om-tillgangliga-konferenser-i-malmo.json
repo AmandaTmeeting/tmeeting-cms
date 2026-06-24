@@ -1,0 +1,82 @@
+{
+  "url": "https://www.tmeeting.se/article/t-meeting-på-konferens-om-tillgängliga-konferenser-i-malmö",
+  "type": "news-article",
+  "slug": "t-meeting-pa-konferens-om-tillgangliga-konferenser-i-malmo",
+  "pathSegments": [
+    "article",
+    "t-meeting-på-konferens-om-tillgängliga-konferenser-i-malmö"
+  ],
+  "locale": "sv",
+  "title": "T-Meeting på konferens om tillgängliga konferenser i Malmö",
+  "ogDescription": "I april deltog T-Meeting aktivt i den stora konferensen i Malmö med fokus på tillgängliga konferenser",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp",
+  "publishDate": "2025-05-20T12:31:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "I april deltog T-Meeting aktivt i den stora konferensen i Malmö med fokus på tillgängliga konferenser – ett ämne vi brinner för. Vi är stolta över att vara aktiva medlemmar i BOST (Branschorganisationen för tillgängliga konferenser), och extra glada över att vår kollega Alma Coco, som också är styrelseledamot i BOST, var en av konferensens moderatorer.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " På plats fanns även vår samarbetspartner Fredrik Forsberg, som föreläste om praktiska lösningar för tillgänglighet på scen. Hans presentation lyfte konkreta exempel på hur man kan arbeta med teckenspråkstolkning, verbalisering, textning och syntolkning – viktiga verktyg för att skapa verkligt inkluderande evenemang."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Andra deltagare var Anette Andersson (Nanyoung), Mira Helenius Martinsson (Skånes Dansteater) och representanter från bland annat Altitude Meetings, Malmö Opera och Funktionsrätt Skåne. Tillsammans fördes viktiga samtal om hur vi kan öka förståelsen för tillgänglighetsfrågor – både globalt och lokalt."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "En särskilt aktuell punkt som diskuterades var det nya lagkravet som träder i kraft den 28 juni 2025. Det innebär att all onlineförsäljning, inklusive biljetter till evenemang, måste vara tillgänglig. Vad detta innebär i praktiken belystes av Ilias Bennani (Post- och Telestyrelsen) och Stein Erik Skotkjerra (Nationell expert för Danmark, AccessibleEU)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Vi på T-Meeting ser det som en självklarhet att vara med och driva utvecklingen framåt. Att Malmö fick stå värd för denna viktiga konferens känns extra meningsfullt – tillsammans gör vi skillnad!",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1609
+}

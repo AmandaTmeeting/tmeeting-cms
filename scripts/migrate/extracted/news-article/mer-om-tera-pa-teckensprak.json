@@ -1,0 +1,153 @@
+{
+  "url": "https://www.tmeeting.se/article/mer-om-tera-på-teckenspråk",
+  "type": "news-article",
+  "slug": "mer-om-tera-pa-teckensprak",
+  "pathSegments": [
+    "article",
+    "mer-om-tera-på-teckenspråk"
+  ],
+  "locale": "sv",
+  "title": "Mer om TERA på teckenspråk",
+  "ogDescription": "Det uppstår olika situationer då en tolk inte är tillgänglig, då du vill kunna ha alternativ. Då finns TERA där för dig.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp",
+  "publishDate": "2021-09-08T12:57:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/600229514?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/600229514?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det uppstår olika situationer då en tolk inte är tillgänglig. Att kunna ringa ett akut samtal eller kunna fråga någon om hjälp utan fysisk tolk kan ge en känsla av trygghet och ökad välmående. Kanske har du inte hunnit boka en fysisk tolk? Då finns TERA där för dig."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA när du..."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill ha kontakt med andra som har bildtelefon eller texttelefon."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill kommunicera med hörande via förmedlingstjänsten för bildtelefoni/texttelefoni.Här kan du följa med i samtalet med den du ringt/blivit uppringd av & tolken med hjälp av automatisktal-till-text-funktion."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill slippa tolk/skrivtolk: det motparten säger blir textat automatiskt i realtid. Det du skriver läses upp med hjälp av en inbyggd talsyntes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Kontakt med andra via telefon"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Du som är döv kan ringa och bli uppringd av alla. De når dig direkt på ditt telefonnummer och du får samtalet automatiskt textat i kombination med video. Använd den inbyggda talsyntesen om du inte kan tala. Men hur fungerar tekniken egentligen? Det är en automatisk textning som ger stöd för tal-text och text-tal, i realtid. Det är en superbra lösning när du vill ringa någon!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Kommunicera med alla runtomkring dig"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med TERA får du det som sägs automatiskt textat. Den automatiska textningen fungerar även när du träffar någon fysiskt, vilket är en superbra lösning i t.ex mataffären, hos polisen, läkaren och receptionen etc"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Trygghet & Må bra-effekten"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det uppstår olika situationer då en tolk inte är tillgänglig. Att kunna ringa ett akut samtal eller kunna fråga någon om hjälp utan fysisk tolk kan ge en känsla av trygghet och ökad välmående. Kanske har du inte hunnit boka en fysisk tolk? Då finns TERA där för dig. "
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/600229514?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 1823
+}

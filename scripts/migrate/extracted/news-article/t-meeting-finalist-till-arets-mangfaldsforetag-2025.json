@@ -1,0 +1,116 @@
+{
+  "url": "https://www.tmeeting.se/article/t-meeting-finalist-till-årets-mångfaldsföretag-2025",
+  "type": "news-article",
+  "slug": "t-meeting-finalist-till-arets-mangfaldsforetag-2025",
+  "pathSegments": [
+    "article",
+    "t-meeting-finalist-till-årets-mångfaldsföretag-2025"
+  ],
+  "locale": "sv",
+  "title": "T-Meeting finalist till Årets Mångfaldsföretag 2025!",
+  "ogDescription": "T-Meeting har med stolthet varit finalist till Årets Mångfaldsföretag 2025 vid Inclusion Awards 2025 – ett nationellt pris som uppmärksammar företag och organisationer som gör konkret skillnad inom mångfald, inkludering och jämlikhet på arbetsmarknaden.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp",
+  "publishDate": "2025-05-23T09:10:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting finalist till Årets Mångfaldsföretag 2025",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting har med stolthet varit finalist till "
+        },
+        {
+          "type": "text",
+          "text": "Årets Mångfaldsföretag 2025",
+          "italic": true
+        },
+        {
+          "type": "text",
+          "text": " vid "
+        },
+        {
+          "type": "link",
+          "url": "https://www.inclusionawards.se/inclusion-awards-2025/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Inclusion Awards 2025"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – ett nationellt pris som uppmärksammar företag och organisationer som gör konkret skillnad inom mångfald, inkludering och jämlikhet på arbetsmarknaden."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Priset delas ut till aktörer som visar att mångfald inte bara är en värdegrundsfråga – utan en strategisk satsning som skapar bättre arbetsplatser och ett starkare samhälle. T-Meeting nominerades för vårt långsiktiga arbete med att tillgängliggöra kommunikationsteknik för personer med funktionsnedsättning, för att vi verkar i en bransch med stor samhällsnytta, och för att vi aktivt arbetar för att inkludera fler kompetenser inom teknik- och hjälpmedelsområdet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Finalen hölls på Berns i Stockholm den 8 april, där vår medgrundare Max Tairi deltog och representerade T-Meeting under en kväll fylld av inspiration, samtal och firande av goda förebilder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Även om vi inte tog hem vinsten, ser vi finalplatsen som ett tydligt erkännande av det arbete vi gör varje dag – för att skapa ett mer tillgängligt, inkluderande och värderingsdrivet samhälle."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi vill rikta ett varmt tack till Inclusion Awards för nomineringen – och till alla våra medarbetare, deltagare och samarbetspartners som gör detta möjligt.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Utan ert engagemang hade vi inte varit där vi är idag."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Att uppmärksammas som en av finalisterna visar att vårt arbete gör skillnad – och ger oss ny kraft att fortsätta driva utvecklingen framåt."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1607
+}

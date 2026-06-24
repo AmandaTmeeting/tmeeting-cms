@@ -1,0 +1,125 @@
+{
+  "url": "https://www.tmeeting.se/article/rengoring-av-mobil",
+  "type": "news-article",
+  "slug": "rengoring-av-mobil",
+  "pathSegments": [
+    "article",
+    "rengoring-av-mobil"
+  ],
+  "locale": "sv",
+  "title": "Rengöring av mobil",
+  "ogDescription": "I och med Corona (covid-19) så kan det vara bra att då och då rengöra din telefon/platta utöver att tvätta händerna oftare.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp",
+  "publishDate": "2020-03-16T14:39:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "I och med Corona (covid-19) så kan det vara bra att då och då rengöra din telefon/platta utöver att tvätta händerna oftare."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Här har du några tips att gå efter:"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ⦁ Använd endast mjuka, luddfria trasor, du kan fukta dem lätt. Undvik sträva trasor, handdukar, pappershanddukar och liknande föremål."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ⦁ Undvik skador genom att inte torka mer än nödvändigt."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ⦁ Koppla från alla externa strömkällor, enheter och kablar."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ⦁ Låt inte fukt komma in i någon öppning."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ⦁ Använd inte aerosolsprayer, blekmedel eller slipmedel."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ⦁ Spruta inte rengöringsmedel direkt på enheten."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "I och med Corona-pandemin så har Apple gått ut med att det är OK att rengöra skärmar och tangentbord med en isopropylalkoholduk med 70% alkohol eller en desinficerande servett från Clorox. Du ska inte använda blekmedel. Se till så att det inte kommer in någon fukt i öppningarna och lägg inte ner något i rengöringsmedel. Använd det inte på textilier eller läderytor. Tänk på att rengöringsmedel försvagar beläggningen som finns på din produkt!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Källa: "
+        },
+        {
+          "type": "link",
+          "url": "https://support.apple.com/sv-se/HT204172",
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1203
+}

@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "samarbete",
+  "info": {
+    "singularName": "samarbete",
+    "pluralName": "samarbetes",
+    "displayName": "Samarbete",
+    "description": "All editable content on the /samarbete page."
+  },
+  "options": { "draftAndPublish": true },
+  "pluginsOptions": { "i18n": { "localized": true } },
+  "attributes": {
+    "heroH1": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroIntro1": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroIntro2": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroContactLink": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "projektH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "projektItems": {
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.list-item",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "produktvisningarH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "produktvisningarBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "konferenserH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "konferenserBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "socialaMedierH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "socialaMedierBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } }
+  }
+}

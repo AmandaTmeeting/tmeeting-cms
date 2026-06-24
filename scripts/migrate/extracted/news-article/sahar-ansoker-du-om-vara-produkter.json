@@ -1,0 +1,137 @@
+{
+  "url": "https://www.tmeeting.se/article/såhär-ansöker-du-om-våra-produkter",
+  "type": "news-article",
+  "slug": "sahar-ansoker-du-om-vara-produkter",
+  "pathSegments": [
+    "article",
+    "såhär-ansöker-du-om-våra-produkter"
+  ],
+  "locale": "sv",
+  "title": "Såhär ansöker du om hjälpmedel!",
+  "ogDescription": "Är du osäker på hur du ansöker om våra produkter/hjälpmedel? Såhär går du tillväga!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp",
+  "publishDate": "2025-05-21T12:07:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Vill du ansöka om våra produkter som kommunikationshjälpmedel för hemmet?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Om du är privatperson eller pensionär kan du kontakta oss, så hjälper vi dig att ta reda på vem du ska vända dig till i just din region – oftast sker ansökan via "
+        },
+        {
+          "type": "link",
+          "url": "http://1177.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "1177.se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Vill du använda våra produkter som hjälpmedel i ditt arbete?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Om du har stöd från "
+        },
+        {
+          "type": "link",
+          "url": "https://arbetsformedlingen.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Arbetsförmedlingen"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", kontaktar du din handläggare där."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Om du inte har stöd men är i arbete, ansöker du istället via "
+        },
+        {
+          "type": "link",
+          "url": "https://www.forsakringskassan.se/privatperson",
+          "children": [
+            {
+              "type": "text",
+              "text": "Försäkringskassan"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Är du osäker eller har frågor? Hör gärna av dig till "
+        },
+        {
+          "type": "link",
+          "url": "mailto:sales@tmeeting.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "oss"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – vi hjälper dig vidare."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 673
+}

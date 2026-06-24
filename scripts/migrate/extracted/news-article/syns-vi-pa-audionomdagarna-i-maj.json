@@ -1,0 +1,50 @@
+{
+  "url": "https://www.tmeeting.se/article/syns-vi-på-audionomdagarna-i-maj",
+  "type": "news-article",
+  "slug": "syns-vi-pa-audionomdagarna-i-maj",
+  "pathSegments": [
+    "article",
+    "syns-vi-på-audionomdagarna-i-maj"
+  ],
+  "locale": "sv",
+  "title": "Syns vi på Audionomdagarna i maj?",
+  "ogDescription": "Lidköping blir samlingsplatsen för alla landets audionomer mellan den 11-13 maj!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp",
+  "publishDate": "2022-05-10T07:52:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Hur kan människor idag få hjälp i vardagen genom användandet av välfärdsteknik? Kan verksamheter kan använda T-Meetings olika hjälpmedel/lösningar som ett stöd i kommunikationen med döva eller individer med hörselvariation?"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Välkommen till vår monter i Lidköpin på Audionomdagarna den 11-13 maj! Du får testa, prova och lära dig mer om de hjälpmedel som finns i vårt utbud och som bidrar till ökad trygghet och ökad självständighet för personer som är döva och för de med nedsatt hörsel."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "hoppas att vi ses där!"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 545
+}

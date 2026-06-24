@@ -1,0 +1,54 @@
+{
+  "url": "https://www.tmeeting.se/support/kontakta-support/felsökning",
+  "type": "support",
+  "slug": "felsokning",
+  "pathSegments": [
+    "support",
+    "kontakta-support",
+    "felsökning"
+  ],
+  "locale": "sv",
+  "title": "Felsökning",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "TM(/TERA)-Touch/PC Felsökning på Teckenspråk och Textat",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/tm-touch-ipad-felsökning-ver.1.00.pdf?201809101212",
+          "children": [
+            {
+              "type": "text",
+              "text": "Här kan du läsa Felsökningsguiden, TIPS: skriv ut den så du kan ha den som komihåg "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [
+    {
+      "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/tm-touch-ipad-felsökning-ver.1.00.pdf?201809101212",
+      "label": "Här kan du läsa Felsökningsguiden, TIPS: skriv ut den så du kan ha den som komihåg"
+    }
+  ],
+  "bodyTextLength": 156
+}

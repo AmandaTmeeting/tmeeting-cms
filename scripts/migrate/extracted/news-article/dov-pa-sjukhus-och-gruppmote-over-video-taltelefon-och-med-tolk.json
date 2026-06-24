@@ -1,0 +1,215 @@
+{
+  "url": "https://www.tmeeting.se/article/dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk",
+  "type": "news-article",
+  "slug": "dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk",
+  "pathSegments": [
+    "article",
+    "dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk"
+  ],
+  "locale": "sv",
+  "title": "Döv på sjukhus och gruppmöte över video, taltelefon och med tolk",
+  "ogDescription": "Vi berättar hur användaren kan koppla in tolk i samtalet i vården- utan att sjukhuspersonalen belastas.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp",
+  "publishDate": "2020-06-03T13:17:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Att kunna nå andra och vara nåbar när man själv vill är viktigt även för döva, dövblinda och hörselskadade. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Den här användarberättelsen fick vi in. Vi är glada när användare hör av sig och delar med sig av sina erfarenheter. Till och med vi som jobbar med T-Meeting lär oss hela tiden av våra användare om vilka situationer som våra produkter kan lösa.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " \"Vill berätta att min pappa blev sjuk och åkte med ambulans till sjukhuset. Hemtjänsten upptäckte att han mådde dåligt (inte covid-19). Han är inlagd nu. Nåväl. Det jag vill berätta om är att T-Meeting är fantastiskt bra att ha. Det är ju besöksförbud på sjukhuset och detta med kommunikation är inte lätt. Nåväl, såhär såg ett av samtalen med hjälp av "
+        },
+        {
+          "type": "link",
+          "url": "/produkter/tm-pc-flerpart",
+          "children": [
+            {
+              "type": "text",
+              "text": "TM-PC Flerpart"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ut:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "ordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sköterskan ringde med helt vanligt talsamtal till min bildtelefon från sin telefon."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Medan hon var uppkopplad ringde jag upp pappa med video och la till honom i samtalet. Sköterskan gick in till pappa, avslutade sitt telefonsamtal och var hos pappa medan samtalet fortsatte. Hon satt bredvid honom och pratade med mig."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pappa är ju döv så jag kopplade in tolk via bildtelefoni,net Genom att ha teckenspråkstolk med i samtalet fick pappa och jag informationen samtidigt. När sköterskan var klar med sin del kunde pappa och jag bearbeta informationen i lugn och ro, och jag kunde säkerställa att han förstått."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hade pappa haft covid-19 så hade sköterskan kunnat stannat i sitt rum och tagit sin del av samtalet därifrån och inte behövt ta på skyddsklädsel !"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vi genomförde samtalet och det gick mycket smidigt. Pappa (och jag) var mycket lugnare efteråt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Lärdomar"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "A."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Det är bra att det är enkelt att ringa till min bildtelefon. Eftersom bildtelefonen har ett helt vanligt telefonnummer behövs inga förklaringar. Bara att köra. Enkel teknik."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " B. Läkare och sköterskor tyckte att tekniken fungerade mycket bra. Det kändes som win-win. Bra kommunikation med pappa och personal som kan fokusera på sitt jobb."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " C. Pappa använder sin egna bildtelefonplatta som han är van vid. Det gör att han är nåbar och kan få hjälp med tolkning var han än är."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " D. Pappa har TM-Alert på armen. Det gör att jag och min bror kan nå honom när vi vill. Annars hade jag varit tvungen att ringa avdelningen och be dem att se till att han svarar."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " E. Vi kan ha samtal själva: pappa, anhöriga och koppla in tolk utan att störa personalen på sjukhuset.\""
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2293
+}

@@ -1,0 +1,165 @@
+{
+  "url": "https://www.tmeeting.se/article/webbinarium-när-språk-inte-längre-är-ett-hinder",
+  "type": "news-article",
+  "slug": "webbinarium-nar-sprak-inte-langre-ar-ett-hinder",
+  "pathSegments": [
+    "article",
+    "webbinarium-när-språk-inte-längre-är-ett-hinder"
+  ],
+  "locale": "sv",
+  "title": "Webbinarium: När språk inte längre är ett hinder",
+  "ogDescription": "Välkommen till ett kostnadsfritt webbinarium från T-Meeting, där vi visar hur TERAs nya funktioner kan användas som stöd i kommunikation.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp",
+  "publishDate": "2026-05-08T08:51:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Gratis webbinarium:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " När språk inte längre är ett hinder - autotextning på fler än 40 språk för ökad tillgänglighet i samtal"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Välkommen till ett kostnadsfritt webbinarium från T-Meeting, där vi visar hur TERAs nya funktioner kan användas som stöd i kommunikation. Webbinariet riktar sig till dig som använder T-Meetings produkter eller arbetar med förskrivning, rådgivning och stöd kring kommunikationshjälpmedel."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det här får du med dig:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi visar hur autotextning på fler än 40 språk kan användas som stöd i kommunikation och bidra till ökad tillgänglighet i samtal. Du får se hur funktionerna fungerar i praktiken och hur realtidstextning på olika språk kan underlätta förståelsen i olika typer av samtal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Under webbinariet går vi igenom:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "– Hur du aktiverar de nya funktionerna i TERA"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "– Hur funktionerna kan användas som stöd i olika typer av samtal"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "– Hur du anpassar inställningar utifrån behov och situation"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Datum:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 20 maj"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Tid:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 12.00–13.00"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Plats:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Online"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Anmäl dig via formuläret ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://sv.surveymonkey.com/r/XVJVYR8",
+          "children": [
+            {
+              "type": "text",
+              "text": "här"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1124
+}

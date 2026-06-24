@@ -1,0 +1,42 @@
+{
+  "url": "https://www.tmeeting.se/om-oss",
+  "type": "page",
+  "slug": "om-oss",
+  "pathSegments": [
+    "om-oss"
+  ],
+  "locale": "sv",
+  "title": "Om oss",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Varför T-Meeting?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi tror på ett socialt hållbart samhälle där jämlikhet och mångfald råder. Vi ger människor möjlighet att delta i samhället och använda sina förmågor att leva ett rikare liv. "
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 210
+}

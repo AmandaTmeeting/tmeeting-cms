@@ -1,0 +1,107 @@
+{
+  "url": "https://www.tmeeting.se/article/tera-öppna-dörren",
+  "type": "news-article",
+  "slug": "tera-oppna-dorren",
+  "pathSegments": [
+    "article",
+    "tera-öppna-dörren"
+  ],
+  "locale": "sv",
+  "title": "Med TERA 'hör' alla vem som ringer på dörren.",
+  "ogDescription": "Äldre behöver idag hjälp med att handla. Med TERA-textade telefonsamtal kan även hörselvarierade enkelt kommunicera. Mottagaren använder sin vanliga telefon. När det ringer på porttelefonen är det enkelt att släppa in rätt person.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp",
+  "publishDate": "2020-04-22T20:18:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Många äldre har hörselnedsättning. Eftersom de tillhör riskgruppen kan de inte handla i affärer själva längre. Hjälp behövs. Det finns mycket som tas för givet idag. Som att det bara är att ringa ett telefonsamtal för och be någon handla. När oron sitter i och det nödvändiga kaffet är slut vill man snabbt komma i kontakt med någon och få reda på att kaffe finns på inköpslistan, annars går man kanske ut och handlar själv. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "SMS, som många hörselskadade använder räcker inte för det ger ingen direktkontakt. Med TERA är det möjligt att ringa precis vem man vill och det som den andre säger textas automatiskt. Överenskommelse om innehåll i inköpslistan och när leverans kan ske går smidigt. När själva leveransen sker kan det bli problem."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Hur vet jag vem som ringer på porttelefonen? Vågar jag öppna? TERA löser även denna sak. Många porttelefoner bygger på uppkoppling via telefoni. Ge fastighetsägaren ditt telefonnummer och det som sägs i porten textas av TERA-AI. Du kan till och med vara på väg till affären när det ringer på dörren och du kan då få reda på att du inte behöver handla själv, utan kan gå tillbaka hem igen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Mer om TERA:"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " En hörselskadad eller döv TERA-användare kan ringa vem den vill precis som alla andra. Det mottagaren säger textas automatiskt. Mottagaren behöver inte ha någon särskild app. Mottagaren behöver inte ens veta om att detta inte är ett vanligt telefonsamtal. Texten sparas vilket hjälper dig att minnas konversationen efteråt. TERA finns för läsplatta och smartphone."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0"
+    },
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 1736
+}

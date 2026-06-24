@@ -1,0 +1,283 @@
+{
+  "url": "https://www.tmeeting.se/article/t-meeting-satsar-på-framtiden-kompetensförsörjning-inkludering-och-tillgängliga-skolval",
+  "type": "news-article",
+  "slug": "t-meeting-satsar-pa-framtiden-kompetensforsorjning-inkludering-och-tillgangliga-skolval",
+  "pathSegments": [
+    "article",
+    "t-meeting-satsar-på-framtiden-kompetensförsörjning-inkludering-och-tillgängliga-skolval"
+  ],
+  "locale": "sv",
+  "title": "T-Meeting satsar på framtiden!",
+  "ogDescription": "Under våren 2025, lagom inför att ansökningsperioderna för skolval öppnades, blev vi på T-Meeting aktiva i Mitt Vägval – en digital plattform där skolor, företag och unga möts för att utforska framtidens yrkesval tillsammans.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp",
+  "publishDate": "2025-05-23T08:48:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting satsar på framtiden: kompetensförsörjning, inkludering och tillgängliga skolval",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Under våren 2025, lagom inför att ansökningsperioderna för skolval öppnades, blev vi på T-Meeting aktiva i "
+        },
+        {
+          "type": "link",
+          "url": "https://www.varfinnsjobben.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mitt Vägval"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – en digital plattform där skolor, företag och unga möts för att utforska framtidens yrkesval tillsammans."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "På T-Meeting tror vi på ett samhälle där alla har en röst – och där framtiden formas av gemensam kunskap, tekniska möjligheter och socialt ansvar. Vår medverkan i "
+        },
+        {
+          "type": "text",
+          "text": "Mitt Vägval",
+          "italic": true
+        },
+        {
+          "type": "text",
+          "text": " är ett sätt att bidra till att göra skolval och yrkesvägledning mer "
+        },
+        {
+          "type": "text",
+          "text": "tillgängliga och inkluderande för alla barn, elever och föräldrar",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " – oavsett bakgrund, språk eller förutsättningar."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Genom ett samarbete med "
+        },
+        {
+          "type": "text",
+          "text": "Lunds kommun",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " har skolor och elever i regionen tillgång till presentationer från de företag som är aktiva inom plattformen, inklusive beskrivningar av de tjänster och yrkesroller som finns inom varje verksamhet. Det gör arbetslivet mer begripligt, inspirerande och tillgängligt redan i unga år."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vad bidrar vi med?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi på T-Meeting ser vår medverkan som ett konkret sätt att:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Öka kunskapen om hjälpmedelsbranschen",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " – en ofta sluten sektor som spelar en avgörande roll i att möjliggöra kommunikation och delaktighet för personer med funktionsnedsättning."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Synliggöra våra kompetenser och yrkesroller",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " – för att visa att branschen erbjuder utvecklande, meningsfulla och trygga arbetsmiljöer."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Minska klyftan mellan barn med funktionsnedsättning och andra elever",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " – genom att lyfta fram behovet av hjälpmedel i samhället och visa hur teknik kan bidra till inkludering."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Visa på individens möjligheter",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " – både som användare av teknik och som framtida medarbetare i en bransch där man gör verklig skillnad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Att vår företagssida i "
+        },
+        {
+          "type": "text",
+          "text": "Mitt Vägval",
+          "italic": true
+        },
+        {
+          "type": "text",
+          "text": " redan visats tusentals gånger visar att intresset finns – och att unga söker arbetsgivare som kombinerar teknik med samhällsnytta."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Från förståelse till framtid",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För unga handlar ett yrkesval inte bara om ett jobb – utan om att förstå samhället, sina möjligheter och sin roll. Genom "
+        },
+        {
+          "type": "text",
+          "text": "Mitt Vägval",
+          "italic": true
+        },
+        {
+          "type": "text",
+          "text": " bidrar vi till att bygga den förståelsen. Vi skapar en bro mellan skola och arbetsliv, och lyfter fram branscher som annars ofta förblir i skymundan."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi välkomnar projekt som detta och arbetar alltid för att stärka bandet mellan utbildning och näringsliv. Det är en självklar del av vårt långsiktiga arbete för att skapa en mer inkluderande, kompetensdriven och tillgänglig framtid – för alla."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vill du veta mer om Mitt Vägval och hur unga får tillgång till branschinformation och yrkesinspiration? Besök ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://www.varfinnsjobben.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "www.varfinnsjobben.se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Är du nyfiken på oss och vårt arbete för ett mer inkluderande samhälle? Tveka inte att kontakta ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "mailto:sales@tmeeting.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "oss"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – vi berättar gärna mer!",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2968
+}

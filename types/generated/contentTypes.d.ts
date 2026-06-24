@@ -440,6 +440,165 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiContactPageContactPage extends Struct.SingleTypeSchema {
+  collectionName: 'contact_page';
+  info: {
+    description: 'All editable content on the /support/kontakta-support page.';
+    displayName: 'Contact Page';
+    pluralName: 'contact-pages';
+    singularName: 'contact-page';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    addressContent: Schema.Attribute.String;
+    addressTitle: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    emailContent: Schema.Attribute.String;
+    emailTitle: Schema.Attribute.String;
+    heading: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::contact-page.contact-page'
+    > &
+      Schema.Attribute.Private;
+    phoneContent: Schema.Attribute.String;
+    phoneTitle: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    subtitle: Schema.Attribute.Text;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiFooterFooter extends Struct.SingleTypeSchema {
+  collectionName: 'footers';
+  info: {
+    displayName: 'Footer';
+    pluralName: 'footers';
+    singularName: 'footer';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    columns: Schema.Attribute.Component<'footer.link-column', true> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::footer.footer'>;
+    logo: Schema.Attribute.Media<'images'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: false;
+        };
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiHomepageHomepage extends Struct.SingleTypeSchema {
+  collectionName: 'homepage';
+  info: {
+    description: 'All editable content on the T-Meeting homepage.';
+    displayName: 'Homepage';
+    pluralName: 'homepages';
+    singularName: 'homepage';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    heroBody: Schema.Attribute.Text;
+    heroButtons: Schema.Attribute.Component<'homepage.cta-button', true>;
+    heroHeading: Schema.Attribute.String;
+    heroImage: Schema.Attribute.Media<'images'>;
+    heroVideo: Schema.Attribute.Media<'videos'>;
+    howToApplyBlock1Body: Schema.Attribute.Blocks;
+    howToApplyBlock1Heading: Schema.Attribute.String;
+    howToApplyBlock2Body: Schema.Attribute.Blocks;
+    howToApplyBlock2Heading: Schema.Attribute.String;
+    howToApplyHeading: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::homepage.homepage'
+    > &
+      Schema.Attribute.Private;
+    podcastBadge: Schema.Attribute.String;
+    podcastBody: Schema.Attribute.Text;
+    podcastEmbedUrl: Schema.Attribute.String;
+    podcastHeading: Schema.Attribute.String;
+    productCards: Schema.Attribute.Component<'homepage.product-card', true>;
+    productsHeading: Schema.Attribute.String;
+    productsReadMore: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiNavigationNavigation extends Struct.SingleTypeSchema {
+  collectionName: 'navigation';
+  info: {
+    description: 'Global site header \u2014 logo and menu structure.';
+    displayName: 'Navigation';
+    pluralName: 'navigations';
+    singularName: 'navigation';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    ctaHref: Schema.Attribute.String;
+    ctaLabel: Schema.Attribute.String;
+    items: Schema.Attribute.Component<'shared.nav-item', true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::navigation.navigation'
+    > &
+      Schema.Attribute.Private;
+    logo: Schema.Attribute.Media<'images'>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiNewsArticleNewsArticle extends Struct.CollectionTypeSchema {
   collectionName: 'news_articles';
   info: {
@@ -530,6 +689,116 @@ export interface ApiNewsArticleNewsArticle extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+      }>;
+    title: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiOmOssOmOss extends Struct.SingleTypeSchema {
+  collectionName: 'om_oss';
+  info: {
+    description: 'All editable content on the /om-oss page.';
+    displayName: 'Om oss';
+    pluralName: 'om-osses';
+    singularName: 'om-oss';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    heroH1: Schema.Attribute.String;
+    heroLead: Schema.Attribute.Text;
+    historiaBody: Schema.Attribute.Text;
+    historiaH2: Schema.Attribute.String;
+    innovationClosing: Schema.Attribute.Text;
+    innovationH2: Schema.Attribute.String;
+    innovationIntro: Schema.Attribute.Text;
+    innovationItems: Schema.Attribute.Component<'pages.list-item', true>;
+    jobbaBody: Schema.Attribute.Text;
+    jobbaContactText: Schema.Attribute.String;
+    jobbaEmail: Schema.Attribute.String;
+    jobbaH2: Schema.Attribute.String;
+    kundfokusBody: Schema.Attribute.Text;
+    kundfokusH2: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::om-oss.om-oss'
+    > &
+      Schema.Attribute.Private;
+    medarbetareBody: Schema.Attribute.Text;
+    medarbetareH2: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiPagePage extends Struct.CollectionTypeSchema {
+  collectionName: 'pages';
+  info: {
+    displayName: 'Page';
+    pluralName: 'pages';
+    singularName: 'page';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    body: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    heroImage: Schema.Attribute.Media<'images'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: false;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::page.page'>;
+    publishedAt: Schema.Attribute.DateTime;
+    seoDescription: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    seoTitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    slug: Schema.Attribute.UID<'title'> &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: false;
         };
       }>;
     title: Schema.Attribute.String &
@@ -638,6 +907,46 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
           localized: false;
         };
       }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiSamarbeteSamarbete extends Struct.SingleTypeSchema {
+  collectionName: 'samarbete';
+  info: {
+    description: 'All editable content on the /samarbete page.';
+    displayName: 'Samarbete';
+    pluralName: 'samarbetes';
+    singularName: 'samarbete';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    heroContactLink: Schema.Attribute.String;
+    heroH1: Schema.Attribute.String;
+    heroIntro1: Schema.Attribute.Text;
+    heroIntro2: Schema.Attribute.Text;
+    konferenserBody: Schema.Attribute.Text;
+    konferenserH2: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::samarbete.samarbete'
+    > &
+      Schema.Attribute.Private;
+    produktvisningarBody: Schema.Attribute.Text;
+    produktvisningarH2: Schema.Attribute.String;
+    projektH2: Schema.Attribute.String;
+    projektItems: Schema.Attribute.Component<'pages.list-item', true>;
+    publishedAt: Schema.Attribute.DateTime;
+    socialaMedierBody: Schema.Attribute.Text;
+    socialaMedierH2: Schema.Attribute.String;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -934,6 +1243,38 @@ export interface ApiSupportDocumentSupportDocument
   };
 }
 
+export interface ApiSupportPageSupportPage extends Struct.SingleTypeSchema {
+  collectionName: 'support_page';
+  info: {
+    description: 'All editable content on the /support landing page.';
+    displayName: 'Support Page';
+    pluralName: 'support-pages';
+    singularName: 'support-page';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    heroBody: Schema.Attribute.Text;
+    heroBtnLabel: Schema.Attribute.String;
+    heroH1: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::support-page.support-page'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    serviceCards: Schema.Attribute.Component<'pages.service-card', true>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiSystemStatusSystemStatus extends Struct.SingleTypeSchema {
   collectionName: 'system_statuses';
   info: {
@@ -977,6 +1318,40 @@ export interface ApiSystemStatusSystemStatus extends Struct.SingleTypeSchema {
           localized: true;
         };
       }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiVisionVision extends Struct.SingleTypeSchema {
+  collectionName: 'vision';
+  info: {
+    description: 'All editable content on the /om-oss/vision page.';
+    displayName: 'Vision';
+    pluralName: 'visions';
+    singularName: 'vision';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    digitaliseringBody: Schema.Attribute.Text;
+    digitaliseringH2: Schema.Attribute.String;
+    heroH1: Schema.Attribute.String;
+    heroLead: Schema.Attribute.Text;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::vision.vision'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    tillganglighetBody: Schema.Attribute.Text;
+    tillganglighetH2: Schema.Attribute.String;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1494,12 +1869,21 @@ declare module '@strapi/strapi' {
       'admin::transfer-token': AdminTransferToken;
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
+      'api::contact-page.contact-page': ApiContactPageContactPage;
+      'api::footer.footer': ApiFooterFooter;
+      'api::homepage.homepage': ApiHomepageHomepage;
+      'api::navigation.navigation': ApiNavigationNavigation;
       'api::news-article.news-article': ApiNewsArticleNewsArticle;
+      'api::om-oss.om-oss': ApiOmOssOmOss;
+      'api::page.page': ApiPagePage;
       'api::product.product': ApiProductProduct;
+      'api::samarbete.samarbete': ApiSamarbeteSamarbete;
       'api::service.service': ApiServiceService;
       'api::site-setting.site-setting': ApiSiteSettingSiteSetting;
       'api::support-document.support-document': ApiSupportDocumentSupportDocument;
+      'api::support-page.support-page': ApiSupportPageSupportPage;
       'api::system-status.system-status': ApiSystemStatusSystemStatus;
+      'api::vision.vision': ApiVisionVision;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.tmeeting.se/support/manualer",
+  "type": "support",
+  "slug": "manualer",
+  "pathSegments": [
+    "support",
+    "manualer"
+  ],
+  "locale": "sv",
+  "title": "Manualer",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Här kan du alltid hitta våra senaste manualer"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "http://doc.tmeeting.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "Manualer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Instruktioner på Teckenspråk"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "/support/manualer/tm-på-teckenspråk-och-textat",
+          "children": [
+            {
+              "type": "text",
+              "text": "TM/-TK/TERA på Teckenspråk och Textat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "/support/manualer/tm-9000-manualer",
+          "children": [
+            {
+              "type": "text",
+              "text": "TM-9000"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 170
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.tmeeting.se/article/reportage-om-tera",
+  "type": "news-article",
+  "slug": "reportage-om-tera",
+  "pathSegments": [
+    "article",
+    "reportage-om-tera"
+  ],
+  "locale": "sv",
+  "title": "TERA som AI-baserad telefonlösning",
+  "ogDescription": "Isabelle Ibérer från Wendelin Media har gjort ett reportage om vår produkt TERA i deras tematidning \"innovativa företag\". Ni kan läsa reportaget här!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp",
+  "publishDate": "2023-06-27T11:28:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp"
+  ],
+  "blocks": [],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 0
+}

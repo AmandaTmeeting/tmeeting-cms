@@ -1,0 +1,177 @@
+{
+  "url": "https://www.tmeeting.se/support/driftstatus",
+  "type": "support",
+  "slug": "driftstatus",
+  "pathSegments": [
+    "support",
+    "driftstatus"
+  ],
+  "locale": "sv",
+  "title": "Driftstatus",
+  "ogDescription": "Här hittar du aktuell driftinformation över driftstörningar som kan påverka våra produkter och tjänster.",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Driftsstatus T-Meetings system",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Alla T-Meetings system fungerar utan problem"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "230411 Fel hos Texttelefoni.se tjänsten löst"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "230303 16:30 Det är för närvarande ett fel hos Texttelefoni.se tjänsten",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Felet yttrar sig att som att när Texttelefoni.se ringer till en av T-Meetings klienter, så ser inte förmedlaren det som skrivs med text."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Felet berör enbart Texttelefoni.se, för Bildtelefoni.net så fungerar texten utan problem. Vi har undersökt saken ihop med Texttelefoni.se och felet ligger inte hos T-Meeting."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi beklagar att detta fel hos Texttelefoni.se påverkar våra brukare. "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Vi hänvisar eventuella klagomål till leverantören av Texttelefoni.se och PTS"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "230320 Uppdatering",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det ska nu finnas en bugfix som korrigerar Texttelefoni.se tjänsten. "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Vi väntar på att den ska börja användas i Texttelefonitjänstens produktionsmiljö."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "230327 Uppdatering",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har efter kontakt med Samres (leverantören av Texttelefoni.se) idag fått till oss att man nu börjat uppdatera förmedlarnas klienter med bugfixen samt ge varje förmedlare information om uppdateringen. Detta väntas pågå successivt under vecka 13."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "230411 Uppdatering - problem löst",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Uppgraderingen är genomförd hos alla förmedlare med undantag av ett par extraarbetare. Dessa får uppgraderingen så fort de har ett pass inbokat."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Texttelefoni.se plockar nu bort felmeddelandet på hemsidan"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1520
+}

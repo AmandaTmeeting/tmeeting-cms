@@ -1,0 +1,203 @@
+{
+  "url": "https://www.tmeeting.se/samarbete",
+  "type": "page",
+  "slug": "samarbete",
+  "pathSegments": [
+    "samarbete"
+  ],
+  "locale": "sv",
+  "title": "Samarbete",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Samarbete ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "När alla ska med, behöver alla kunna välja nåbarhet och klara att hänga med i kommunikationen. ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Med tiden har vi fått en gedigen produktfamilj och är gärna med som partners i större projekt. Vi driver också utvecklingen framåt själva med vår vision om Komplett Kommunikation som ledstjärna. ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi har tillgängliga och säkra lösningar inom telefoni, distansmöten, möten på plats och tolkning. Vi bryr oss om hela kommunikationsprocessen vilket gör att nåbarhet är viktigt. Att kunna bli varse om när någon försöker nå en, eller att kunna ta kontakt med vem som helst med den utrustning man har till hands är nyckeln. För detta behövs öppen standard och kunskap om människor. Här kommer vi in. ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "url": "/om-oss/kontakt",
+          "children": [
+            {
+              "type": "text",
+              "text": "Kontakta oss gärna när det verkar lockande att samarbeta med oss."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Exempel på tidigare projekt",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Voxeyes: Videobesök på Tudorkliniken"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " PTS Innovationstävling: TERA Next Generation"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " PTS Innovationstävling: Fritt Fram"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " PTS Innovationstävling: T-Meeting för utbildning och arbete"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Produktvisningar och föreläsningar",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi kommer gärna och visar våra produkter eller föreläser om våra erfarenheter. "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Information om detta och andra nyheter publicerar vi främst på Facebook, följ oss där för att hålla dig uppdaterad."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Våra konferenser",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi arrangerar sedan 2015 konferenser. Sedan 2018 sker detta i samarbete med Lidol. Från att varit renodlade T-Meetingkonferenser gick vi då över till att sponsra en allmän konferens kring Komplett Kommunikation på en dag. I samband med denna hålls en T-Meetingdag för våra användare och andra som är intresserad av våra produkter."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Sociala medier",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi finns på flertalet sociala medier och de är också vår främsta kanal för nyheter om våra produkter och tjänster samt olika arrangemang. Sociala medier är också kanaler vi använder för att delta i och driva på samhällsutvecklingen."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2040
+}

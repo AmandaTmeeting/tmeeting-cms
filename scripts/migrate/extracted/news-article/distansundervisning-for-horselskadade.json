@@ -1,0 +1,295 @@
+{
+  "url": "https://www.tmeeting.se/article/distansundervisning-for-horselskadade",
+  "type": "news-article",
+  "slug": "distansundervisning-for-horselskadade",
+  "pathSegments": [
+    "article",
+    "distansundervisning-for-horselskadade"
+  ],
+  "locale": "sv",
+  "title": "Distansundervisning för hörselskadade",
+  "ogDescription": "För distansunervisning för hörselvarierade finns lösningar för situationer som exempelvis: Textade telefonsamtal, Videomöten på distans, Flerpartssamtal och Lokal textning (skrivtolk i fickan).",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp",
+  "publishDate": "2020-03-22T11:43:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meetings TERA är till hjälp i undervisning, grupparbeten och samtal.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För distansunervisning för hörselvarierade finns lösningar för situationer som exempelvis: Textade telefonsamtal, Videomöten på distans, Flerpartssamtal och Lokal textning (skrivtolk i fickan)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det finns 1,8 miljoner personer med hörselnedsättning i Sverige. Ca 10 % av dessa har grav hörselnedsättning. För dessa är nyttan av automatisk textning med TERA självklar. Men TERA är även bra för personer med måttliga hörselnedsättningar, de som har svenska som andraspråk och alla som behöver kognitivt stöd. ",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "För vanliga telefonsamtal t.ex. vid planering eller telefonintervjuer",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-mobile",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA - Textade telefonsamtal "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "för samtal med andra över vanlig telefon. Det räcker att eleven/studenten har TERA-appen på sin mobil. Mottagaren har en helt vanlig telefon, fast eller mobil, och kan sitta var som helst i världen. TERA-användaren kan vara var som helst där det finns en uppkoppling. Texten sparas vilket är ett bra stöd för för eleven kognitivt. "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Distansmöte över video",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-touch",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA-videomöte på distans"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ":",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Eleven/studenten kan med TERA koppla upp sig mot andra som också använder video enligt öppen SIP-standard. Om det sitter en lärare i andra änden textas det som läraren säger automatiskt för eleven. Eleven och läraren kan också skriva till varandra i realtid, dvs “i mun på varandra”. Texten sparas och eleven kan efteråt kan läsa vad läraren har sagt. Det är ett bra stöd för minnet och om eleven vill be någon närstående om hjälp med att förstå."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Lokal skrivtolk",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tera-local",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA-Local"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": I de fall man sitter i samma lokal kan TERA även användas för tal-till-text/transkribering. Det som läraren säger textas. Detta är både användbart för hörselskadade och personer som har hjälp av stöd med koncentrationen. Bäst resultat blir då när den som talar använder separat mikrofon."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Gruppmöten",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vid gruppmöten kan flera vara med samtidigt. "
+        },
+        {
+          "type": "text",
+          "text": "De elever som har TERA får det som de andra säger textat. ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "Läraren kopplar upp lektionen med hjälp av "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tm-pc-fyrpart",
+          "children": [
+            {
+              "type": "text",
+              "text": "TM-PC Fyrpart"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " eller "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster/distanstolken",
+          "children": [
+            {
+              "type": "text",
+              "text": "Distanstolken/TM-PC Pro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Öppen standard och anpassningar",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Heterogen grupp: Hörselvarierade är alla olika.",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " En grupp kan känna sig hemma både på svenska och teckenspråk. Ena stunden vill de kunna prata med en talande person på distans. För att i nästa samtal vilja tala med en döv vän eller anhörig. Med TERA sker detta sömlöst eftersom TERA klarar allt detta. Appen går att anpassa för synnedsättningar exemplevis genom att anpassa textstorlek eller färg. Dessutom går det att koppla in varseblivningsutrustning som blinklampor, pager och "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tm-alert",
+          "children": [
+            {
+              "type": "text",
+              "text": "TM-Alert"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ljud och hörförståelse: ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "För att det skall fungera på bästa sätt för hörselskadade och döva som använder hörhjälpmedel bör ett par saker uppfyllas: Ljudet koppas direkt till personens hörhjälpmedel via bluetooth (halsslinga eller streamer). Texten fungerar som bra stöd till hörseln och tillsammans stärks ljudförståelsen. Jämför detta med att det är lättare att \"höra\" engelskan i en film när det är textat på engelska. Det är därför mycket viktigt att texten kommer i nära anslutning till det som sägs och att den är så ordagrann som möjligt. Med TERA uppfylls allt detta och texten ligger typiskt \"ett ord efter\" dvs så nära det är möjligt att livetexta."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Öppen standard",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": ": Anledningen till att detta är möjligt är att TERA liksom alla T-Meetings produkter följer öppen standard enligt Totalkonversation. Öppen standard gör att det går att ringa upp och bli uppringd av en teckenspråkstolk eller skrivtolk. PTS, Post- och telestyrelsen, tillhandahåller exempelvis bildtelefonitjänst och texttelefonitjänst som är öppen 24/7/365. Dessa går självklart att använda ihop med T-Meetings produkter."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "HD-ljud och bild",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": ": Efter många års erfarenhet har vi lärt oss att högsta bild- och ljudkvalitet är viktigt för de som har syn- eller hörselnedsättning. Därför kan både video och ljud fås med HD-kvalitet. TERA kan idag transkribera Svenska, Norska och Engelska."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 3897
+}

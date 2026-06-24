@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_homepage_cta_buttons",
+  "info": {
+    "displayName": "CTA Button",
+    "icon": "cursor",
+    "description": "A call-to-action button with label and destination href."
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "href": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

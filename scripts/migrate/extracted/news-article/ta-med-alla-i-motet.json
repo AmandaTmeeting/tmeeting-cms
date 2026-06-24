@@ -1,0 +1,112 @@
+{
+  "url": "https://www.tmeeting.se/article/ta-med-alla-i-mötet",
+  "type": "news-article",
+  "slug": "ta-med-alla-i-motet",
+  "pathSegments": [
+    "article",
+    "ta-med-alla-i-mötet"
+  ],
+  "locale": "sv",
+  "title": "Ta med alla i mötet",
+  "ogDescription": "Videomöten med anhöriga och andra är självklart viktigt. Med T-Meeting kan alla vara med i samtalet.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/37C5A635-881F-4D8A-916E6B011BA0EE3F-2000w.webp",
+  "publishDate": "2021-03-28T08:04:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/37C5A635-881F-4D8A-916E6B011BA0EE3F-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/534360277?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/534360277?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Videomöten med anhöriga och andra är självklart viktigt."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med T-Meeting kan alla vara med i samtalet:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Döva och andra teckenspråkiga på bildtelefon - det spelar ingen roll vilken bildtelefonleverantör som används"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hörande som använder taltelefon kan vara med"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Teckenspråkstolk kan vara med."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det är bra att veta att anhöriga kan få anhöriglicens för bildtelefon."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/534360277?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 515
+}

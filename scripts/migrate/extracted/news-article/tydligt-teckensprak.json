@@ -1,0 +1,103 @@
+{
+  "url": "https://www.tmeeting.se/article/tydligt-teckensprak",
+  "type": "news-article",
+  "slug": "tydligt-teckensprak",
+  "pathSegments": [
+    "article",
+    "tydligt-teckensprak"
+  ],
+  "locale": "sv",
+  "title": "Tydligt teckenspråk",
+  "ogDescription": "Till hösten kickar vi igång med ett pilotprojekt!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp",
+  "publishDate": "2021-06-21T09:51:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vecka 37 kickar vi igång ett pilotprojekt som vi kallar för \"Tydligt teckenspråk\", tillsammans med teckenspråkstolken Eva Zaar. Vi kommer att delge nyheter på tydligt teckenspråk - och detta under ett par dagar. Detta är ett projekt som T-Meeting valt att sponsra. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Detta koncept finns redan för dem som inte kan så avancerad svenska i tal, men inte för dem som inte kan så avancerad teckenspråk på svenska. Inte jättelogiskt, eller hur? Detta pilotprojekt är till för dig som kanske kommer ifrån ett annat land och försöker träna upp ditt teckenspråk på svenska och för dig som vill/behöver lära dig mer teckenspråk av en eller annan anledning. Kanske bara för intressets skull? Vi hoppas på feedback kring vad som är bra men också feedback kring vad som är mindre bra och skulle kunna förbättras. "
+        },
+        {
+          "type": "link",
+          "url": "https://sv.surveymonkey.com/r/7G5MCYW",
+          "children": [
+            {
+              "type": "text",
+              "text": "Här"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " kan du fylla i enkäten."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Avsnitten ligger ute på T-Meetings Facebooksida och även vår Youtube-kanal. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vår Facebook-sida: "
+        },
+        {
+          "type": "link",
+          "url": "https://www.facebook.com/tmeeting.se",
+          "children": [
+            {
+              "type": "text",
+              "text": "www.facebook.com/tmeeting.se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vår Youtube-kanal: "
+        },
+        {
+          "type": "link",
+          "url": "http://www.youtube.com/Tmeetingchannel",
+          "children": [
+            {
+              "type": "text",
+              "text": "www.youtube.com/Tmeetingchannel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 875
+}

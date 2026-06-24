@@ -1,0 +1,206 @@
+{
+  "url": "https://www.tmeeting.se/support/kontakta-support",
+  "type": "support",
+  "slug": "kontakta-support",
+  "pathSegments": [
+    "support",
+    "kontakta-support"
+  ],
+  "locale": "sv",
+  "title": "Kontakta Support",
+  "ogDescription": "Här hittar du kontaktuppgifter till supporten som kan svara på frågor om produkter eller tjänster.",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Support ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vardagar (måndag - fredag).",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 10.00 - 15.00 (support via bildtelefon/texttelefon)",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 08.00 - 17.00 (support via taltelefon)",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Mail:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Bildtelefon:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " support@tmeeting.se support@t-meeting.se (Här finns teckenspråkskunnig personal)"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " 0406060432@t-meeting.se (Här finns teckenspråkskunnig personal)"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "3G video/sms: ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "0702-45 65 00"
+        },
+        {
+          "type": "text",
+          "text": " Texttelefon:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 0406060432"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Fax:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 040-661 41 88 "
+        },
+        {
+          "type": "text",
+          "text": "Taltelefon:",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " 040-661 41 80"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vart vi finns:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": " ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "Amiralsgatan 20, 3 trappor upp, 211 55 Malmö, Sverige."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Europea i Malmö AB",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "/support/kontakta-support/felsökning",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tips på saker du kan kontrollera själv"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 818
+}

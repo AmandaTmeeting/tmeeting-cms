@@ -1,0 +1,79 @@
+{
+  "url": "https://www.tmeeting.se/article/videointervju-med-harry-eriksson-om-tera",
+  "type": "news-article",
+  "slug": "videointervju-med-harry-eriksson-om-tera",
+  "pathSegments": [
+    "article",
+    "videointervju-med-harry-eriksson-om-tera"
+  ],
+  "locale": "sv",
+  "title": "Bildtelefonintervju med Harry Eriksson om TERA",
+  "ogDescription": "Harry Eriksson har testat TERA och vi har intervjuat honom om hans erfarenheter.\r\nIntervjun är gjord över video och Harry har stöd av TERA som textar samtalet för honom.",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Under 10 år har Harry Eriksson inte kunnat använda telefon. Han har nu provat TERA under fem månader. Han har timslånga samtal i telefon med anhöriga och har använt TERA-Local på restaurangbesök. Att klara sig själv är viktigt och nu kan Harry utföra ärenden över telefon."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Harry Eriksson har testat TERA och vi har intervjuat honom om hans erfarenheter. Harry har bakgrund inom teknisk utveckling och därför valde vi honom som testare för att ge oss värdefulla synpunkter."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Videon har valbar textning, klicka på \"CC\" i filmen för att aktivera."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Intervjun är gjord med T-Meetings bildtelefonilösning TM-PC. Harry använder TERA på iPad. TERA textar samtalet för honom samtidigt som han ser oss.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/553304619?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/553304619?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/553304619?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 782
+}

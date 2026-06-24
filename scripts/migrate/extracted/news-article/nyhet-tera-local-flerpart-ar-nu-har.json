@@ -1,0 +1,113 @@
+{
+  "url": "https://www.tmeeting.se/article/nyhet-tera-local-flerpart-är-nu-här",
+  "type": "news-article",
+  "slug": "nyhet-tera-local-flerpart-ar-nu-har",
+  "pathSegments": [
+    "article",
+    "nyhet-tera-local-flerpart-är-nu-här"
+  ],
+  "locale": "sv",
+  "title": "Nyhet! TERA-Local flerpart är här!",
+  "ogDescription": "Nu kan flera delta i konversationen via TERA-Local, detta med hjälp av röstigenkänning och namngivning!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp",
+  "publishDate": "2024-06-11T04:06:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Nyhet: Nu kan du ha flerpartssamtal med TERA-Local",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Nu har TERA nått en ny milstolpe! Hör du dåligt eller inte alls, men vill delta i möten eller familjeträffar? Med den nya TERA-Local-inställningen kan du använda appen i grupp och namnge deltagarna. TERA's röstigenkänning hjälper dig att följa vem som säger vad, utan att andra behöver någon särskild utrustning. Placera en mikrofon på bordet, koppla den till din iPhone eller iPad via Bluetooth, och namnge deltagarna. Samtalen sparas i din app för framtida referens. Perfekt för möten, läkarbesök och mer!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Svensk teknik när den är som bäst – TERA gör det möjligt!",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För mer information om TERA som hjälpmedel i sin helhet, klicka "
+        },
+        {
+          "type": "link",
+          "url": "/produkter/tera",
+          "children": [
+            {
+              "type": "text",
+              "text": "här"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Så här kan det se ut innan du namnger personerna du samtalar med. När du har skrivit in namnen, kopplar TERA varje namn till rätt röst med hjälp av röstigenkänning. Proceduren upprepas varje gång du avslutar samtalet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Användaren har valt gul text mot svart bakgrund för bättre kontrast, vilket är särskilt användbart för personer med synnedsättning."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Färg, font och storlek på font går som vanligt att justera efter tycke och behov."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Du aktiverar funktionen genom att gå in på inställningar -> tal till text -> aktiverar \"Benämn rösterna i lokal TERA samtal\""
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1289
+}

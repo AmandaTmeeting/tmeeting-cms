@@ -1,0 +1,1427 @@
+{
+  "url": "https://www.tmeeting.se/nyheter/artiklar",
+  "type": "page",
+  "slug": "artiklar",
+  "pathSegments": [
+    "nyheter",
+    "artiklar"
+  ],
+  "locale": "sv",
+  "title": "Artiklar",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/781114F5-C5AE-4F58-A974E3DE5B8CDB22-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp",
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Artiklar"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/nyhet-flerspråkig-autotextning",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nyhet: flerspråkig autotextning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "22 May 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA kan nu automatiskt texta samtal i realtid på över 40 språk. Den nya funktionen ingår utan extra kostnad för alla befintliga och nya TERA-användare."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/webbinarium-när-språk-inte-längre-är-ett-hinder",
+          "children": [
+            {
+              "type": "text",
+              "text": "Webbinarium: När språk inte längre är ett hinder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "8 May 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Välkommen till ett kostnadsfritt webbinarium från T-Meeting, där vi visar hur TERAs nya funktioner kan användas som stöd i kommunikation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/dövas-dag-2025",
+          "children": [
+            {
+              "type": "text",
+              "text": "Dövas dag 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "8 October 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi på T-Meeting deltog på årets Dövas Dag – en dag fylld av inspiration, gemenskap och nya möten."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/vi-är-stolta-mottagare-av-true-star-business-award-europea-i-malmö",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vi är stolta mottagare av TRUE Star Business Award"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "2 October 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi är stolta att ha mottagit TRUE Star Business Award – en utmärkelse som bekräftar vårt arbete med att skapa tillgängliga kommunikationslösningar. Priset stärker vår vision om att göra samtal enklare och mer inkluderande för alla."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/vitalis-2025",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vitalis 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "23 May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi är stolta över att ha varit på plats i Vitalis i år, både som besökare och som aktiva deltagare i programmet."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/tmeeting-rtt-standard",
+          "children": [
+            {
+              "type": "text",
+              "text": "Samarbete med ETSI – Vi formar framtidens tillgängliga kommunikation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "23 May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting är nu en aktiv samarbetspartner till European Telecommunications Standards Institute (ETSI) i arbetet med att ta fram nästa generations standard för Real-Time Text (RTT)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/t-meeting-finalist-till-årets-mångfaldsföretag-2025",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Meeting finalist till Årets Mångfaldsföretag 2025!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "23 May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting har med stolthet varit finalist till Årets Mångfaldsföretag 2025 vid Inclusion Awards 2025 – ett nationellt pris som uppmärksammar företag och organisationer som gör konkret skillnad inom mångfald, inkludering och jämlikhet på arbetsmarknaden."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/t-meeting-satsar-på-framtiden-kompetensförsörjning-inkludering-och-tillgängliga-skolval",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Meeting satsar på framtiden!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "23 May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Under våren 2025, lagom inför att ansökningsperioderna för skolval öppnades, blev vi på T-Meeting aktiva i Mitt Vägval – en digital plattform där skolor, företag och unga möts för att utforska framtidens yrkesval tillsammans."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/såhär-ansöker-du-om-våra-produkter",
+          "children": [
+            {
+              "type": "text",
+              "text": "Såhär ansöker du om hjälpmedel!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "21 May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Är du osäker på hur du ansöker om våra produkter/hjälpmedel? Såhär går du tillväga!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/t-meeting-på-konferens-om-tillgängliga-konferenser-i-malmö",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Meeting på konferens om tillgängliga konferenser i Malmö"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "20 May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "I april deltog T-Meeting aktivt i den stora konferensen i Malmö med fokus på tillgängliga konferenser"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/konferens2024",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tillgänglighetslagen 2025 - är din verksamhet förberedd?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "28 August 2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Anmäl dig till vår heldagskonferens i Malmö den 21 november, där vi fokuserar på den kommande tillgänglighetslagen som träder i kraft i juni 2025!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/nyhet-tera-local-flerpart-är-nu-här",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nyhet! TERA-Local flerpart är här!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "11 June 2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Nu kan flera delta i konversationen via TERA-Local, detta med hjälp av röstigenkänning och namngivning!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/reportage-om-tera",
+          "children": [
+            {
+              "type": "text",
+              "text": "Reportage om TERA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "27 June 2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Isabelle Ibérer från Wendelin Media har gjort ett reportage om vår produkt TERA i deras tematidning \"innovativa företag\". Ni kan läsa reportaget här!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/händer-på-t-meeting-under-skåne-innovation-week",
+          "children": [
+            {
+              "type": "text",
+              "text": "Skåne Innovation Week"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "2 June 2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Den 15 juni är det dags att ta del av T-Meetings bidrag till Skåne Innovations week. Du får en hel eftermiddag och kväll full av samtal om tillgänglighet, hörsel och kommunikation. Se vilka event som äger rum hos oss!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/syns-vi-på-audionomdagarna-i-maj",
+          "children": [
+            {
+              "type": "text",
+              "text": "Syns vi på Audionomdagarna i maj?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "10 May 2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Lidköping blir samlingsplatsen för alla landets audionomer mellan den 11-13 maj!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/t-meeting-frågar-isabel",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Meeting frågar Isabel om teckenspråket"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "23 February 2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Då det i veckan har varit den internationella modersmålsdagen så har vi ställt tre frågor till Isabel Engwall relaterat till teckenspråket."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/hur-fungerar-tera",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hur fungerar TERA? Vi förklarar på teckenspråk!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "26 November 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med TERA kan du ringa vem som helst med autotext och talsyntes. Vår medarbetare Veronica förklarar mer ingående hur TERA fungerar!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/t-meetings-podd-tillgänglig-kommunikation-för-alla-släpps-i-november",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vår podd finns nu ute för er att lyssna/se på!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "26 October 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Tillgänglig kommunikation för alla! En podd där vi diskuterar två viktiga begrepp; tillgänglighet och kommunikation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/mer-om-tera-på-teckenspråk",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mer om TERA på teckenspråk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "8 September 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det uppstår olika situationer då en tolk inte är tillgänglig, då du vill kunna ha alternativ. Då finns TERA där för dig."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/tydligt-teckensprak",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tydligt teckenspråk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "21 June 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Till hösten kickar vi igång med ett pilotprojekt!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/harry-testar-tera-i-fem-månader",
+          "children": [
+            {
+              "type": "text",
+              "text": "Harry testar TERA i fem månader"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "18 December 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Under 10 år har Harry Eriksson inte kunnat använda telefon men nu har Harry provat TERA under fem månader. läs hela intervjun!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/hedersomnämnande-for-t-meeting-i-inuse-award",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hedersomnämnande för T-Meeting i inUse Award"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "25 November 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting fick hedersomnämnande i prestigefulla inUse Awards 2020. Det är en fin bekräftelse på att vi verkligen gör användarnas vardag enklare."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk",
+          "children": [
+            {
+              "type": "text",
+              "text": "Döv på sjukhus och gruppmöte över video, taltelefon och med tolk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "3 June 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi berättar hur användaren kan koppla in tolk i samtalet i vården- utan att sjukhuspersonalen belastas."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/döva-på-boenden-behöver-egen-telefon",
+          "children": [
+            {
+              "type": "text",
+              "text": "Döva på boenden behöver egen telefon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "6 May 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "En döv på ett boende som behöver en egen bildtelefon har rätt till detta, precis som alla andra som har egen telefon."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/tera-öppna-dörren",
+          "children": [
+            {
+              "type": "text",
+              "text": "Med TERA 'hör' alla vem som ringer på dörren."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "22 April 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Äldre behöver idag hjälp med att handla. Med TERA-textade telefonsamtal kan även hörselvarierade enkelt kommunicera. Mottagaren använder sin vanliga telefon. När det ringer på porttelefonen är det enkelt att släppa in rätt person."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/från-tolk-i-fickan-till-distanstolk-vid-behov",
+          "children": [
+            {
+              "type": "text",
+              "text": "Från Tolk i fickan till Distanstolk vid behov"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "15 April 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det finns olika vägar att komma igång och utvecklas med de smarta tolklösningar med T-Meetings plattform har."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/tera-komplett-kommuntikation",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA - Komplett Kommunikation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "1 April 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA har inbyggd automatisk textning och talsyntes, TERA-AI som bygger på AI/ML (Machine Learning). TERA har utvecklats från T-Meetings hjälpmedel för döva, dövblinda och hörselskadade och har därför även video."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/flerpartssamtal-på-distans-med-teckenspråkstolk",
+          "children": [
+            {
+              "type": "text",
+              "text": "Se den du pratar med och tolken samtidigt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "23 March 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Finns det en lösning där det går att se den en ringer till och tolken samtidigt? Till exempel för ett videosamtal med vården?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/distansundervisning-for-horselskadade",
+          "children": [
+            {
+              "type": "text",
+              "text": "Distansundervisning för hörselskadade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "22 March 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För distansunervisning för hörselvarierade finns lösningar för situationer som exempelvis: Textade telefonsamtal, Videomöten på distans, Flerpartssamtal och Lokal textning (skrivtolk i fickan)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/vad-fungerar-lättast-med-livetextning",
+          "children": [
+            {
+              "type": "text",
+              "text": "Varför ska jag välja TERA för tal-till-text?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "18 March 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det har kommit in en fråga: Fysiska möten ersätts i rasande fart med digitala då många kommer att få jobba hemifrån fortsättningsvis. Vilket ställer till det för hörselskadade och döva. Vilka av videokonferenssystemen på marknaden fungerar lättast med livetextning?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/skrivtolkning-med-tera-och-distanstolken",
+          "children": [
+            {
+              "type": "text",
+              "text": "Minska smittrisken: Skrivtolkning med TERA och Distanstolken"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "16 March 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med hjälp av TERA-Local kan skrivtolkning ske på plats med automatisk AI-tolk. Med TERA kan även telefonsamtal textas automatiskt. Distanstolken kan användas för skrivtolkning på distans."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/distanstolkning-teckenspråk",
+          "children": [
+            {
+              "type": "text",
+              "text": "Distanstolkning - teckenspråk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "16 March 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meetings plattform gör att ordinarie tolkar säkert kan arbeta på distans, på kontoret eller i hemmet. Tryggt för sjukvårdspersonal, användarna och deras anhöriga. Plattformen bygger på öppen standard och telefoni - passar alltså med hjälpmedel som redan förskrivs till anhöriga och döva. Möjlighet till flerpartssamtal gör att fler kan kopplas upp även befintlig tolktjänst 24/7/365."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/rengoring-av-mobil",
+          "children": [
+            {
+              "type": "text",
+              "text": "Rengöring av mobil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "16 March 2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "I och med Corona (covid-19) så kan det vara bra att då och då rengöra din telefon/platta utöver att tvätta händerna oftare."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "/article/läs-mer-om-tera",
+          "children": [
+            {
+              "type": "text",
+              "text": "Läs mer om TERA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "25 May 2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Här finns länkar till broschyrer och annan information om TERA"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 7788
+}

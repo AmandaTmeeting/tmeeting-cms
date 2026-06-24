@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_homepage_product_cards",
+  "info": {
+    "displayName": "Product Card",
+    "icon": "layout",
+    "description": "A featured product or service card on the homepage grid."
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "href": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "allowedTypes": ["images"],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

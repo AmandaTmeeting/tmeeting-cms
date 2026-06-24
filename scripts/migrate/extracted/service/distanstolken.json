@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tmeeting.se/tjänster/distanstolken",
+  "type": "service",
+  "slug": "distanstolken",
+  "pathSegments": [
+    "tjänster",
+    "distanstolken"
+  ],
+  "locale": "sv",
+  "title": "Distanstolken",
+  "ogDescription": "Distanstolken är en komplett videokommunikationslösning speciellt designad för tolkcentraler och video callcenter",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 0
+}

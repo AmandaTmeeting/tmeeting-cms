@@ -1,0 +1,329 @@
+{
+  "url": "https://www.tmeeting.se/dd2022",
+  "type": "page",
+  "slug": "dd2022",
+  "pathSegments": [
+    "dd2022"
+  ],
+  "locale": "sv",
+  "title": "Dövas Dag 2022",
+  "ogDescription": "Vi är guldsponsor till Dövas dag i år den 24 september. Kom till vår monter för att vara med i tävlingar, lyssna på när Florian Tirnovan kör stand up och mycket mer!",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Välkommen till T-Meeting: Guldsponsor Dövas Dag 2022! ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " Läs mer om vår ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "#Tävling",
+          "children": [
+            {
+              "type": "text",
+              "text": "tävling"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " och våra aktiviteter på vår ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "#Monter",
+          "children": [
+            {
+              "type": "text",
+              "text": "monterscen"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " och i ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "#utställarhallen",
+          "children": [
+            {
+              "type": "text",
+              "text": "utställarhallen"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting montern"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "09:15 Vanliga telefonsamtal med TERA"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "10:05 Florian Tirnovan kör stand up"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "10:15 Var nåbar med T-Meeting"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "11:30 Florian Tirnovan kör stand up"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "11:45 UTLOTTNING 1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "12:00 Om CODA International"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "12:30 Vanliga telefonsamtal med TERA"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "13:15 Framgångsrik kommunikation i projekt"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "13:45 Florian Tirnovan kör stand up"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "14:00 Var nåbar med T-Meeting"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "14:50 Florian Tirnovan kör stand up"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "15:05 UTLOTTNING 2"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "15:45 Om CODA International"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "SAL F Utställarlokalen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "10:40-10:55 - TERA är likvärdig telefoni och möten på plats, SAL F Utställarlokalen",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " T-Meetings TERA har automatisk tal-till-text (autotextning) och text-till-tal (talsyntes). I TERA"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " finns även vanlig bildtelefoni. Anpassa samtalet efter andra och ha skrivtolk i fickan."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "14:35-14:50 Framgångsrik kommunikation i projekt SAL F Utställarlokalen",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Kom ihåg att undersöka kommunikationsbehov redan vid projektstart. T-Meeting har"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " nåbarhetsfokus och unik teknik som TERA och FrittFram: Flerpartssamtal-gruppsamtal för"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " telefoni. Volontärer, anhöriga eller personal kan koppla in andra som har bild/text-telefoner."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "15:30-15:40 Ny forskning & framtidsspaning SAL F Utställarlokalen",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " Vi berättar om senaste forskning och våra insikter. Välfärdsteknik behöver nu inkludera även"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " personer med hörselnedsättning, döva och dövblinda"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1829
+}

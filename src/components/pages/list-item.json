@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_pages_list_items",
+  "info": {
+    "displayName": "List Item",
+    "icon": "bulletList",
+    "description": "A simple text item for repeatable bullet-point lists."
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true,
+      "pluginsOptions": { "i18n": { "localized": true } }
+    }
+  }
+}

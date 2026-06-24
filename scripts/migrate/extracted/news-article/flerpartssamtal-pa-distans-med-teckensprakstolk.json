@@ -1,0 +1,258 @@
+{
+  "url": "https://www.tmeeting.se/article/flerpartssamtal-på-distans-med-teckenspråkstolk",
+  "type": "news-article",
+  "slug": "flerpartssamtal-pa-distans-med-teckensprakstolk",
+  "pathSegments": [
+    "article",
+    "flerpartssamtal-på-distans-med-teckenspråkstolk"
+  ],
+  "locale": "sv",
+  "title": "Se den du pratar med och tolken samtidigt",
+  "ogDescription": "Finns det en lösning där det går att se den en ringer till och tolken samtidigt? Till exempel för ett videosamtal med vården?",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp",
+  "publishDate": "2020-03-23T11:00:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Finns det en lösning där det går att se den du ringer till och tolken samtidigt? Till exempel för ett videosamtal med vården? ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ja, T-Meeting har ett par olika lösningar för detta. Dessa är TM-PC Fyrpart och TM-PC Pro. Det räcker att en av de uppkopplade har denna för att alla som är i samtalet ska se alla."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Fyrpartssamtal"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tm-pc-fyrpart",
+          "children": [
+            {
+              "type": "text",
+              "text": "TM-PC Fyrpart"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " lanserades nyligen och finns i den senaste uppdateringen för TM-PC. Alla uppkopplade som har bildtelefon ser de andra i samtalet. Om en av deltagarna har TERA får den automatisk textning av vad de andra säger. Upp till fyra samtal kan kopplas in. Även vanlig taltelefon kan kopplas in, vilket betyder att inte alla i samtalet behöver ha bildtelefon. Här är några sammanhang då detta kan användas:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "En patient/person i karantän med TM-PC ringer upp i valfri ordning, samtalen kopplas ihop automatiskt"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "en anhörig (med valfri bildtelefon eller taltelefon)"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "en läkare (med valfri bildtelefon eller taltelefon),"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "en tolk (med valfri bildtelefon). Tolken kan sitta var som helst och det går även att koppla in bildtelefoni.net."
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Det är många som är isolerade och i karantän idag. Föreningsmöten är inställda. Det är inte bra för hälsan att vara ofrivilligt ensam. Ett förslag kan vara att använda TM-PC Fyrpart för att ordna distans-caféer. Det skulle kunna vara bra i en volontärverksamhet. Fyrpart ingår utan kostnad i TM-PC och samma funktion kommer att införas efter hand i övriga produkter, härnäst kommer den till TM-Touch för iPad."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vid behov av TM-PC som hjälpmedel förskrivs denna som hjälpmedel inom Regionerna i Sverige redan idag. Om du redan har TM-PC, se till att du har senaste versionen på din dator."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Distanstolken/TM-PC Pro "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster/distanstolken",
+          "children": [
+            {
+              "type": "text",
+              "text": "Distanstolken/TM-PC Pro "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "är en lösning för en tolkcentral eller tolkbyrå. Här kan upp till sex olika parter kopplas upp samtidigt. Det skulle kunna gå att koppla in fler men det är ofta inte praktiskt och användbart. Ett scenario kan se ut så här:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "ordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Det finns ett bokat möte mellan läkare, patient och anhörig."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tolken ringer upp patienten som är döv/hörselskadad; läkaren som är med på vanlig fast telefon samt den anhörige som sitter på anhörig-bildtelefon i hemmet."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Samtal... Alla deltagare kan höra varandra och alla som är med på bildtelefon kan se varandra."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "När samtalet är slut kopplar tolken ner deltagarna alla på en gång eller i den ordning som tolken anser lämplig."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Just nu erbjuder T-Meeting tillsammans med Lidol, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.lidol.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "kostnadsfri teknik för distanstolkning till tolkcentralerna i samtliga av Sveriges regioner"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Redan några dagar efter erbjudandet kom ut har vi gjort vår första installation och utbildning."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 2832
+}

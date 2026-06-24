@@ -1,0 +1,63 @@
+{
+  "url": "https://www.tmeeting.se/article/harry-testar-tera-i-fem-månader",
+  "type": "news-article",
+  "slug": "harry-testar-tera-i-fem-manader",
+  "pathSegments": [
+    "article",
+    "harry-testar-tera-i-fem-månader"
+  ],
+  "locale": "sv",
+  "title": "Harry testar TERA i fem månader",
+  "ogDescription": "Under 10 år har Harry Eriksson inte kunnat använda telefon men nu har Harry provat TERA under fem månader. läs hela intervjun!",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp",
+  "publishDate": "2020-12-18T11:05:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Under 10 år har Harry Eriksson inte kunnat använda telefon. Nu har Harry provat TERA under fem månader. Han har timslånga samtal i telefon med anhöriga och har använt TERA-Local på restaurangbesök. Att klara sig själv är viktigt och nu kan Harry utföra ärenden över telefon."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/harry-artikel-för-hemsida-2021.pdf?202106241155",
+          "children": [
+            {
+              "type": "text",
+              "text": "Du kan läsa hela intervjun här."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Harry använder TERA-Local när han kommunicerar med en vän.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [
+    {
+      "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/harry-artikel-för-hemsida-2021.pdf?202106241155",
+      "label": "Du kan läsa hela intervjun här."
+    }
+  ],
+  "bodyTextLength": 390
+}

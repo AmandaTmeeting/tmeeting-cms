@@ -1,0 +1,122 @@
+{
+  "url": "https://www.tmeeting.se/article/när-du-behöver-t-meeting",
+  "type": "news-article",
+  "slug": "nar-du-behover-t-meeting",
+  "pathSegments": [
+    "article",
+    "när-du-behöver-t-meeting"
+  ],
+  "locale": "sv",
+  "title": "När du behöver T-Meeting",
+  "ogDescription": "T-Meeting är tillgänglig telefoni som förskrivs som hjälpmedel. Läs mer om hur det går till här...",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/932491D7-2EA5-408B-8EA7BC4C6485ED80-2000w.webp",
+  "publishDate": "2021-02-05T14:33:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/932491D7-2EA5-408B-8EA7BC4C6485ED80-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting när du.."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill ha kontakt med andra som har bildtelefon eller texttelefon."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill vara med i telefonkonferens/digitalt möte."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill kommunicera med hörande via förmedlingstjänsten för bildtelefoni/texttelefoni. Tips: Här kan du kontrollera att tolken tolkar rätt med hjälp av automatisk tal-till-text-funktion."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill slippa tolk/skrivtolk: det samtalsparten säger blir textat automatiskt i realtid."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vill kunna bli nådd på ditt telefonnummer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Hur skaffar jag T-Meeting?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "T-Meeting erbjuder ett brett sortiment av hjälpmedel. Din region är skyldig att erbjuda hjälpmedel om du behöver det - eller om dina behov har förändrats. Vänd dig till din region för hjälp - exempelvis Hörcentralen, Alternativ telefoni eller Habiliteringen. Behöver du T-Meeting i ditt arbete? Ansök genom Försäkringskassan eller Arbetsförmedlingen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://player.vimeo.com/video/516265472?dnt=1&byline=0&portrait=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[vimeo video] https://player.vimeo.com/video/516265472?dnt=1&byline=0&portrait=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "vimeo",
+      "url": "https://player.vimeo.com/video/516265472?dnt=1&byline=0&portrait=0"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 977
+}

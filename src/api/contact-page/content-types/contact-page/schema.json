@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "contact_page",
+  "info": {
+    "singularName": "contact-page",
+    "pluralName": "contact-pages",
+    "displayName": "Contact Page",
+    "description": "All editable content on the /support/kontakta-support page."
+  },
+  "options": { "draftAndPublish": true },
+  "pluginsOptions": { "i18n": { "localized": true } },
+  "attributes": {
+    "heading": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "subtitle": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "addressTitle": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "addressContent": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "emailTitle": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "emailContent": { "type": "string" },
+    "phoneTitle": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "phoneContent": { "type": "string" }
+  }
+}

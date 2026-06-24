@@ -1,0 +1,107 @@
+{
+  "url": "https://www.tmeeting.se/article/vad-fungerar-lättast-med-livetextning",
+  "type": "news-article",
+  "slug": "vad-fungerar-lattast-med-livetextning",
+  "pathSegments": [
+    "article",
+    "vad-fungerar-lättast-med-livetextning"
+  ],
+  "locale": "sv",
+  "title": "Varför ska jag välja TERA för tal-till-text?",
+  "ogDescription": "Det har kommit in en fråga:\r\nFysiska möten ersätts i rasande fart med digitala då många kommer att få jobba hemifrån fortsättningsvis. Vilket ställer till det för hörselskadade och döva. Vilka av videokonferenssystemen på marknaden fungerar lättast med livetextning?",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp",
+  "publishDate": "2020-03-18T18:26:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi rekommenderar TERA från T-Meeting. AI-textning med hög kvalitet på Svenska. Används redan idag av döva och hörselskadade i Sverige och förskrivs som hjälpmedel. TERA klarar både på-platsen-textning (TERA-Local) och textning i video och telefonsamtal. Alltså mångsidigt. Viktigt att det är realtidstext, där texten kommer tecken för tecken."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "TERA är öppen standard och följer standarden för Totalkonversation. Det betyder att TERA, liksom övriga T-Meetingprodukter fungerar med ihop med bildtelefoni för döva, tjänsterna för bild- och texttelefoni (öppet 24/7/365) samt klarar realtidstext i samtal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Detta gör att om den hörselvarierade har TERA kan denne vara med i flerpartssamtal med andra. Det som de andra säger textas för denne. Har man en döv på tråden kan man ringa upp teckenspråkstolk som blir del av samtalet. Alla ser alla. T-Meeting är "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster",
+          "children": [
+            {
+              "type": "text",
+              "text": "Komplett Kommunikation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Just nu erbjuder Lidol (återförsäljare) och T-Meeting samtliga tolkcentraler i Sverige kostnadsfri tillgång till teknik för distanstolkning. I denna lösning kan tolken vara ansluten i videosamtal med flera andra deltagare och är anpassad för teckenspråkstolkning och skrivtolkning vad avser kvalitet, öppen standard och säkerhet. Läs mer om detta erbjudande på "
+        },
+        {
+          "type": "link",
+          "url": "https://www.lidol.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lidols hemsida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Läs mer om "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster",
+          "children": [
+            {
+              "type": "text",
+              "text": "Komplett Kommunikation här"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1375
+}

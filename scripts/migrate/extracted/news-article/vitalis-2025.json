@@ -1,0 +1,152 @@
+{
+  "url": "https://www.tmeeting.se/article/vitalis-2025",
+  "type": "news-article",
+  "slug": "vitalis-2025",
+  "pathSegments": [
+    "article",
+    "vitalis-2025"
+  ],
+  "locale": "sv",
+  "title": "Vitalis 2025",
+  "ogDescription": "Vi är stolta över att ha varit på plats i Vitalis i år, både som besökare och som aktiva deltagare i programmet.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp",
+  "publishDate": "2025-05-23T12:41:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vitalis 2025 – Tillgänglighet i fokus och en viktig plats för branschens gemensamma resa",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vitalis är Nordens största mötesplats för framtidens hälsa, vård och omsorg – och i år var det tydligare än någonsin att "
+        },
+        {
+          "type": "text",
+          "text": "tillgänglighet inte längre är en sidofråga, utan en central del av digital utveckling och innovation",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För oss på "
+        },
+        {
+          "type": "text",
+          "text": "T-Meeting",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": ", som arbetar med kommunikationslösningar som gör samhället mer inkluderande, är det avgörande att delta i sådana forum. Vi är stolta över att ha varit på plats, både som besökare och som aktiva deltagare i programmet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Våra samarbetspartners från Lidol, Fredrik och Gunilla, deltog tillsammans med Isabel Engwall som föreläsare ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": "och lyfte frågor om hur "
+        },
+        {
+          "type": "text",
+          "text": " talsyntes, AI och realtidstext",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " kan förbättra kommunikationen för personer med hörselnedsättning och dövhet. Fredrik visade bland annat hur "
+        },
+        {
+          "type": "text",
+          "text": "AI-stödd självbokning och texttjänster",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " kan skapa mer jämlik tillgång till tolktjänster, samtidigt som det effektiviserar resursanvändningen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Att",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "tillgänglighet lyfts i flera delar av Vitalis-programmet",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " är något vi ser mycket positivt på. Det visar att branschens behov tas på allvar – och att vi rör oss i rätt riktning. Vi vill särskilt lyfta fram insatserna från "
+        },
+        {
+          "type": "text",
+          "text": "Branschorganisationen Svensk Tillgänglighet",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": ", där vi är aktiva medlemmar. Organisationen fanns representerad både som föreläsare och samtalspartner, och bidrog med kunskap om hur nya lagkrav – som den nya tillgänglighetslagen som träder i kraft den 28 juni 2025 – påverkar både utveckling och implementering av digitala lösningar."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi på T-Meeting tror på teknik som möjliggörare. "
+        },
+        {
+          "type": "text",
+          "text": "Genom att kombinera AI med beprövade tillgänglighetslösningar",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " kan vi skapa framtidens kommunikation – där alla kan delta på lika villkor."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 1898
+}

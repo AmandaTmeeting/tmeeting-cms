@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "support_page",
+  "info": {
+    "singularName": "support-page",
+    "pluralName": "support-pages",
+    "displayName": "Support Page",
+    "description": "All editable content on the /support landing page."
+  },
+  "options": { "draftAndPublish": true },
+  "pluginsOptions": { "i18n": { "localized": true } },
+  "attributes": {
+    "heroH1": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroBtnLabel": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "serviceCards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.service-card",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    }
+  }
+}

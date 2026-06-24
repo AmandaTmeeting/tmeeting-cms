@@ -47,8 +47,18 @@ const PUBLIC_PERMISSIONS = [
   'api::news-article.news-article.findOne',
   'api::support-document.support-document.find',
   'api::support-document.support-document.findOne',
+  'api::page.page.find',
+  'api::page.page.findOne',
+  'api::footer.footer.find',
+  'api::navigation.navigation.find',
+  'api::homepage.homepage.find',
   'api::site-setting.site-setting.find',
   'api::system-status.system-status.find',
+  'api::om-oss.om-oss.find',
+  'api::vision.vision.find',
+  'api::samarbete.samarbete.find',
+  'api::support-page.support-page.find',
+  'api::contact-page.contact-page.find',
 ];
 
 async function setupPublicPermissions(strapi: Core.Strapi) {

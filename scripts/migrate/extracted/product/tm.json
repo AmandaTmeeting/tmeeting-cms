@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tmeeting.se/produkter/tm",
+  "type": "product",
+  "slug": "tm",
+  "pathSegments": [
+    "produkter",
+    "tm"
+  ],
+  "locale": "sv",
+  "title": "TM",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 0
+}

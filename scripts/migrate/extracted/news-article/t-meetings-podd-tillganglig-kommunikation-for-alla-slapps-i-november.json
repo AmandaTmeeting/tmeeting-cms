@@ -1,0 +1,95 @@
+{
+  "url": "https://www.tmeeting.se/article/t-meetings-podd-tillgänglig-kommunikation-för-alla-släpps-i-november",
+  "type": "news-article",
+  "slug": "t-meetings-podd-tillganglig-kommunikation-for-alla-slapps-i-november",
+  "pathSegments": [
+    "article",
+    "t-meetings-podd-tillgänglig-kommunikation-för-alla-släpps-i-november"
+  ],
+  "locale": "sv",
+  "title": "Vår podd finns nu ute för er att lyssna/se på!",
+  "ogDescription": "Tillgänglig kommunikation för alla! En podd där vi diskuterar två viktiga begrepp; tillgänglighet och kommunikation.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp",
+  "publishDate": "2021-10-26T13:21:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Tillgänglig kommunikation för alla är en podd som produceras av T-Meeting. Vi gör debut i podd-världen med Anders Mildner, podd veteranen som är bl.a aktiv i Samtidspodden. Gruppen hörselskadade är en väldigt stor grupp i samhället där felaktiga hjälpmedel eller ingen hjälp alls drabbar samhället negativt på många sätt. Personer blir arbetslösa i onödan och folkhälsan försämras för den här stora gruppen som faktiskt växer. Podden är en arena för utbyte av erfarenheter men också för att öka medvetandet om den hörselproblematik som idag finns i samhället. Här kan du lyssna på intressanta intervjuer med forskare, teknik-utvecklare men också helt vanliga människor som kommer att dela med sig utav sina egna livserfarenheter. Det kommer att vara mycket fokus på den problematik som finns idag men även potentiella lösningar. Avsnitten kommer att finnas där poddar finns men även på vår Youtube-kanal där avsnitten kommer att vara textade och teckenspråkstolkade."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Teckenspåksversionen av podden finner du "
+        },
+        {
+          "type": "link",
+          "url": "https://youtu.be/7NbpcUUEI-g",
+          "children": [
+            {
+              "type": "text",
+              "text": "här"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://open.spotify.com/embed/show/3CbX7Y1V09PMEqpb8ucZTH?utm_source=generator&theme=0",
+          "children": [
+            {
+              "type": "text",
+              "text": "[other video] https://open.spotify.com/embed/show/3CbX7Y1V09PMEqpb8ucZTH?utm_source=generator&theme=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://embed.podcasts.apple.com/us/podcast/tillg%C3%A4nglig-kommunikation-f%C3%B6r-alla/id1594187815",
+          "children": [
+            {
+              "type": "text",
+              "text": "[other video] https://embed.podcasts.apple.com/us/podcast/tillg%C3%A4nglig-kommunikation-f%C3%B6r-alla/id1594187815"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [
+    {
+      "provider": "other",
+      "url": "https://open.spotify.com/embed/show/3CbX7Y1V09PMEqpb8ucZTH?utm_source=generator&theme=0"
+    },
+    {
+      "provider": "other",
+      "url": "https://embed.podcasts.apple.com/us/podcast/tillg%C3%A4nglig-kommunikation-f%C3%B6r-alla/id1594187815"
+    }
+  ],
+  "downloads": [],
+  "bodyTextLength": 1281
+}

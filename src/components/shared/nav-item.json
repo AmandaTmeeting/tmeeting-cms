@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_shared_nav_items",
+  "info": {
+    "displayName": "Nav Item",
+    "icon": "layer",
+    "description": "Top-level navigation item — plain link or dropdown group with children."
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "href": {
+      "type": "string"
+    },
+    "children": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.nav-link"
+    }
+  }
+}

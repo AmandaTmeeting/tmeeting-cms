@@ -1,0 +1,72 @@
+{
+  "url": "https://www.tmeeting.se/ringdirekt",
+  "type": "page",
+  "slug": "ringdirekt",
+  "pathSegments": [
+    "ringdirekt"
+  ],
+  "locale": "sv",
+  "title": "Ring Direkte",
+  "ogDescription": "Du får ditt eget norske mobilnummer. Når noen ringer deg, går samtalen automatisk via en skrivetolk og/eller bildetolk ved NAV Hjelpemiddelsentral.",
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ring Direkte ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Nationell förmedlingstjänst som endast gäller vår målgrupp i Norge. ",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Kvordan fungerar Ring Direkte? ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Du får ditt eget norske mobilnummer. Når noen ringer deg, går samtalen automatisk via en skrivetolk ved NAV Hjelpemiddelsentral. Det samme skjer når du ringer noen - da taster du personens vanlige telefonnummer og samtalen vil automatisk gå via en skrivetolk. Det vil si at alt skjer i ett trinn. Veldig praktisk."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Hvis den du ringer ikke svarer, kan han/hun se ditt telefonnummer i nummerpresentasjonen og ringe deg opp senere."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 583
+}

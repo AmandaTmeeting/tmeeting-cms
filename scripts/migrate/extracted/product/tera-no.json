@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tmeeting.se/produkter/tera-no",
+  "type": "product",
+  "slug": "tera-no",
+  "pathSegments": [
+    "produkter",
+    "tera-no"
+  ],
+  "locale": "no",
+  "title": "TERA (NO)",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 0
+}

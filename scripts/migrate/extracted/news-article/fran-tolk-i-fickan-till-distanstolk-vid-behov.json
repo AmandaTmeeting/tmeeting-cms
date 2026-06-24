@@ -1,0 +1,326 @@
+{
+  "url": "https://www.tmeeting.se/article/från-tolk-i-fickan-till-distanstolk-vid-behov",
+  "type": "news-article",
+  "slug": "fran-tolk-i-fickan-till-distanstolk-vid-behov",
+  "pathSegments": [
+    "article",
+    "från-tolk-i-fickan-till-distanstolk-vid-behov"
+  ],
+  "locale": "sv",
+  "title": "Från Tolk i fickan till Distanstolk vid behov",
+  "ogDescription": "Det finns olika vägar att komma igång och utvecklas med de smarta tolklösningar med T-Meetings plattform har.",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp",
+  "publishDate": "2020-04-15T14:41:00Z",
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Denna gång har vi fått hjälp av Lidol att sammanställa hur T-Meetings plattform är intressant utifrån området tolktjänster. Här beskrivs hur det går att starta i liten skala och ändå har en förmåga att växa med uppgiften in i framtiden. Startpunkten är på användarnivå. Att kunna klara sig själv, är ofta högst på våra användares önskelista. Det finns olika vägar att komma igång och utvecklas med de smarta tolklösningar med T-Meetings plattform har. ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "text",
+          "text": "Det finns olika vägar att komma igång och utvecklas med de smarta tolklösningar med T-Meetings plattform har. Ni väljer själva vilken nivå ni vill vara på."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Kom igång – Koppla in tolken själv"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Med "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/produkter/tm-pc-fyrpart",
+          "children": [
+            {
+              "type": "text",
+              "text": "Flerpartssamtal som är inbyggt i TM-PC"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " som förskrivs som hjälpmedel idag kan användaren själv koppla in teckenspråkstolk vid behov. Det enda som behövs är att tolken eller anhörig/volontär har bildtelefon enligt öppen standard. Det finns möjlighet att som anhörig få bildtelefon i alla regioner."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Tolken i väskan/fickan: Med "
+        },
+        {
+          "type": "link",
+          "url": "http://TERA-Local",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA-Local"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " kan användaren använda TERA-AI för automatisk Tal-till-text (det som sägs textas) och Text-till-tal (TERA säger det som användaren skriver). Bra för hörselvarierade och personer som av någon anledning inte vill eller kan tala själva. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "En vårdgivare eller annan organisation kan ha "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster/drop-in-tolk-p%C3%A5-plats",
+          "children": [
+            {
+              "type": "text",
+              "text": "TERA till utlån"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " för att kunna kommunicera på ett bra sätt med patienter, brukare och kunder. TERA används idag också ett uppskattat arbetshjälpmedel."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Hjälp flera – Öka nåbarheten"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ett snabbt sätt att drastiskt öka organisationens nåbarhet är med "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tmeeting.se/tj%C3%A4nster/distanstolken",
+          "children": [
+            {
+              "type": "text",
+              "text": "Distanstolken / TM-PC Pro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". T-Meeting hjälper tolkcentraler, volontärverksamheter och andra organisationer att erbjuda utökad service, tillgänglighet och kvalitet. Stora områden inom tolkområdet är teckenspråkstolkning på distans och skrivtolkning på distans."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Just nu erbjuder Lidol och T-Meeting samtliga tolkcentraler i Sverige kostnadsfri tillgång till samma teknik för distanstolkning som används av förmedlingstjänsten i Norge.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Skräddarsy – Anpassa efter behovet"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Vi anpassar lösningen efter era behov. Kombinera "
+        },
+        {
+          "type": "link",
+          "url": "http://T-Meeting-plattformen",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Meeting-plattformen"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " med kombinationer av speciella lösningar såsom exempelvis WebbRTC, RingDirekt-Tolk med kompetensstyrd samtalsstyrning, köhantering eller automatisk positionering. Så har vi gjort i följande fall:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "format": "unordered",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nationell Tolktjänst med Ring Direkt-Tolk i Norge"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tillgängliga "
+            },
+            {
+              "type": "link",
+              "url": "https://tudorkliniken.se/tjanster/drop-in-videosamtal/",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "videoläkarbesök på Tudorkliniken"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " i Halmstad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Full affärskoll – Komplett tjänst End-To-End"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "För att fullt ut driva tillgänglig tjänst för medmänniskor finns det krav som behöver uppfyllas fullt ut. Hela kedjan från beställning till betalning och statistik behöver hanteras, och däremellan alla funktioner och processer som behövs för att bygga en komplett tjänst."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Ett exempel på hur T-Meeting används för detta är "
+        },
+        {
+          "type": "link",
+          "url": "https://www.connectme24.se/",
+          "children": [
+            {
+              "type": "text",
+              "text": "ConnectMe24"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", som är en TolkOnDemand-tjänst, där det är möjligt att dygnet runt kunna koppla upp en tolk direkt. Idén bygger på att tolkar ansluter sig till tjänsten å ena sidan och att de som behöver tolk kopplar upp sig. Här finns såväl teckenspråkstolkar som språktolkar tillgängliga."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "children": [
+        {
+          "type": "link",
+          "url": "https://www.lidol.se/fran-tolk-i-fickan-till-distanstolk-vid-behov/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Följ gärna denna länk för att läsa blogginlägg på Lidols blogg."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://www.lidol.se/kontakt/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Här finns Lidols kontaktuppgifter."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 3434
+}

@@ -1,0 +1,1805 @@
+[
+  {
+    "url": "https://www.tmeeting.se/",
+    "type": "page",
+    "slug": "home",
+    "pathSegments": [],
+    "locale": "sv",
+    "title": "T-Meeting -  TM-bild/texttelefoni och TERA",
+    "ogDescription": "T-Meeting har lösningar för personer med kommunikationssvårigheter. Tillgänglighetslösningar för enskilda personer, anställda på företag, myndigheter och förmedlingstjänster.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/nyheter/artiklar",
+    "type": "page",
+    "slug": "artiklar",
+    "pathSegments": [
+      "nyheter",
+      "artiklar"
+    ],
+    "locale": "sv",
+    "title": "Artiklar",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/781114F5-C5AE-4F58-A974E3DE5B8CDB22-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 7788
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tm-pc-flerpart",
+    "type": "product",
+    "slug": "tm-pc-flerpart",
+    "pathSegments": [
+      "produkter",
+      "tm-pc-flerpart"
+    ],
+    "locale": "sv",
+    "title": "TM-PC Flerpart",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter",
+    "type": "product",
+    "slug": "produkter",
+    "pathSegments": [
+      "produkter"
+    ],
+    "locale": "sv",
+    "title": "Produkter T-Meeting",
+    "ogDescription": "Personlösningar",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 31
+  },
+  {
+    "url": "https://www.tmeeting.se/tjänster/distanstolken",
+    "type": "service",
+    "slug": "distanstolken",
+    "pathSegments": [
+      "tjänster",
+      "distanstolken"
+    ],
+    "locale": "sv",
+    "title": "Distanstolken",
+    "ogDescription": "Distanstolken är en komplett videokommunikationslösning speciellt designad för tolkcentraler och video callcenter",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/tjänster",
+    "type": "service",
+    "slug": "tjanster",
+    "pathSegments": [
+      "tjänster"
+    ],
+    "locale": "sv",
+    "title": "Tjänster T-Meeting",
+    "ogDescription": "T-Meeting levererar tjänster över hela världen.  Vår kompetens inom videokommunikation och IP-telefoni gör att vi kan leverera nu",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 3650
+  },
+  {
+    "url": "https://www.tmeeting.se/tjänster/ringdirekte",
+    "type": "service",
+    "slug": "ringdirekte",
+    "pathSegments": [
+      "tjänster",
+      "ringdirekte"
+    ],
+    "locale": "no",
+    "title": "Ring Direkte (NO)",
+    "ogDescription": "Med Ring Direkte slås bildetolk/skrivetolk automatisk på når du ringer.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 27
+  },
+  {
+    "url": "https://www.tmeeting.se/support/kontakta-support",
+    "type": "support",
+    "slug": "kontakta-support",
+    "pathSegments": [
+      "support",
+      "kontakta-support"
+    ],
+    "locale": "sv",
+    "title": "Kontakta Support",
+    "ogDescription": "Här hittar du kontaktuppgifter till supporten som kan svara på frågor om produkter eller tjänster.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 818
+  },
+  {
+    "url": "https://www.tmeeting.se/support/driftstatus",
+    "type": "support",
+    "slug": "driftstatus",
+    "pathSegments": [
+      "support",
+      "driftstatus"
+    ],
+    "locale": "sv",
+    "title": "Driftstatus",
+    "ogDescription": "Här hittar du aktuell driftinformation över driftstörningar som kan påverka våra produkter och tjänster.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1520
+  },
+  {
+    "url": "https://www.tmeeting.se/support/nedladdning",
+    "type": "support",
+    "slug": "nedladdning",
+    "pathSegments": [
+      "support",
+      "nedladdning"
+    ],
+    "locale": "sv",
+    "title": "Nedladdning",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 82
+  },
+  {
+    "url": "https://www.tmeeting.se/tjänster/tillganglig_kundtjanst",
+    "type": "service",
+    "slug": "tillganglig-kundtjanst",
+    "pathSegments": [
+      "tjänster",
+      "tillganglig_kundtjanst"
+    ],
+    "locale": "sv",
+    "title": "Tillgänglig kundtjäst",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/om-oss/vision",
+    "type": "page",
+    "slug": "vision",
+    "pathSegments": [
+      "om-oss",
+      "vision"
+    ],
+    "locale": "sv",
+    "title": "Vision",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 440
+  },
+  {
+    "url": "https://www.tmeeting.se/support/manualer",
+    "type": "support",
+    "slug": "manualer",
+    "pathSegments": [
+      "support",
+      "manualer"
+    ],
+    "locale": "sv",
+    "title": "Manualer",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 170
+  },
+  {
+    "url": "https://www.tmeeting.se/samarbete",
+    "type": "page",
+    "slug": "samarbete",
+    "pathSegments": [
+      "samarbete"
+    ],
+    "locale": "sv",
+    "title": "Samarbete",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2040
+  },
+  {
+    "url": "https://www.tmeeting.se/support/kontakta-support/felsökning",
+    "type": "support",
+    "slug": "felsokning",
+    "pathSegments": [
+      "support",
+      "kontakta-support",
+      "felsökning"
+    ],
+    "locale": "sv",
+    "title": "Felsökning",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [
+      {
+        "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/tm-touch-ipad-felsökning-ver.1.00.pdf?201809101212",
+        "label": "Här kan du läsa Felsökningsguiden, TIPS: skriv ut den så du kan ha den som komihåg"
+      }
+    ],
+    "bodyTextLength": 156
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tm-alert",
+    "type": "product",
+    "slug": "tm-alert",
+    "pathSegments": [
+      "produkter",
+      "tm-alert"
+    ],
+    "locale": "sv",
+    "title": "TM-ALERT",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/nyheter",
+    "type": "page",
+    "slug": "nyheter",
+    "pathSegments": [
+      "nyheter"
+    ],
+    "locale": "sv",
+    "title": "Nyheter",
+    "ogDescription": "Nyheter för T-Meeting",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/781114F5-C5AE-4F58-A974E3DE5B8CDB22-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/37C5A635-881F-4D8A-916E6B011BA0EE3F-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BEF85F3D-47EA-49F1-AB2407555284C73A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F553326E-8C7B-4ACE-A3E20E0ECBDEEB81-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/932491D7-2EA5-408B-8EA7BC4C6485ED80-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C076737B-AA70-4C6F-91511515FD2F1F07-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/55E198BB-537A-4678-85C7DBDBE34FA01B-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/178C0F83-72DB-48E3-986A33A522C5651C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp",
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/85238EE8-C2E8-46E8-B103402B66DFEFF8-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 9427
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tera",
+    "type": "product",
+    "slug": "tera",
+    "pathSegments": [
+      "produkter",
+      "tera"
+    ],
+    "locale": "sv",
+    "title": "TERA",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tm",
+    "type": "product",
+    "slug": "tm",
+    "pathSegments": [
+      "produkter",
+      "tm"
+    ],
+    "locale": "sv",
+    "title": "TM",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/dd2022",
+    "type": "page",
+    "slug": "dd2022",
+    "pathSegments": [
+      "dd2022"
+    ],
+    "locale": "sv",
+    "title": "Dövas Dag 2022",
+    "ogDescription": "Vi är guldsponsor till Dövas dag i år den 24 september. Kom till vår monter för att vara med i tävlingar, lyssna på när Florian Tirnovan kör stand up och mycket mer!",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1829
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tera-no",
+    "type": "product",
+    "slug": "tera-no",
+    "pathSegments": [
+      "produkter",
+      "tera-no"
+    ],
+    "locale": "no",
+    "title": "TERA (NO)",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/om-oss",
+    "type": "page",
+    "slug": "om-oss",
+    "pathSegments": [
+      "om-oss"
+    ],
+    "locale": "sv",
+    "title": "Om oss",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 210
+  },
+  {
+    "url": "https://www.tmeeting.se/corona-tips",
+    "type": "page",
+    "slug": "corona-tips",
+    "pathSegments": [
+      "corona-tips"
+    ],
+    "locale": "sv",
+    "title": "Corona Tips",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/support/manualer/tm-9000-manualer",
+    "type": "support",
+    "slug": "tm-9000-manualer",
+    "pathSegments": [
+      "support",
+      "manualer",
+      "tm-9000-manualer"
+    ],
+    "locale": "sv",
+    "title": "TM 9000 Manualer",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/ringdirekt",
+    "type": "page",
+    "slug": "ringdirekt",
+    "pathSegments": [
+      "ringdirekt"
+    ],
+    "locale": "sv",
+    "title": "Ring Direkte",
+    "ogDescription": "Du får ditt eget norske mobilnummer. Når noen ringer deg, går samtalen automatisk via en skrivetolk og/eller bildetolk ved NAV Hjelpemiddelsentral.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 583
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tm-pc-flerpart-no",
+    "type": "product",
+    "slug": "tm-pc-flerpart-no",
+    "pathSegments": [
+      "produkter",
+      "tm-pc-flerpart-no"
+    ],
+    "locale": "no",
+    "title": "TM-PC Flerpart (NO)",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/support/manualer/tm-på-teckenspråk-och-textat",
+    "type": "support",
+    "slug": "tm-pa-teckensprak-och-textat",
+    "pathSegments": [
+      "support",
+      "manualer",
+      "tm-på-teckenspråk-och-textat"
+    ],
+    "locale": "sv",
+    "title": "TM på teckenspråk och textat",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [
+      {
+        "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/tm-touch-ipad-lathund-ver.1.00.pdf?201809101212",
+        "label": "Här kan du läsa lathunden, TIPS: skriv ut den så du kan ha den som komihåg"
+      }
+    ],
+    "bodyTextLength": 222
+  },
+  {
+    "url": "https://www.tmeeting.se/tjänster/ringdirekt-se",
+    "type": "service",
+    "slug": "ringdirekt-se",
+    "pathSegments": [
+      "tjänster",
+      "ringdirekt-se"
+    ],
+    "locale": "sv",
+    "title": "Ring Direkt (SE)",
+    "ogDescription": "Med Ring Direkt kan du ringa vem som helst medan en text/videotolk automatiskt kopplas in i samtalet.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 142
+  },
+  {
+    "url": "https://www.tmeeting.se/cookies",
+    "type": "page",
+    "slug": "cookies",
+    "pathSegments": [
+      "cookies"
+    ],
+    "locale": "sv",
+    "title": "Cookies",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1260
+  },
+  {
+    "url": "https://www.tmeeting.se/produkter/tm-no",
+    "type": "product",
+    "slug": "tm-no",
+    "pathSegments": [
+      "produkter",
+      "tm-no"
+    ],
+    "locale": "no",
+    "title": "TM (NO)",
+    "ogDescription": null,
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/product/tera",
+    "type": "product",
+    "slug": "tera",
+    "pathSegments": [
+      "product",
+      "tera"
+    ],
+    "locale": "sv",
+    "title": "TERA",
+    "ogDescription": "a revolutionary product that turns speech into text and text into speech in real time",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/68A45F09-12E7-4481-93763CE31DEB7FCF-2000w.webp?20171106014411",
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/68A45F09-12E7-4481-93763CE31DEB7FCF-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 94
+  },
+  {
+    "url": "https://www.tmeeting.se/product/tm-pc-pro",
+    "type": "product",
+    "slug": "tm-pc-pro",
+    "pathSegments": [
+      "product",
+      "tm-pc-pro"
+    ],
+    "locale": "sv",
+    "title": "TM-PC PRO",
+    "ogDescription": "for relay centre operators",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/F8F20D76-2CC9-41DE-97015D780DA14B64-2000w.webp?20171106014817",
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/F8F20D76-2CC9-41DE-97015D780DA14B64-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 35
+  },
+  {
+    "url": "https://www.tmeeting.se/article/nyhet-flerspråkig-autotextning",
+    "type": "news-article",
+    "slug": "nyhet-flersprakig-autotextning",
+    "pathSegments": [
+      "article",
+      "nyhet-flerspråkig-autotextning"
+    ],
+    "locale": "sv",
+    "title": "Nyhet: flerspråkig autotextning",
+    "ogDescription": "TERA kan nu automatiskt texta samtal i realtid på över 40 språk. Den nya funktionen ingår utan extra kostnad för alla befintliga och nya TERA-användare.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp",
+    "publishDate": "2026-05-22T12:09:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/374CE279-A4BB-4662-8F4B99118B039945-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/1194291043?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/1194291041?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/1194291042?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/1194291040?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 750
+  },
+  {
+    "url": "https://www.tmeeting.se/article/webbinarium-när-språk-inte-längre-är-ett-hinder",
+    "type": "news-article",
+    "slug": "webbinarium-nar-sprak-inte-langre-ar-ett-hinder",
+    "pathSegments": [
+      "article",
+      "webbinarium-när-språk-inte-längre-är-ett-hinder"
+    ],
+    "locale": "sv",
+    "title": "Webbinarium: När språk inte längre är ett hinder",
+    "ogDescription": "Välkommen till ett kostnadsfritt webbinarium från T-Meeting, där vi visar hur TERAs nya funktioner kan användas som stöd i kommunikation.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp",
+    "publishDate": "2026-05-08T08:51:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/DE421930-63BA-4895-B343E7A73396E590-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1124
+  },
+  {
+    "url": "https://www.tmeeting.se/article/dövas-dag-2025",
+    "type": "news-article",
+    "slug": "dovas-dag-2025",
+    "pathSegments": [
+      "article",
+      "dövas-dag-2025"
+    ],
+    "locale": "sv",
+    "title": "Dövas dag 2025",
+    "ogDescription": "Vi på T-Meeting deltog på årets Dövas Dag – en dag fylld av inspiration, gemenskap och nya möten.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp",
+    "publishDate": "2025-10-08T09:32:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C1BC146-8086-4F58-9D272942C30565FE-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 470
+  },
+  {
+    "url": "https://www.tmeeting.se/article/vi-är-stolta-mottagare-av-true-star-business-award-europea-i-malmö",
+    "type": "news-article",
+    "slug": "vi-ar-stolta-mottagare-av-true-star-business-award-europea-i-malmo",
+    "pathSegments": [
+      "article",
+      "vi-är-stolta-mottagare-av-true-star-business-award-europea-i-malmö"
+    ],
+    "locale": "sv",
+    "title": "Vi är stolta mottagare av TRUE Star Business Award",
+    "ogDescription": "Vi är stolta att ha mottagit TRUE Star Business Award – en utmärkelse som bekräftar vårt arbete med att skapa tillgängliga kommunikationslösningar. Priset stärker vår vision om att göra samtal enklare och mer inkluderande för alla.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp",
+    "publishDate": "2025-10-02T10:57:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/6911A3C5-8326-48EC-8C437A9DA010E953-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1038
+  },
+  {
+    "url": "https://www.tmeeting.se/article/vitalis-2025",
+    "type": "news-article",
+    "slug": "vitalis-2025",
+    "pathSegments": [
+      "article",
+      "vitalis-2025"
+    ],
+    "locale": "sv",
+    "title": "Vitalis 2025",
+    "ogDescription": "Vi är stolta över att ha varit på plats i Vitalis i år, både som besökare och som aktiva deltagare i programmet.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp",
+    "publishDate": "2025-05-23T12:41:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/861AB4D9-C0B6-46CC-8DDDF5EE61E9BFB8-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1898
+  },
+  {
+    "url": "https://www.tmeeting.se/article/tmeeting-rtt-standard",
+    "type": "news-article",
+    "slug": "tmeeting-rtt-standard",
+    "pathSegments": [
+      "article",
+      "tmeeting-rtt-standard"
+    ],
+    "locale": "sv",
+    "title": "Samarbete med ETSI – Vi formar framtidens tillgängliga kommunikation",
+    "ogDescription": "T-Meeting är nu en aktiv samarbetspartner till European Telecommunications Standards Institute (ETSI) i arbetet med att ta fram nästa generations standard för Real-Time Text (RTT).",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp",
+    "publishDate": "2025-05-23T09:11:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3F57AD3E-64A7-4908-87AC1F831352C389-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1808
+  },
+  {
+    "url": "https://www.tmeeting.se/article/t-meeting-finalist-till-årets-mångfaldsföretag-2025",
+    "type": "news-article",
+    "slug": "t-meeting-finalist-till-arets-mangfaldsforetag-2025",
+    "pathSegments": [
+      "article",
+      "t-meeting-finalist-till-årets-mångfaldsföretag-2025"
+    ],
+    "locale": "sv",
+    "title": "T-Meeting finalist till Årets Mångfaldsföretag 2025!",
+    "ogDescription": "T-Meeting har med stolthet varit finalist till Årets Mångfaldsföretag 2025 vid Inclusion Awards 2025 – ett nationellt pris som uppmärksammar företag och organisationer som gör konkret skillnad inom mångfald, inkludering och jämlikhet på arbetsmarknaden.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp",
+    "publishDate": "2025-05-23T09:10:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/B543EF57-455A-404D-9C1233D9E9ACE06F-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1607
+  },
+  {
+    "url": "https://www.tmeeting.se/article/t-meeting-satsar-på-framtiden-kompetensförsörjning-inkludering-och-tillgängliga-skolval",
+    "type": "news-article",
+    "slug": "t-meeting-satsar-pa-framtiden-kompetensforsorjning-inkludering-och-tillgangliga-skolval",
+    "pathSegments": [
+      "article",
+      "t-meeting-satsar-på-framtiden-kompetensförsörjning-inkludering-och-tillgängliga-skolval"
+    ],
+    "locale": "sv",
+    "title": "T-Meeting satsar på framtiden!",
+    "ogDescription": "Under våren 2025, lagom inför att ansökningsperioderna för skolval öppnades, blev vi på T-Meeting aktiva i Mitt Vägval – en digital plattform där skolor, företag och unga möts för att utforska framtidens yrkesval tillsammans.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp",
+    "publishDate": "2025-05-23T08:48:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BE894B5C-43AF-46FC-B67807274304680A-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2968
+  },
+  {
+    "url": "https://www.tmeeting.se/article/såhär-ansöker-du-om-våra-produkter",
+    "type": "news-article",
+    "slug": "sahar-ansoker-du-om-vara-produkter",
+    "pathSegments": [
+      "article",
+      "såhär-ansöker-du-om-våra-produkter"
+    ],
+    "locale": "sv",
+    "title": "Såhär ansöker du om hjälpmedel!",
+    "ogDescription": "Är du osäker på hur du ansöker om våra produkter/hjälpmedel? Såhär går du tillväga!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp",
+    "publishDate": "2025-05-21T12:07:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/38048C7D-D638-4F32-AC1DC2D5B544DA92-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 673
+  },
+  {
+    "url": "https://www.tmeeting.se/article/t-meeting-på-konferens-om-tillgängliga-konferenser-i-malmö",
+    "type": "news-article",
+    "slug": "t-meeting-pa-konferens-om-tillgangliga-konferenser-i-malmo",
+    "pathSegments": [
+      "article",
+      "t-meeting-på-konferens-om-tillgängliga-konferenser-i-malmö"
+    ],
+    "locale": "sv",
+    "title": "T-Meeting på konferens om tillgängliga konferenser i Malmö",
+    "ogDescription": "I april deltog T-Meeting aktivt i den stora konferensen i Malmö med fokus på tillgängliga konferenser",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp",
+    "publishDate": "2025-05-20T12:31:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5400D733-10B1-4B0E-81B3856FFCB6A9AB-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1609
+  },
+  {
+    "url": "https://www.tmeeting.se/article/konferens2024",
+    "type": "news-article",
+    "slug": "konferens2024",
+    "pathSegments": [
+      "article",
+      "konferens2024"
+    ],
+    "locale": "sv",
+    "title": "Tillgänglighetslagen 2025 -  är din verksamhet förberedd?",
+    "ogDescription": "Anmäl dig till vår heldagskonferens i Malmö den 21 november, där vi fokuserar på den kommande tillgänglighetslagen som träder i kraft i juni 2025!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp",
+    "publishDate": "2024-08-28T10:10:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/66066CA2-4171-4422-89040FD382A2E894-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2464
+  },
+  {
+    "url": "https://www.tmeeting.se/article/nyhet-tera-local-flerpart-är-nu-här",
+    "type": "news-article",
+    "slug": "nyhet-tera-local-flerpart-ar-nu-har",
+    "pathSegments": [
+      "article",
+      "nyhet-tera-local-flerpart-är-nu-här"
+    ],
+    "locale": "sv",
+    "title": "Nyhet! TERA-Local flerpart är här!",
+    "ogDescription": "Nu kan flera delta i konversationen via TERA-Local, detta med hjälp av röstigenkänning och namngivning!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp",
+    "publishDate": "2024-06-11T04:06:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/4D06E5EF-0723-4914-865411A74EA8B9AA-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1289
+  },
+  {
+    "url": "https://www.tmeeting.se/article/reportage-om-tera",
+    "type": "news-article",
+    "slug": "reportage-om-tera",
+    "pathSegments": [
+      "article",
+      "reportage-om-tera"
+    ],
+    "locale": "sv",
+    "title": "TERA som AI-baserad telefonlösning",
+    "ogDescription": "Isabelle Ibérer från Wendelin Media har gjort ett reportage om vår produkt TERA i deras tematidning \"innovativa företag\". Ni kan läsa reportaget här!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp",
+    "publishDate": "2023-06-27T11:28:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/A3D192BB-3C25-4037-B79063D966330079-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 0
+  },
+  {
+    "url": "https://www.tmeeting.se/article/händer-på-t-meeting-under-skåne-innovation-week",
+    "type": "news-article",
+    "slug": "hander-pa-t-meeting-under-skane-innovation-week",
+    "pathSegments": [
+      "article",
+      "händer-på-t-meeting-under-skåne-innovation-week"
+    ],
+    "locale": "sv",
+    "title": "Skåne Innovation Week",
+    "ogDescription": "Den 15 juni är det dags att ta del av T-Meetings bidrag till Skåne Innovations week. Du får en hel eftermiddag och kväll full av samtal om tillgänglighet, hörsel och kommunikation.  Se vilka event som äger rum hos oss!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/781114F5-C5AE-4F58-A974E3DE5B8CDB22-2000w.webp",
+    "publishDate": "2022-06-02T13:42:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/781114F5-C5AE-4F58-A974E3DE5B8CDB22-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 3126
+  },
+  {
+    "url": "https://www.tmeeting.se/article/syns-vi-på-audionomdagarna-i-maj",
+    "type": "news-article",
+    "slug": "syns-vi-pa-audionomdagarna-i-maj",
+    "pathSegments": [
+      "article",
+      "syns-vi-på-audionomdagarna-i-maj"
+    ],
+    "locale": "sv",
+    "title": "Syns vi på Audionomdagarna i maj?",
+    "ogDescription": "Lidköping blir samlingsplatsen för alla landets audionomer mellan den 11-13 maj!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp",
+    "publishDate": "2022-05-10T07:52:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/17B96B37-EC74-4EDB-9927FB9A1DD44F32-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 545
+  },
+  {
+    "url": "https://www.tmeeting.se/article/t-meeting-frågar-isabel",
+    "type": "news-article",
+    "slug": "t-meeting-fragar-isabel",
+    "pathSegments": [
+      "article",
+      "t-meeting-frågar-isabel"
+    ],
+    "locale": "sv",
+    "title": "T-Meeting frågar Isabel om teckenspråket",
+    "ogDescription": "Då det i veckan har varit den internationella modersmålsdagen så har vi ställt tre frågor till Isabel Engwall relaterat till teckenspråket.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp",
+    "publishDate": "2022-02-23T08:52:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/292CD2EE-0B77-4704-B3E24B9598B3CB37-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2365
+  },
+  {
+    "url": "https://www.tmeeting.se/article/hur-fungerar-tera",
+    "type": "news-article",
+    "slug": "hur-fungerar-tera",
+    "pathSegments": [
+      "article",
+      "hur-fungerar-tera"
+    ],
+    "locale": "sv",
+    "title": "Hur fungerar TERA? Vi förklarar på teckenspråk!",
+    "ogDescription": "Med TERA kan du ringa vem som helst med autotext och talsyntes. Vår medarbetare Veronica förklarar mer ingående hur TERA fungerar!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp",
+    "publishDate": "2021-11-26T11:16:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9C850171-83DF-4FFA-83E03D2C9AAA7593-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/650271432?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 1047
+  },
+  {
+    "url": "https://www.tmeeting.se/article/t-meetings-podd-tillgänglig-kommunikation-för-alla-släpps-i-november",
+    "type": "news-article",
+    "slug": "t-meetings-podd-tillganglig-kommunikation-for-alla-slapps-i-november",
+    "pathSegments": [
+      "article",
+      "t-meetings-podd-tillgänglig-kommunikation-för-alla-släpps-i-november"
+    ],
+    "locale": "sv",
+    "title": "Vår podd finns nu ute för er att lyssna/se på!",
+    "ogDescription": "Tillgänglig kommunikation för alla! En podd där vi diskuterar två viktiga begrepp; tillgänglighet och kommunikation.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp",
+    "publishDate": "2021-10-26T13:21:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/3D453448-24B8-45A1-B32B1970EF06FE4C-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "other",
+        "url": "https://open.spotify.com/embed/show/3CbX7Y1V09PMEqpb8ucZTH?utm_source=generator&theme=0"
+      },
+      {
+        "provider": "other",
+        "url": "https://embed.podcasts.apple.com/us/podcast/tillg%C3%A4nglig-kommunikation-f%C3%B6r-alla/id1594187815"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 1281
+  },
+  {
+    "url": "https://www.tmeeting.se/article/mer-om-tera-på-teckenspråk",
+    "type": "news-article",
+    "slug": "mer-om-tera-pa-teckensprak",
+    "pathSegments": [
+      "article",
+      "mer-om-tera-på-teckenspråk"
+    ],
+    "locale": "sv",
+    "title": "Mer om TERA på teckenspråk",
+    "ogDescription": "Det uppstår olika situationer då en tolk inte är tillgänglig, då du vill kunna ha alternativ. Då finns TERA där för dig.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp",
+    "publishDate": "2021-09-08T12:57:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/AC52C836-CE45-482B-8176FB64A230F47C-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/600229514?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 1823
+  },
+  {
+    "url": "https://www.tmeeting.se/article/tydligt-teckensprak",
+    "type": "news-article",
+    "slug": "tydligt-teckensprak",
+    "pathSegments": [
+      "article",
+      "tydligt-teckensprak"
+    ],
+    "locale": "sv",
+    "title": "Tydligt teckenspråk",
+    "ogDescription": "Till hösten kickar vi igång med ett pilotprojekt!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp",
+    "publishDate": "2021-06-21T09:51:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/5B95CFA1-3971-4F8B-B2DB2BFB1785678A-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 875
+  },
+  {
+    "url": "https://www.tmeeting.se/article/ta-med-alla-i-mötet",
+    "type": "news-article",
+    "slug": "ta-med-alla-i-motet",
+    "pathSegments": [
+      "article",
+      "ta-med-alla-i-mötet"
+    ],
+    "locale": "sv",
+    "title": "Ta med alla i mötet",
+    "ogDescription": "Videomöten med anhöriga och andra är självklart viktigt. Med T-Meeting kan alla vara med i samtalet.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/37C5A635-881F-4D8A-916E6B011BA0EE3F-2000w.webp",
+    "publishDate": "2021-03-28T08:04:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/37C5A635-881F-4D8A-916E6B011BA0EE3F-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/534360277?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 515
+  },
+  {
+    "url": "https://www.tmeeting.se/article/kontakt-med-andra",
+    "type": "news-article",
+    "slug": "kontakt-med-andra",
+    "pathSegments": [
+      "article",
+      "kontakt-med-andra"
+    ],
+    "locale": "sv",
+    "title": "Kontakt med andra",
+    "ogDescription": "Ring eller bli uppringd av döva och teckenspråkiga med bildtelefon. Hörande kan ringa dig via förmedlingstjänsten.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BEF85F3D-47EA-49F1-AB2407555284C73A-2000w.webp",
+    "publishDate": "2021-03-27T14:30:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/BEF85F3D-47EA-49F1-AB2407555284C73A-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/534360241?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 532
+  },
+  {
+    "url": "https://www.tmeeting.se/article/nåbar-när-det-gäller",
+    "type": "news-article",
+    "slug": "nabar-nar-det-galler",
+    "pathSegments": [
+      "article",
+      "nåbar-när-det-gäller"
+    ],
+    "locale": "sv",
+    "title": "Nåbar när det gäller",
+    "ogDescription": "Med T-Meeting kan du ha kontakt med andra. TM-Alert gör att du märker när någon vill nå dig.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F553326E-8C7B-4ACE-A3E20E0ECBDEEB81-2000w.webp",
+    "publishDate": "2021-03-25T14:31:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F553326E-8C7B-4ACE-A3E20E0ECBDEEB81-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/534360258?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 536
+  },
+  {
+    "url": "https://www.tmeeting.se/article/videointervju-med-harry-eriksson-om-tera",
+    "type": "news-article",
+    "slug": "videointervju-med-harry-eriksson-om-tera",
+    "pathSegments": [
+      "article",
+      "videointervju-med-harry-eriksson-om-tera"
+    ],
+    "locale": "sv",
+    "title": "Bildtelefonintervju med Harry Eriksson om TERA",
+    "ogDescription": "Harry Eriksson har testat TERA och vi har intervjuat honom om hans erfarenheter.\r\nIntervjun är gjord över video och Harry har stöd av TERA som textar samtalet för honom.",
+    "ogImage": null,
+    "publishDate": null,
+    "author": null,
+    "heroAssets": [],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/553304619?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 782
+  },
+  {
+    "url": "https://www.tmeeting.se/article/när-du-behöver-t-meeting",
+    "type": "news-article",
+    "slug": "nar-du-behover-t-meeting",
+    "pathSegments": [
+      "article",
+      "när-du-behöver-t-meeting"
+    ],
+    "locale": "sv",
+    "title": "När du behöver T-Meeting",
+    "ogDescription": "T-Meeting är tillgänglig telefoni som förskrivs som hjälpmedel. Läs mer om hur det går till här...",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/932491D7-2EA5-408B-8EA7BC4C6485ED80-2000w.webp",
+    "publishDate": "2021-02-05T14:33:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/932491D7-2EA5-408B-8EA7BC4C6485ED80-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/516265472?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 977
+  },
+  {
+    "url": "https://www.tmeeting.se/article/vid-vårdmöten-måste-alla-förstå-varandra",
+    "type": "news-article",
+    "slug": "vid-vardmoten-maste-alla-forsta-varandra",
+    "pathSegments": [
+      "article",
+      "vid-vårdmöten-måste-alla-förstå-varandra"
+    ],
+    "locale": "sv",
+    "title": "Vid vårdmöten måste alla förstå varandra",
+    "ogDescription": "Dålig samordning och kommunikation kan leda till bristande vård och omsorg. T-Meeting hjälper till...",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C076737B-AA70-4C6F-91511515FD2F1F07-2000w.webp",
+    "publishDate": "2021-02-05T14:29:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C076737B-AA70-4C6F-91511515FD2F1F07-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/516267101?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 427
+  },
+  {
+    "url": "https://www.tmeeting.se/article/vid-sjukdom-är-kontakt-med-anhöriga-extra-viktigt",
+    "type": "news-article",
+    "slug": "vid-sjukdom-ar-kontakt-med-anhoriga-extra-viktigt",
+    "pathSegments": [
+      "article",
+      "vid-sjukdom-är-kontakt-med-anhöriga-extra-viktigt"
+    ],
+    "locale": "sv",
+    "title": "Vid sjukdom är kontakt med anhöriga extra viktigt",
+    "ogDescription": "Bristande kontakt med anhöriga kan leda till oro och otrygghet.  T-Meeting hjälper till...",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/55E198BB-537A-4678-85C7DBDBE34FA01B-2000w.webp",
+    "publishDate": "2021-02-05T14:28:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/55E198BB-537A-4678-85C7DBDBE34FA01B-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/516267038?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 465
+  },
+  {
+    "url": "https://www.tmeeting.se/article/enkel-åtkomst-till-tolk-vid-läkarbesök",
+    "type": "news-article",
+    "slug": "enkel-atkomst-till-tolk-vid-lakarbesok",
+    "pathSegments": [
+      "article",
+      "enkel-åtkomst-till-tolk-vid-läkarbesök"
+    ],
+    "locale": "sv",
+    "title": "Enkel åtkomst till tolk vid läkarbesök",
+    "ogDescription": "Personal på sjukhus kan vara stressade och därmed missa att beställa tolk. T-Meeting hjälper till...",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/178C0F83-72DB-48E3-986A33A522C5651C-2000w.webp",
+    "publishDate": "2021-02-05T13:20:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/178C0F83-72DB-48E3-986A33A522C5651C-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/516266939?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 463
+  },
+  {
+    "url": "https://www.tmeeting.se/article/harry-testar-tera-i-fem-månader",
+    "type": "news-article",
+    "slug": "harry-testar-tera-i-fem-manader",
+    "pathSegments": [
+      "article",
+      "harry-testar-tera-i-fem-månader"
+    ],
+    "locale": "sv",
+    "title": "Harry testar TERA i fem månader",
+    "ogDescription": "Under 10 år har Harry Eriksson inte kunnat använda telefon men nu har Harry provat TERA under fem månader. läs hela intervjun!",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp",
+    "publishDate": "2020-12-18T11:05:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/1C781E30-A1E4-496F-B00B5D0956B16AAE-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [
+      {
+        "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/harry-artikel-för-hemsida-2021.pdf?202106241155",
+        "label": "Du kan läsa hela intervjun här."
+      }
+    ],
+    "bodyTextLength": 390
+  },
+  {
+    "url": "https://www.tmeeting.se/article/hedersomnämnande-for-t-meeting-i-inuse-award",
+    "type": "news-article",
+    "slug": "hedersomnamnande-for-t-meeting-i-inuse-award",
+    "pathSegments": [
+      "article",
+      "hedersomnämnande-for-t-meeting-i-inuse-award"
+    ],
+    "locale": "sv",
+    "title": "Hedersomnämnande för T-Meeting i inUse Award",
+    "ogDescription": "T-Meeting fick hedersomnämnande i prestigefulla inUse Awards 2020. Det är en fin bekräftelse på att vi verkligen gör användarnas vardag enklare.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp",
+    "publishDate": "2020-11-25T20:08:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/F1B45A2C-893B-444A-93917C445F65CDEC-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 336
+  },
+  {
+    "url": "https://www.tmeeting.se/article/dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk",
+    "type": "news-article",
+    "slug": "dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk",
+    "pathSegments": [
+      "article",
+      "dov-pa-sjukhus-och-gruppmote-over-video-taltelefon-och-med-tolk"
+    ],
+    "locale": "sv",
+    "title": "Döv på sjukhus och gruppmöte över video, taltelefon och med tolk",
+    "ogDescription": "Vi berättar hur användaren kan koppla in tolk i samtalet i vården- utan att sjukhuspersonalen belastas.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp",
+    "publishDate": "2020-06-03T13:17:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/70265BD8-7D9D-4C38-960BBE91FCF88511-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2293
+  },
+  {
+    "url": "https://www.tmeeting.se/article/döva-på-boenden-behöver-egen-telefon",
+    "type": "news-article",
+    "slug": "dova-pa-boenden-behover-egen-telefon",
+    "pathSegments": [
+      "article",
+      "döva-på-boenden-behöver-egen-telefon"
+    ],
+    "locale": "sv",
+    "title": "Döva på boenden behöver egen telefon",
+    "ogDescription": "En döv på ett boende som behöver en egen bildtelefon har rätt till detta, precis som alla andra som har egen telefon.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp",
+    "publishDate": "2020-05-06T09:49:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/9726B936-1CEA-4818-BF91877FE66769B5-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1621
+  },
+  {
+    "url": "https://www.tmeeting.se/article/tera-öppna-dörren",
+    "type": "news-article",
+    "slug": "tera-oppna-dorren",
+    "pathSegments": [
+      "article",
+      "tera-öppna-dörren"
+    ],
+    "locale": "sv",
+    "title": "Med TERA 'hör' alla vem som ringer på dörren.",
+    "ogDescription": "Äldre behöver idag hjälp med att handla. Med TERA-textade telefonsamtal kan även hörselvarierade enkelt kommunicera. Mottagaren använder sin vanliga telefon. När det ringer på porttelefonen är det enkelt att släppa in rätt person.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp",
+    "publishDate": "2020-04-22T20:18:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/72A5E1EA-30AA-4B82-9D9AFD05627366FA-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 1736
+  },
+  {
+    "url": "https://www.tmeeting.se/article/från-tolk-i-fickan-till-distanstolk-vid-behov",
+    "type": "news-article",
+    "slug": "fran-tolk-i-fickan-till-distanstolk-vid-behov",
+    "pathSegments": [
+      "article",
+      "från-tolk-i-fickan-till-distanstolk-vid-behov"
+    ],
+    "locale": "sv",
+    "title": "Från Tolk i fickan till Distanstolk vid behov",
+    "ogDescription": "Det finns olika vägar att komma igång och utvecklas med de smarta tolklösningar med T-Meetings plattform har.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp",
+    "publishDate": "2020-04-15T14:41:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/CBF17EE3-9A31-4D76-9BDF6FD33BDBC65C-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 3434
+  },
+  {
+    "url": "https://www.tmeeting.se/article/tera-komplett-kommuntikation",
+    "type": "news-article",
+    "slug": "tera-komplett-kommuntikation",
+    "pathSegments": [
+      "article",
+      "tera-komplett-kommuntikation"
+    ],
+    "locale": "sv",
+    "title": "TERA - Komplett Kommunikation",
+    "ogDescription": "TERA har inbyggd automatisk textning och talsyntes, TERA-AI som bygger på AI/ML (Machine Learning). TERA har utvecklats från T-Meetings hjälpmedel för döva, dövblinda och hörselskadade och har därför även video.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp",
+    "publishDate": "2020-04-01T19:30:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/E470A09E-3E3B-4C06-92F6071ADD78FB7C-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/402990184?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/402525822?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/402499901?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/402555283?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/369284692?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "vimeo",
+        "url": "https://player.vimeo.com/video/404564926?dnt=1&byline=0&portrait=0"
+      },
+      {
+        "provider": "youtube",
+        "url": "https://www.youtube-nocookie.com/embed/-m8gC3gu9fk?vq=hd1080&rel=0&fs=1"
+      }
+    ],
+    "downloads": [],
+    "bodyTextLength": 6144
+  },
+  {
+    "url": "https://www.tmeeting.se/article/flerpartssamtal-på-distans-med-teckenspråkstolk",
+    "type": "news-article",
+    "slug": "flerpartssamtal-pa-distans-med-teckensprakstolk",
+    "pathSegments": [
+      "article",
+      "flerpartssamtal-på-distans-med-teckenspråkstolk"
+    ],
+    "locale": "sv",
+    "title": "Se den du pratar med och tolken samtidigt",
+    "ogDescription": "Finns det en lösning där det går att se den en ringer till och tolken samtidigt? Till exempel för ett videosamtal med vården?",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp",
+    "publishDate": "2020-03-23T11:00:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/FC96AA9F-8CAD-4968-84F016BF55CBAE96-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2832
+  },
+  {
+    "url": "https://www.tmeeting.se/article/distansundervisning-for-horselskadade",
+    "type": "news-article",
+    "slug": "distansundervisning-for-horselskadade",
+    "pathSegments": [
+      "article",
+      "distansundervisning-for-horselskadade"
+    ],
+    "locale": "sv",
+    "title": "Distansundervisning för hörselskadade",
+    "ogDescription": "För distansunervisning för hörselvarierade finns lösningar för situationer som exempelvis: Textade telefonsamtal, Videomöten på distans, Flerpartssamtal och Lokal textning (skrivtolk i fickan).",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp",
+    "publishDate": "2020-03-22T11:43:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/D4E6892B-0B6E-4907-A42E3C0E97BA6FCC-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 3897
+  },
+  {
+    "url": "https://www.tmeeting.se/article/vad-fungerar-lättast-med-livetextning",
+    "type": "news-article",
+    "slug": "vad-fungerar-lattast-med-livetextning",
+    "pathSegments": [
+      "article",
+      "vad-fungerar-lättast-med-livetextning"
+    ],
+    "locale": "sv",
+    "title": "Varför ska jag välja TERA för tal-till-text?",
+    "ogDescription": "Det har kommit in en fråga:\r\nFysiska möten ersätts i rasande fart med digitala då många kommer att få jobba hemifrån fortsättningsvis. Vilket ställer till det för hörselskadade och döva. Vilka av videokonferenssystemen på marknaden fungerar lättast med livetextning?",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp",
+    "publishDate": "2020-03-18T18:26:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/32F28B3E-C6CC-4A11-A97E04620A01CF16-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1375
+  },
+  {
+    "url": "https://www.tmeeting.se/article/skrivtolkning-med-tera-och-distanstolken",
+    "type": "news-article",
+    "slug": "skrivtolkning-med-tera-och-distanstolken",
+    "pathSegments": [
+      "article",
+      "skrivtolkning-med-tera-och-distanstolken"
+    ],
+    "locale": "sv",
+    "title": "Minska smittrisken: Skrivtolkning med TERA och Distanstolken",
+    "ogDescription": "Med hjälp av TERA-Local kan skrivtolkning ske på plats med automatisk AI-tolk. Med TERA kan även telefonsamtal textas automatiskt. Distanstolken kan användas för skrivtolkning på distans.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp",
+    "publishDate": "2020-03-16T17:00:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/63ECBC79-971B-411D-AA13F312D96EBC99-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2851
+  },
+  {
+    "url": "https://www.tmeeting.se/article/distanstolkning-teckenspråk",
+    "type": "news-article",
+    "slug": "distanstolkning-teckensprak",
+    "pathSegments": [
+      "article",
+      "distanstolkning-teckenspråk"
+    ],
+    "locale": "sv",
+    "title": "Distanstolkning - teckenspråk",
+    "ogDescription": "T-Meetings plattform gör att ordinarie tolkar säkert kan arbeta på distans, på kontoret eller i hemmet. Tryggt för sjukvårdspersonal, användarna och deras anhöriga. Plattformen bygger på öppen standard och telefoni - passar alltså med hjälpmedel som redan förskrivs till anhöriga och döva. Möjlighet till flerpartssamtal gör att fler kan kopplas upp även befintlig tolktjänst 24/7/365.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp",
+    "publishDate": "2020-03-16T16:55:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/C26E24C1-B868-4A9D-BF5EC7A8561BFD3A-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 2989
+  },
+  {
+    "url": "https://www.tmeeting.se/article/rengoring-av-mobil",
+    "type": "news-article",
+    "slug": "rengoring-av-mobil",
+    "pathSegments": [
+      "article",
+      "rengoring-av-mobil"
+    ],
+    "locale": "sv",
+    "title": "Rengöring av mobil",
+    "ogDescription": "I och med Corona (covid-19) så kan det vara bra att då och då rengöra din telefon/platta utöver att tvätta händerna oftare.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp",
+    "publishDate": "2020-03-16T14:39:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/095EE104-B37F-4F6D-BA080C12E3AAB55A-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 1203
+  },
+  {
+    "url": "https://www.tmeeting.se/article/läs-mer-om-tera",
+    "type": "news-article",
+    "slug": "las-mer-om-tera",
+    "pathSegments": [
+      "article",
+      "läs-mer-om-tera"
+    ],
+    "locale": "sv",
+    "title": "Läs mer om TERA",
+    "ogDescription": "Här finns länkar till broschyrer och annan information om TERA",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp",
+    "publishDate": "2019-05-25T14:41:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/0688CF10-4F4A-4CBD-998953452C154C26-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [
+      {
+        "url": "https://www.dropbox.com/s/paqfxur5bwozrit/TERA%20bladet%201909.pdf?dl=0",
+        "label": "TERA bladet 1909"
+      },
+      {
+        "url": "https://www.dropbox.com/s/b92wqf78dyy56q5/TERA%20som%20hj%C3%A4lpmedel%20i%20vardagen%20ver1904_print.pdf?dl=0",
+        "label": "TERA som hjälpmedel i vardagen"
+      },
+      {
+        "url": "https://www.dropbox.com/s/8brwkt5ml7c0o8e/TERA%20som%20hj%C3%A4lpmedel%20i%20arbetet%20ver1904_print.pdf?dl=0",
+        "label": "TERA som hjälpmedel i arbetet"
+      },
+      {
+        "url": "https://www.dropbox.com/s/3pkvvbzjv9tqjax/TERA%20bladet%201904_print.pdf?dl=0",
+        "label": "TERA bladet 1904"
+      }
+    ],
+    "bodyTextLength": 940
+  },
+  {
+    "url": "https://www.tmeeting.se/article/tm-push-alltid-nåbar",
+    "type": "news-article",
+    "slug": "tm-push-alltid-nabar",
+    "pathSegments": [
+      "article",
+      "tm-push-alltid-nåbar"
+    ],
+    "locale": "sv",
+    "title": "TM-Push - alltid nåbar",
+    "ogDescription": "Det är först när man är nåbar som man är tillgänglig.\r\nTM-Push gör att det ringer i mobilen oavsett om appen är igång eller inte.",
+    "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/85238EE8-C2E8-46E8-B103402B66DFEFF8-2000w.webp",
+    "publishDate": "2018-09-30T14:46:00Z",
+    "author": null,
+    "heroAssets": [
+      "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/blog/85238EE8-C2E8-46E8-B103402B66DFEFF8-2000w.webp"
+    ],
+    "images": [],
+    "embeds": [],
+    "downloads": [],
+    "bodyTextLength": 845
+  }
+]

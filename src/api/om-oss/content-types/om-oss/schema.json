@@ -1,0 +1,35 @@
+{
+  "kind": "singleType",
+  "collectionName": "om_oss",
+  "info": {
+    "singularName": "om-oss",
+    "pluralName": "om-osses",
+    "displayName": "Om oss",
+    "description": "All editable content on the /om-oss page."
+  },
+  "options": { "draftAndPublish": true },
+  "pluginsOptions": { "i18n": { "localized": true } },
+  "attributes": {
+    "heroH1": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroLead": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "kundfokusH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "kundfokusBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "innovationH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "innovationIntro": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "innovationItems": {
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.list-item",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "innovationClosing": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "historiaH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "historiaBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "medarbetareH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "medarbetareBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "jobbaH2": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "jobbaBody": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "jobbaContactText": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "jobbaEmail": { "type": "string" }
+  }
+}

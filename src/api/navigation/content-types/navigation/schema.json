@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "navigation",
+  "info": {
+    "singularName": "navigation",
+    "pluralName": "navigations",
+    "displayName": "Navigation",
+    "description": "Global site header — logo and menu structure."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginsOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "logo": {
+      "allowedTypes": ["images"],
+      "type": "media",
+      "multiple": false
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.nav-item",
+      "pluginsOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "ctaLabel": {
+      "type": "string",
+      "pluginsOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "ctaHref": {
+      "type": "string"
+    }
+  }
+}

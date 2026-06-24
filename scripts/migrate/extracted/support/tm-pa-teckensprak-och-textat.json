@@ -1,0 +1,69 @@
+{
+  "url": "https://www.tmeeting.se/support/manualer/tm-på-teckenspråk-och-textat",
+  "type": "support",
+  "slug": "tm-pa-teckensprak-och-textat",
+  "pathSegments": [
+    "support",
+    "manualer",
+    "tm-på-teckenspråk-och-textat"
+  ],
+  "locale": "sv",
+  "title": "TM på teckenspråk och textat",
+  "ogDescription": null,
+  "ogImage": null,
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vSR3kqJnDL26WS1QwIjNdAz81X0zY3RqNGFj8KJW9es1spYf2FXcoAdMDQRja9e5ViT4nKpXZxeJEJK/pub",
+          "children": [
+            {
+              "type": "text",
+              "text": "Manual i bilder och länkar till teckenspråkig information"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "TM(/TERA)-Touch/Mobile/PC Instruktion på Teckenspråk och Textat",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "link",
+          "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/tm-touch-ipad-lathund-ver.1.00.pdf?201809101212",
+          "children": [
+            {
+              "type": "text",
+              "text": "Här kan du läsa lathunden, TIPS: skriv ut den så du kan ha den som komihåg "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [
+    {
+      "url": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/library/tm-touch-ipad-lathund-ver.1.00.pdf?201809101212",
+      "label": "Här kan du läsa lathunden, TIPS: skriv ut den så du kan ha den som komihåg"
+    }
+  ],
+  "bodyTextLength": 222
+}

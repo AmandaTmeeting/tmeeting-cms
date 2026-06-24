@@ -1,0 +1,33 @@
+{
+  "url": "https://www.tmeeting.se/product/tm-pc-pro",
+  "type": "product",
+  "slug": "tm-pc-pro",
+  "pathSegments": [
+    "product",
+    "tm-pc-pro"
+  ],
+  "locale": "sv",
+  "title": "TM-PC PRO",
+  "ogDescription": "for relay centre operators",
+  "ogImage": "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/F8F20D76-2CC9-41DE-97015D780DA14B64-2000w.webp?20171106014817",
+  "publishDate": null,
+  "author": null,
+  "heroAssets": [
+    "https://cdn-asset-stl-2.airsquare.com/tmeetingsweden/managed/image/product/F8F20D76-2CC9-41DE-97015D780DA14B64-2000w.webp"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "for relay centre operators"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "embeds": [],
+  "downloads": [],
+  "bodyTextLength": 35
+}
