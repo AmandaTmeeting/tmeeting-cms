@@ -110,7 +110,7 @@ async function setupLocales(strapi: Core.Strapi) {
   const defaultLocale = allLocales.find((l) => l.code === DEFAULT_LOCALE);
 
   if (defaultLocale && !defaultLocale.isDefault) {
-    await localeService.setDefaultLocale({ id: defaultLocale.id });
+    await localeService.setDefaultLocale({ code: defaultLocale.code });
     strapi.log.info(`[bootstrap] Default locale set to "${DEFAULT_LOCALE}" (Svenska)`);
   }
 
