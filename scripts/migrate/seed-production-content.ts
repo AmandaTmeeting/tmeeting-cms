@@ -28,7 +28,7 @@ const headers = {
 async function strapiGet(endpoint: string): Promise<{ data: any }> {
   const res = await fetch(`${BASE_URL}/api/${endpoint}`, { headers });
   if (!res.ok) return { data: null };
-  return res.json();
+  return (await res.json()) as { data: any };
 }
 
 async function strapiPost(endpoint: string, data: Record<string, unknown>) {
