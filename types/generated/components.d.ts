@@ -53,6 +53,20 @@ export interface PagesListItem extends Struct.ComponentSchema {
   };
 }
 
+export interface PagesSegmentCard extends Struct.ComponentSchema {
+  collectionName: 'components_pages_segment_cards';
+  info: {
+    description: 'A product-segment chooser card (Privat/F\u00F6retag) with title, description, and image.';
+    displayName: 'Segment Card';
+    icon: 'layout';
+  };
+  attributes: {
+    description: Schema.Attribute.Text;
+    image: Schema.Attribute.Media<'images'>;
+    title: Schema.Attribute.String & Schema.Attribute.Required;
+  };
+}
+
 export interface PagesServiceCard extends Struct.ComponentSchema {
   collectionName: 'components_pages_service_cards';
   info: {
@@ -149,6 +163,7 @@ declare module '@strapi/strapi' {
       'homepage.cta-button': HomepageCtaButton;
       'homepage.product-card': HomepageProductCard;
       'pages.list-item': PagesListItem;
+      'pages.segment-card': PagesSegmentCard;
       'pages.service-card': PagesServiceCard;
       'shared.nav-item': SharedNavItem;
       'shared.nav-link': SharedNavLink;

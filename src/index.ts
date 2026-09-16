@@ -59,6 +59,7 @@ const PUBLIC_PERMISSIONS = [
   'api::samarbete.samarbete.find',
   'api::support-page.support-page.find',
   'api::contact-page.contact-page.find',
+  'api::produkter-page.produkter-page.find',
 ];
 
 async function setupPublicPermissions(strapi: Core.Strapi) {

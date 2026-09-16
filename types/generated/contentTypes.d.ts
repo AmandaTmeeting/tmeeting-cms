@@ -882,6 +882,12 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
         };
       }>;
     publishedAt: Schema.Attribute.DateTime;
+    segment: Schema.Attribute.Enumeration<['PRIVAT', 'FORETAG', 'BOTH']> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: false;
+        };
+      }>;
     seoDescription: Schema.Attribute.Text &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
@@ -907,6 +913,38 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
           localized: false;
         };
       }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiProdukterPageProdukterPage extends Struct.SingleTypeSchema {
+  collectionName: 'produkter_page';
+  info: {
+    description: 'All editable content on the /produkter overview page (hero + Privat/F\u00F6retag chooser cards).';
+    displayName: 'Produkter Page';
+    pluralName: 'produkter-pages';
+    singularName: 'produkter-page';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    foretagCard: Schema.Attribute.Component<'pages.segment-card', false>;
+    heroH1: Schema.Attribute.String;
+    heroLead: Schema.Attribute.Text;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::produkter-page.produkter-page'
+    > &
+      Schema.Attribute.Private;
+    privatCard: Schema.Attribute.Component<'pages.segment-card', false>;
+    publishedAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1877,6 +1915,7 @@ declare module '@strapi/strapi' {
       'api::om-oss.om-oss': ApiOmOssOmOss;
       'api::page.page': ApiPagePage;
       'api::product.product': ApiProductProduct;
+      'api::produkter-page.produkter-page': ApiProdukterPageProdukterPage;
       'api::samarbete.samarbete': ApiSamarbeteSamarbete;
       'api::service.service': ApiServiceService;
       'api::site-setting.site-setting': ApiSiteSettingSiteSetting;

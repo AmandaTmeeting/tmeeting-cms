@@ -43,6 +43,11 @@
       "enum": ["SE", "NO", "BOTH"],
       "pluginOptions": { "i18n": { "localized": false } }
     },
+    "segment": {
+      "type": "enumeration",
+      "enum": ["PRIVAT", "FORETAG", "BOTH"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
     "heroImage": {
       "type": "media",
       "multiple": false,

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_pages_segment_cards",
+  "info": {
+    "displayName": "Segment Card",
+    "icon": "layout",
+    "description": "A product-segment chooser card (Privat/Företag) with title, description, and image."
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "description": {
+      "type": "text",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["images"]
+    }
+  }
+}

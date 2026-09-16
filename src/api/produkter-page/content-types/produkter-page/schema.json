@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "produkter_page",
+  "info": {
+    "singularName": "produkter-page",
+    "pluralName": "produkter-pages",
+    "displayName": "Produkter Page",
+    "description": "All editable content on the /produkter overview page (hero + Privat/Företag chooser cards)."
+  },
+  "options": { "draftAndPublish": true },
+  "pluginsOptions": { "i18n": { "localized": true } },
+  "attributes": {
+    "heroH1": { "type": "string", "pluginsOptions": { "i18n": { "localized": true } } },
+    "heroLead": { "type": "text", "pluginsOptions": { "i18n": { "localized": true } } },
+    "privatCard": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pages.segment-card",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    },
+    "foretagCard": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pages.segment-card",
+      "pluginsOptions": { "i18n": { "localized": true } }
+    }
+  }
+}
