@@ -922,7 +922,7 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
 export interface ApiProdukterPageProdukterPage extends Struct.SingleTypeSchema {
   collectionName: 'produkter_page';
   info: {
-    description: 'All editable content on the /produkter overview page (hero + Privat/F\u00F6retag chooser cards).';
+    description: 'All editable content on the /produkter overview page (hero + Privat/F\u00F6retag chooser cards), plus the heading, intro and empty-state text for the two listing pages /produkter/privat and /produkter/foretag.';
     displayName: 'Produkter Page';
     pluralName: 'produkter-pages';
     singularName: 'produkter-page';
@@ -935,6 +935,9 @@ export interface ApiProdukterPageProdukterPage extends Struct.SingleTypeSchema {
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     foretagCard: Schema.Attribute.Component<'pages.segment-card', false>;
+    foretagEmptyText: Schema.Attribute.Text;
+    foretagH1: Schema.Attribute.String;
+    foretagLead: Schema.Attribute.Text;
     heroH1: Schema.Attribute.String;
     heroLead: Schema.Attribute.Text;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
@@ -944,6 +947,9 @@ export interface ApiProdukterPageProdukterPage extends Struct.SingleTypeSchema {
     > &
       Schema.Attribute.Private;
     privatCard: Schema.Attribute.Component<'pages.segment-card', false>;
+    privatEmptyText: Schema.Attribute.Text;
+    privatH1: Schema.Attribute.String;
+    privatLead: Schema.Attribute.Text;
     publishedAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
